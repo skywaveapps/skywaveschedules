@@ -9,7 +9,7 @@ Information Collection and Use
 I want to inform you that whenever you use Skywave Radio Schedules no data is collected about you by the app, when you use the app or carry out an update to the schedules, the website you visit may collect information about your connection to the server, but the app will not collect any information about you or your device.
 The app requires permission to connect to the internet to download a schedules update, but will only do this when you request it. Part of this process involves saving data to read/write data to the built in storage area on your device in order to present the update to the app and thefore also requires storage permissions. You will have to agree to these permissions prior to installing the app. 
 
-The app does use third party services that may collect information used to identify you, however Google Play Services may collect information about you and I recommend you read their Privacy Policy.
+The app does not collect information used to identify you, however the app delivery system Google Play Services may collect information about you and I recommend you read their Privacy Policy.
 
 Link to privacy policy of third party service providers used by the app
 Google Play Services: https://www.google.com/policies/privacy
