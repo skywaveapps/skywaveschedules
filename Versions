@@ -1,0 +1,195 @@
+v1.1.34 Beta
+- Added Favourites (seperate lists for Utility & BC)
+- Fixed layout issue
+- Updated EiBi list
+
+v1.1.33
+- Layout changes for Tablet compatibility
+- Minor textual changes
+
+v1.1.32
+- Added target to title instead of broadcasters country and switched round
+- Added Freq out of band detect
+
+v1.1.31
+- More layout tweaks
+- Filtered out a utility station found in BC schedule
+- Tweaked stations lookup list
+- Fixed bug with no filter box switching to BC from Utility Stations
+- Sorted menu alphabetically (except Exit!)
+
+v1.1.30
+- Better layout for smaller screens
+- Back button at bottom in Fullscreen Mode
+- Fixed Backbtn
+
+v1.1.29
+- Added better support for older Android APIs
+- Minor textual changes
+- Updated list
+
+v1.1.28
+- Changed API from 19 to 22 to 13 to 22
+
+v1.1.27
+- Added Online update schedule feature to menu (Beta)
+- Capitalised ON-AIR/ANYTIME
+- Needs Permissions: Read/Write, Full network access/View network connections for Online Update Schedules feature
+- Added better About box
+- Improved Fullscreen mode, now auto fullscreen after search carried out (once enabled)
+- Improved Bandfilter
+- Removed Stations list and stationbox and added one box that has an auto lookup as you type (dual purpose)
+- Tweaked theme
+- Changed update location
+
+v1.1.26
+- Updated Schedule List
+- Fixed Single Instance bug
+
+v1.1.25
+- Improved More info box
+- Added better error handling
+- Now Skywave Schedules
+
+v1.1.24
+- Added utility list
+- List updated
+- Minor bug fixes
+
+v1.1.23
+- Fixed bug in Bandfilter
+- Added 'updated date' to about
+- Updated list
+
+v1.1.22
+- Improved Band select info
+- Added Utility option
+- Fixed bug in upcoming stations
+- Better reset option
+- Moved Upcoming stations back to menu
+- Added Broadcaster Country error checking
+- Added 'Fullscreen Mode' option in Menu
+- Made layout better for low screen res/dpi phones
+- Improved resolution for frequency
+- Updated list
+
+v1.1.21
+- Improved keyboard close function
+- Stop app closing with Back button - now use menu to exit
+- Added better info for Band select
+- Added Utility station to black list
+
+v1.1.20
+- Added band feature
+- Updated list
+- Fixed bug in upcoming stations
+
+v1.1.19
+- Updated list
+- Fixed bug in upcoming stations
+
+v1.1.18
+- Added full screen list
+- Fixed minor bug in upcoming bc stations
+
+v1.1.17
+- Fixed bug in days more info box
+- Added selected station, Freq etc to show on Title/Subtitle
+
+v1.1.16
+- Added Start/Finish Date and Last Heard in the more info box (Tap list)
+- List now filtered on startup (Under further development)
+- Fixed bug in upcoming stations
+- Added Turkish and other 'Most common Languages' (request by Seyfi Genc)
+- Minor textual changes
+
+v1.1.15
+- Fixed bug in upcoming stations
+- Switched Reset, Search & Anytime/On Air component types
+
+v1.1.14
+- Added upcoming stations feature (Menu)
+- Minor GUI tweaks
+
+v1.1.13
+- Added station list
+- Minor changes to list
+
+v1.1.12
+- Minor layout tweaks for high res phones
+- Increased time on screen for station tap messagebox
+- Centered messagebox
+ 
+v1.11
+- Layout changes to buttons (Guy Atkins)
+
+v.1.10
+- Layout changes to Buttons
+
+v1.1.9
+- Swapped round Freq/Time, Lang/Target boxes and AnyTime/Reset buttons
+- Added color to list title
+- Minor font size changes
+- Added row highlight
+
+v1.1.8
+- Minor layout changes
+
+v1.1.7
+- Minor layout changes
+
+v1.1.6
+- Minor layout changes
+
+v1.1.5
+- Updated internal list
+
+v1.1.4
+- Updated internal list
+
+v1.1.3
+- Updated list, removed unused entries (past events)
+- Fixed bug in special days
+
+v1.1.2
+- Updated list, removed unused entries (past events)
+- Fix bug in processing of filtered view
+- Added better detection of special days
+- Minor changes to Transmitter list
+
+v1.1.1
+- Updated list
+- Fixed bug in 'Any' Time search
+- Minor font changes for better contrast
+- Fixed bug in Transmitter lookup
+
+v1.1.0
+- Updated list
+- Fixed bug in manual time search
+- Minor changes to Transmitter list
+- Minor changes to station select
+
+v1.0.9
+- Added lookup for transmitter sites
+- Added Country to be part of transmitter site/location
+- Made listing more accurate
+- Minor label and layout changes
+- Changed time selector
+- Improved station select
+- Updated list
+- Fixed bugs in search
+- Added day filter to search with 'On Air'
+- Updated station select list
+
+v1.0.8
+- Added option to update the CSV list via the net
+- Added better string handling for lack of data of Power, Transmitter, Bearing and DOW
+- Updated list
+
+v1.0.7
+- Added CSV file 
+- Updated list
+
+v1.0.6 (Initial public release)
+- Fixed bug in start/stop times
+- Updated list
