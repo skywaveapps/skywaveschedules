@@ -1,6 +1,6 @@
 v1.1.35 Beta (unreleased)
 - Added future years A/B season changeover for the next 20 years
 - Better Day detect, detects single/mutiple days and filters out results of broadcasts not on-air that day
+- Detects summer/winter listings in EiBi list and only displays correct season
 - Minor textual changes
 - Updated Eibi List
- 
