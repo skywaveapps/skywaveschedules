@@ -1,0 +1,5 @@
+v1.1.34 Beta (unreleased)
+- Better Day detect, detects single/mutiple days and filters out results on broadcasts not on-air on that day
+- Minor textual changes
+- Updated Eibi List
+ 
