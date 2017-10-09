@@ -1113,6 +1113,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1584;1700-1830;We;I;Radio IBC;I;Eu;;2;;
 1584;1830-1900;We;I;Radio IBC;E;Eu;;2;;
 1584;2000-2030;Sa;I;Radio IBC;E;Eu;;2;;
+1593;0000-2400;MoTuWeThFrSaSu;F;Bretagne5;F;F;s;1;;
 1593;0000-2400;;I;Gold 15-93;I;SEu;;1;;
 1593;0305-0320;Sa;ROU;Radio Cluj;UK;UKR;;2;;
 1593;0720-0730;Su;ROU;Radio Bukarest;D;ROU;;2;;
