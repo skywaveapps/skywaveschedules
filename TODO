@@ -1,4 +1,5 @@
 DONE - Add future years season changes to at least the next 20 years
 DONE - Add Frequency +-10kHz results
+DONE - Detect Days with Mo-Fr, Su-Tu entries to Mon Tue Wed etc.
 - Improve language lookup
-- Detect Days with Mo-Fr, Su-Tu entries to Mon Tue Wed etc. and show in results only when on-air
+- Show Mo-Fr, Th-Su etc. in results only when on-air
