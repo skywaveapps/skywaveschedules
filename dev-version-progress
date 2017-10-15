@@ -1,7 +1,6 @@
 v1.1.35 Beta (unreleased)
 - Added +-10kHz Frequency search option 
 - Tidy up of utility station name lookups
-- Better Day detect, detects single/mutiple days in format Su/SuMoTu and filters out results of broadcasts not on-air that day
 - Detects 'Mo-We' day type format to display a more readable format of 'Mon Tue Wed' instead
 - Detects summer/winter listings in EiBi list and only displays correct season
 - Minor textual changes
