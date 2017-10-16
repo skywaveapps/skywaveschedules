@@ -4,6 +4,7 @@ v1.1.35 Beta (unreleased)
 - Detects 'Mo-We' day type format to display a more readable format of 'Mon Tue Wed' instead
 - Detects summer/winter listings in EiBi list and only displays correct season
 - Fixed minor bug in Upcoming Stations
+- Changed ON-AIR colour to Red
 - Minor textual changes
 - Minor layout changes to accommodate new component
 - Updated Eibi List
