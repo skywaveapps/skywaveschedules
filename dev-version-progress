@@ -3,7 +3,7 @@ v1.1.35 Beta (unreleased)
 - Tidy up of utility station name lookups
 - Detects 'Mo-We' day type format to display a more readable format of 'Mon Tue Wed' instead
 - Detects summer/winter listings in EiBi list and only displays correct season
-- Added wildcard to the end of Frequency entry so off frequency schedules captured in search e.g. 6010.1
+- Added wildcard to the end of Frequency entry so offset frequency schedules captured in search e.g. 6010.1
 - Fixed minor bug in Upcoming Stations
 - Changed ON-AIR colour to Red
 - Minor textual changes
