@@ -5,7 +5,8 @@ v1.1.35 Beta (unreleased)
 - Detects summer/winter listings in EiBi list and only displays correct season
 - Added wildcard to the end of Frequency entry so offset frequency schedules captured in search e.g. 6010.1
 - Changed ON-AIR colour to Red
-- Fixed minor bug in Upcoming Stations
+- Fixed bug in Frequency out of band detect
+- Fixed bug in Upcoming Stations
 - Minor textual changes
 - Minor layout changes to accommodate new component
 - Updated Eibi List
