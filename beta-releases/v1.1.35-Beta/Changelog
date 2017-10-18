@@ -7,6 +7,7 @@ v1.1.35 Beta (unreleased)
 - Tidy up of utility station name lookups
 - Fixed bug in Frequency out of band detect
 - Fixed bug in Upcoming Stations
+- Fixed some layout issues
 - Minor textual changes
 - Minor layout changes to accommodate new component
 - Updated Eibi List
