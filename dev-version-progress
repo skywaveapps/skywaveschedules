@@ -1,13 +1,2 @@
-v1.1.35 Beta (unreleased)
-- Added +-10kHz Frequency search option 
-- Better day detect filters out stations for non-current single and multiple days for day formats 1234, MoTuWeTh, Mo,Su
-- Detects summer/winter listings in EiBi list and only displays correct season
-- Changed ON-AIR colour to Red
-- Better Frequency keyboard layout
-- Tidy up of utility station name lookups
-- Fixed bug in Frequency out of band detect
-- Fixed bug in Upcoming Stations
-- Fixed some layout issues
-- Minor textual changes
-- Updated internal EiBi list
-
+v1.1.36 Beta (unreleased)
+- Fixed bug in Frequency search
