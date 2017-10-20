@@ -1,5 +1,5 @@
 v1.1.35 Beta
-- Added +-10kHz Frequency search option 
+- Added +-10kHz Frequency search option
 - Better day detect filters out stations for non-current single and multiple days for day formats 1234, MoTuWeTh, Mo,Su
 - Detects summer/winter listings in EiBi list and only displays correct season
 - Changed ON-AIR colour to Red
