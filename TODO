@@ -1,5 +1,3 @@
-DONE - Add future years season changes to at least the next 20 years
-DONE - Add Frequency +-10kHz results
-DONE - Detect Days with Mo-Fr, Su-Tu entries to Mon Tue Wed etc.
 - Improve language lookup
 - Add Logbook
+- Add date check for online schedules update
