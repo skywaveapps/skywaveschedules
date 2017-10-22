@@ -1,4 +1,2 @@
-v1.1.37 Beta (unreleased)
-- Updated internal EiBi list
-- Added some more BC stations to lookup
-- Added more languages
+v1.1.38 Beta (unreleased)
+- Switched Station and Times around in the list
