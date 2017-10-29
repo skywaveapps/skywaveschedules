@@ -1843,7 +1843,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3169;1930-1935;Sa;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1114]
 3170;0000-2400;;NOR;IAP SauraRadar 7,10,13u;;NEu;as;1;;
 3180;0000-2400;;D;IAP Juliusruh Radar 27us;;CEu;jr;1;;
-3185;0100-1100;;USA;Molester Stair;E;NAm;ma;6;106;2910
+3185;0100-1100;;USA;Brother Stair;E;NAm;ma;6;106;2910
 3192;1900-1905;Mo,Th;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[0214]
 3195;0100-0400;Su-Tu;USA;WWRB Manchester, TN;E;NAm;ma;1;110;1504
 3200;0430-0500;Mo-Fr;SWZ;Trans World Radio;E;SAf;;1;;
@@ -1852,9 +1852,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3200;1630-1645;Tu;SWZ;Trans World Radio;SGA;MOZ;;5;;
 3205;0700-1406;;PNG;NBC Sandaun West Sepik;TP;PNG;v;1;;[0415]
 3205;1900-2230;;PNG;NBC Sandaun West Sepik;TP;PNG;v;1;;
-3215;0100-0200;Mo;USA;Molester Stair;E;NAm;n;2;106;
-3215;0400-0500;Tu-Sa;USA;Molester Stair;E;NAm;n;2;;
-3215;0500-0900;Mo-Sa;USA;Molester Stair;E;NAm;n;2;;
+3215;0100-0200;Mo;USA;Brother Stair;E;NAm;n;2;106;
+3215;0400-0500;Tu-Sa;USA;Brother Stair;E;NAm;n;2;;
+3215;0500-0900;Mo-Sa;USA;Brother Stair;E;NAm;n;2;;
 3215;0100-0200;Tu-Su;USA;WWCR 1 Nashville, TN;E;NAm;n;2;106;
 3215;0100-0400;;USA;WWCR 1 Nashville, TN;E;NAm;n;6;2603;3105
 3215;0200-0400;;USA;WWCR 1 Nashville, TN;E;NAm;n;2;106;
@@ -3072,15 +3072,15 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5130;2300-2400;;CAN;Requiem for Radio;E;NAm;/USA-q;6;2505;2705
 5130;1450-1800;;KGZ;Radio Sedaye Zindagi;AFG;AFG;;1;;[0617]
 5130;0030-0100;Th;PNR;Antena DX;S;Car;/USA-o;2;;
-5130;0000-0030;Th;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;0000-0100;235;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;0100-0200;Tu,Sa;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;0200-0230;256;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;0230-0300;2356;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;0300-0400;Tu-Sa;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;0400-1000;;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;2200-2300;Su-Fr;USA;Molester Stair;E;NAm;q;6;2603;406
-5130;2300-2400;Mo-Fr;USA;Molester Stair;E;NAm;q;6;2603;406
+5130;0000-0030;Th;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;0000-0100;235;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;0100-0200;Tu,Sa;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;0200-0230;256;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;0230-0300;2356;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;0300-0400;Tu-Sa;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;0400-1000;;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;2200-2300;Su-Fr;USA;Brother Stair;E;NAm;q;6;2603;406
+5130;2300-2400;Mo-Fr;USA;Brother Stair;E;NAm;q;6;2603;406
 5130;0000-0100;Su-Mo;USA;WBCQ The Planet;E;NAm;q;4;;
 5130;0000-0100;Sa-Mo;USA;WBCQ The Planet;E;NAm;q;2;;
 5130;0100-0200;1457;USA;WBCQ The Planet;E;NAm;q;2;;
@@ -3293,9 +3293,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5850;1030-1100;Su;USA;Adventist World Radio;E;WNA;o;1;;
 5850;2300-2330;;USA;Adventist World Radio;S;CUB;o;6;2603;3004
 5850;1000-1030;Tu;USA;Blues Radio Int.;E;WNA;o;1;;
-5850;0100-0600;;USA;Molester Stair;E;WNA;o;6;2603;2105
-5850;0100-0700;;USA;Molester Stair;E;WNA;o;1;2205;
-5850;1100-1400;;USA;Molester Stair;E;WNA;o;1;;
+5850;0100-0600;;USA;Brother Stair;E;WNA;o;6;2603;2105
+5850;0100-0700;;USA;Brother Stair;E;WNA;o;1;2205;
+5850;1100-1400;;USA;Brother Stair;E;WNA;o;1;;
 5850;1030-1100;Fr;USA;Frecuencia al Dia;S;WNA;o;1;;
 5850;0730-0800;Sa;USA;Voice of America;E;WNA;o;6;905;3107
 5850;1000-1100;Th;USA;V.o.Report of the Week;E;WNA;o;6;2603;3107
@@ -3336,10 +3336,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5885;1430-1630;;USA;Voice of America;BR;SEA;/PHL-t;0;;
 5890;2200-2300;;G;BBC;E;SEA;/SNG;0;;
 5890;1300-1310;Th;RUS;G06 Russian Spy Numbers;D;RUS;xx;1;105;3108[0517]
-5890;0300-0400;Tu-Sa;USA;Molester Stair;E;NAm;n;2;;
-5890;0400-1100;;USA;Molester Stair;E;NAm;n;6;2603;3105
-5890;0400-1200;;USA;Molester Stair;E;NAm;n;2;106;
-5890;1100-1200;Mo-Fr;USA;Molester Stair;E;NAm;n;6;2603;3105
+5890;0300-0400;Tu-Sa;USA;Brother Stair;E;NAm;n;2;;
+5890;0400-1100;;USA;Brother Stair;E;NAm;n;6;2603;3105
+5890;0400-1200;;USA;Brother Stair;E;NAm;n;2;106;
+5890;1100-1200;Mo-Fr;USA;Brother Stair;E;NAm;n;6;2603;3105
 5890;0200-0300;;USA;WWCR 4 Nashville, TN;E;NAm;n;2;;
 5890;0300-0400;Su-Mo;USA;WWCR 4 Nashville, TN;E;NAm;n;2;;
 5895;1500-1900;;G;BBC;E;FE;/UZB;6;106;3006
@@ -3351,7 +3351,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5900;1600-1615;15th;KOR;V24 Numbers Station;K;Oc;g;1;;[1216]
 5900;1600-1615;18th;KOR;V24 Numbers Station;K;Oc;g;1;;
 5900;1600-1615;22nd;KOR;V24 Numbers Station;K;Oc;g;1;;[1216]
-5900;2100-0320;;USA;Molester Stair;E;ENA;/BUL-s;6;2004;2910
+5900;2100-0320;;USA;Brother Stair;E;ENA;/BUL-s;6;2004;2910
 5905;0100-0200;;CHN;China Radio Int.;R;CAs;ka;0;;
 5905;0200-0300;;CHN;China Radio Int.;R;CAs;ka;0;;
 5905;0300-0400;;CHN;China Radio Int.;R;CAs;ka;0;;
@@ -3492,7 +3492,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5920;0900-1500;;KOR;Voice of Freedom;K;KRE;c;1;709;[1017]
 5920;1555-2000;;KOR;Voice of Freedom;K;KRE;c;1;709;
 5920;2100-0200;;KOR;Voice of Freedom;K;KRE;c;1;709;
-5920;0000-0100;Mo;USA;Molester Stair;E;ENA;c;0;;
+5920;0000-0100;Mo;USA;Brother Stair;E;ENA;c;0;;
 5920;0000-0100;Tu-Su;USA;World Harvest Radio 2;E;ENA;c;0;;
 5920;0100-0200;Tu-Sa;USA;World Harvest Radio 6;E;ENA;c;0;;
 5920;0200-0300;;USA;World Harvest Radio 2;E;ENA;c;0;;
@@ -3582,7 +3582,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5950;1100-1130;;USA;Adventist World Radio;S;CUB;o;1;;
 5950;1130-1200;367;USA;Adventist World Radio;E;Car;o;1;;
 5950;2200-2230;Fr;USA;Adventist World Radio;E;Car;o;6;2603;3004
-5950;1200-1230;;USA;Molester Stair;E;Car;o;1;110;
+5950;1200-1230;;USA;Brother Stair;E;Car;o;1;110;
 5950;2300-2400;;USA;Family Radio;S;Car;o;1;;
 5950;0230-0300;Su;USA;WRMI Radio Miami Int.;E;CAm;o;1;110;
 5950;0030-0100;Th,Sa;USA;Frecuencia al Dia;S;Car;o;6;2603;3105
@@ -3694,7 +3694,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5985;0430-0500;Tu;USA;Adventist World Radio;E;CAm;o;1;1609;
 5985;0430-0500;Mo;USA;Blues Radio Int.;E;CAm;o;6;2603;1009
 5985;0430-0500;Mo;USA;Blues Radio Int.;E;CAm;o;1;1609;
-5985;0500-0600;;USA;Molester Stair;E;CAm;o;1;110;
+5985;0500-0600;;USA;Brother Stair;E;CAm;o;1;110;
 5985;0430-0500;Sa;USA;Frecuencia al Dia;S;CAm;o;1;;
 5985;0230-0300;Su;USA;WRMI Radio Miami Int.;E;CAm;o;1;110;
 5985;0430-0500;247;USA;WRMI Radio Miami Int.;E;CAm;o;6;2603;1009
@@ -3741,9 +3741,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6000;0700-0930;;IND;AIR Leh;LAD;SAs;le;1;;
 6000;1800-1900;Mo,Fr;RUS;Adygeyskoye Radio;AD;Cau;a;1;;[1017]
 6000;1900-2000;Su;RUS;Adygeyskoye Radio;AD;Cau;a;1;;[0617]
-6000;1800-2000;;USA;Molester Stair;E;WEu;/BUL-s;6;2603;2903
-6000;1830-2000;Mo-Fr;USA;Molester Stair;E;WEu;/BUL-s;6;1704;2910
-6000;1900-2000;;USA;Molester Stair;E;WEu;/BUL-s;6;3003;1604
+6000;1800-2000;;USA;Brother Stair;E;WEu;/BUL-s;6;2603;2903
+6000;1830-2000;Mo-Fr;USA;Brother Stair;E;WEu;/BUL-s;6;1704;2910
+6000;1900-2000;;USA;Brother Stair;E;WEu;/BUL-s;6;3003;1604
 6003;0555-2400;;CLA;Echo of Hope VOH;K;KRE;/KOR-o;6;2603;1705[0417]
 6003;0555-2400;;CLA;Echo of Hope VOH;K;KRE;/KOR-o;6;2205;2205[0517]
 6003;0555-2400;;CLA;Echo of Hope VOH;K;KRE;/KOR-o;6;2405;3105[0517]
@@ -4167,7 +4167,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6115;1651-1835;Su-Fr;NZL;RNZI DIGITAL;E;SOc;r;6;1904;3009
 6115;1708-1735;Mo;NZL;RNZI DIGITAL;F;SOc;r;6;1904;2910
 6115;2100-2230;;PHL;Radio Veritas Asia;M;FE;p;0;;
-6115;2200-2400;We;USA;Molester Stair;E;NAm;n;0;;
+6115;2200-2400;We;USA;Brother Stair;E;NAm;n;0;;
 6115;2200-2230;Mo,Fr;USA;Frecuencia al Dia;S;NAm;n;4;;
 6115;2200-2300;SaSu;USA;WWCR 1 Nashville, TN;E;NAm;n;4;;
 6115;2200-2300;Mo-Fr;USA;WWCR 1 Nashville, TN;S;NAm;n;4;;
@@ -4823,7 +4823,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6855;2030-2100;Mo;USA;Adventist World Radio;E;WNA;o;6;2603;1304
 6855;2100-2130;Tu;USA;Adventist World Radio;E;WNA;o;6;2603;1304
 6855;1000-1030;Tu;USA;Blues Radio Int.;E;WNA;o;6;2603;1304
-6855;0100-0300;;USA;Molester Stair;E;WNA;o;6;704;1304
+6855;0100-0300;;USA;Brother Stair;E;WNA;o;6;704;1304
 6855;1030-1100;Fr;USA;Frecuencia al Dia;S;WNA;o;6;2603;1304
 6855;1100-1130;Th;USA;Frecuencia al Dia;S;WNA;o;6;404;1304
 6855;2030-2100;Fr;USA;Frecuencia al Dia;S;WNA;o;6;2603;1304
@@ -5578,7 +5578,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7355;1400-1500;;ALS;KNLS New Life Station;M;FE;ap;6;1406;2910
 7355;2050-2150;;IRN;IRIB Voice of I.R.Iran;J;J;s;0;;
 7355;1100-1130;;J;NHK Radio Japan;R;FE;y;0;;
-7355;0600-0800;;USA;Molester Stair;E;Eu;c;0;;
+7355;0600-0800;;USA;Brother Stair;E;Eu;c;0;;
 7355;0800-0900;;USA;World Harvest Radio 2;E;Eu;c;8;;
 7360;1130-1230;;CHN;China Radio Int.;T;SEA;k;0;;
 7360;1230-1330;;CHN;China Radio Int.;LAO;SEA;k;0;;
@@ -5895,12 +5895,12 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7485;1900-2100;;USA;Voice of America;K;FE;/PHL-t;6;2603;1904
 7487;2330-2400;;CLA;Voice of Tibet;M;FE;;1;2505;
 7490;2300-2330;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;105;
-7490;0000-0100;Mo;USA;Molester Stair;E;NAm;q;6;2603;406
-7490;0100-0300;Fr-We;USA;Molester Stair;E;NAm;q;6;2603;406
-7490;0100-0300;Fr-We;USA;Molester Stair;E;NAm;q;6;1406;2910
-7490;0400-0700;;USA;Molester Stair;E;NAm;q;6;2603;406
-7490;1400-1500;Su;USA;Molester Stair;E;NAm;n;6;106;406
-7490;2200-2300;Mo-Fr;USA;Molester Stair;E;NAm;q;6;2603;406
+7490;0000-0100;Mo;USA;Brother Stair;E;NAm;q;6;2603;406
+7490;0100-0300;Fr-We;USA;Brother Stair;E;NAm;q;6;2603;406
+7490;0100-0300;Fr-We;USA;Brother Stair;E;NAm;q;6;1406;2910
+7490;0400-0700;;USA;Brother Stair;E;NAm;q;6;2603;406
+7490;1400-1500;Su;USA;Brother Stair;E;NAm;n;6;106;406
+7490;2200-2300;Mo-Fr;USA;Brother Stair;E;NAm;q;6;2603;406
 7490;0000-0100;Tu;USA;From the Isle of Music;E;NAm;q;2;;
 7490;0000-0100;Fr;USA;V.o.Report of the Week;E;NAm;q;2;;
 7490;2200-2300;Su;USA;V.o.Report of the Week;E;NAm;q;2;;
@@ -6030,7 +6030,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7570;2230-2330;;KRE;Voice of Korea;S;Eu;u;4;;
 7570;2330-0030;;KRE;Voice of Korea KCBS;K;Eu;u;4;;
 7570;0100-0300;11Sep;TWN;PCJ Radio Int.;E;NAm;/USA-o;6;2008;1109
-7570;2300-1400;;USA;Molester Stair;E;WNA;o;1;;
+7570;2300-1400;;USA;Brother Stair;E;WNA;o;1;;
 7575;1600-1630;Mo,Fr;CLA;Radio Ranginkaman;FS;IRN;/MDA;0;;
 7580;1530-1630;;CLA;Voice of Martyrs;K;KRE;/XUU;6;2109;2109
 7580;0730-1330;;KRE;Voice of Korea;J;J;u;4;;
@@ -6127,10 +6127,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7730;0000-0030;257;USA;Adventist World Radio;E;WNA;o;6;2603;2105
 7730;0000-0030;Tu,Su;USA;Adventist World Radio;E;WNA;o;1;2205;
 7730;0030-0100;Th,Sa;USA;Adventist World Radio;E;WNA;o;6;2603;2105
-7730;0100-0600;;USA;Molester Stair;E;WNA;o;1;2205;
-7730;0100-0700;;USA;Molester Stair;E;WNA;o;6;2603;2105
-7730;0800-1400;;USA;Molester Stair;E;WNA;o;1;;
-7730;2300-2400;;USA;Molester Stair;E;WNA;o;1;;
+7730;0100-0600;;USA;Brother Stair;E;WNA;o;1;2205;
+7730;0100-0700;;USA;Brother Stair;E;WNA;o;6;2603;2105
+7730;0800-1400;;USA;Brother Stair;E;WNA;o;1;;
+7730;2300-2400;;USA;Brother Stair;E;WNA;o;1;;
 7730;0000-0030;Sa;USA;Frecuencia al Dia;S;WNA;o;6;2603;2105
 7730;0600-0630;Su;USA;Voice of America;E;WNA;o;6;106;3107
 7730;0730-0800;Sa;USA;Voice of America;E;WNA;o;6;905;3107
@@ -6152,8 +6152,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7755;0810-0820;Fr;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110[1014]
 7768;2000-2010;Sa;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0814]
 7780;0700-0900;;TWN;PCJ Radio Int.;E;Eu;/USA-o;6;1009;1009
-7780;1500-1200;;USA;Molester Stair;E;SAm;o;1;1609;
-7780;2200-1200;;USA;Molester Stair;E;SAm;o;6;2603;1509
+7780;1500-1200;;USA;Brother Stair;E;SAm;o;1;1609;
+7780;2200-1200;;USA;Brother Stair;E;SAm;o;6;2603;1509
 7780;1200-1500;;USA;WRMI Radio Miami Int.;E;SAm;o;1;1609;
 7795;0000-2400;;J;JMH Japan Meteo Fax;;FE;k;1;;[0717]
 7795;0600-0610;Fr;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004[0414]
@@ -6847,8 +6847,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9327;1900-1910;Fr;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110
 9330;0654-0750;1357;CUB;Cuban Spy Numbers;S;Am;;1;;[1017]
 9330;1000-1500;30Sep;HOL;Universe Radio;E;NAm;/USA-q;6;1509;3009
-9330;0100-2230;;USA;Molester Stair;E;NAm;q;6;2603;606
-9330;2230-2330;Su-Fr;USA;Molester Stair;E;NAm;q;6;2603;606
+9330;0100-2230;;USA;Brother Stair;E;NAm;q;6;2603;606
+9330;2230-2330;Su-Fr;USA;Brother Stair;E;NAm;q;6;2603;606
 9330;0000-0100;Mo;USA;WBCQ The Planet;E;NAm;q;6;2603;1406
 9330;0000-0100;;USA;WBCQ The Planet;E;NAm;q;2;1506;
 9330;2300-2400;Sa;USA;WBCQ The Planet;E;NAm;q;5;;
@@ -6861,10 +6861,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9335;1230-1330;;KRE;Voice of Korea KCBS;K;LAm;u;4;;
 9345;1400-1600;;HKG;FEBC Radio Liangyou;M;FE;/PHL-i;1;;
 9350;0100-0200;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
-9350;2000-2200;Sa;USA;Molester Stair;E;NAm;n;2;106;
-9350;2000-2300;Sa;USA;Molester Stair;E;NAm;n;6;2603;3105
-9350;2200-2300;Mo-Sa;USA;Molester Stair;E;NAm;n;2;106;
-9350;2300-2330;Sa;USA;Molester Stair;E;NAm;n;2;106;
+9350;2000-2200;Sa;USA;Brother Stair;E;NAm;n;2;106;
+9350;2000-2300;Sa;USA;Brother Stair;E;NAm;n;6;2603;3105
+9350;2200-2300;Mo-Sa;USA;Brother Stair;E;NAm;n;2;106;
+9350;2300-2330;Sa;USA;Brother Stair;E;NAm;n;2;106;
 9350;0100-0200;;USA;Radio Free Asia;UI;FE;/TJK;0;;
 9350;2000-2400;;USA;WWCR 2 Nashville, TN;E;NAm;n;2;;
 9353;0840-0850;Mo;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0717]
@@ -6889,7 +6889,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9360;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
 9370;0100-0300;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 9370;2200-2300;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
-9370;1100-0100;;USA;Molester Stair;E;NAm;ma;6;106;2910
+9370;1100-0100;;USA;Brother Stair;E;NAm;ma;6;106;2910
 9370;0630-1100;;USA;Radio Farda;FS;IRN;/KWT;6;207;2910
 9370;0100-0300;;USA;Radio Free Asia;TB;FE;/TJK;0;;
 9370;2200-2300;;USA;Radio Free Asia;TB;FE;/KWT;0;;
@@ -6932,8 +6932,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9395;0230-0300;;SVK;Radio Slovakia Int.;E;ENA;/USA-o;1;1609;
 9395;0200-0230;;USA;Adventist World Radio;E;ENA;o;6;1806;1806
 9395;1300-1330;;USA;Adventist World Radio;E;ENA;o;6;1106;1106
-9395;1100-1200;;USA;Molester Stair;E;ENA;o;1;106;
-9395;2300-2400;;USA;Molester Stair;E;ENA;o;1;;
+9395;1100-1200;;USA;Brother Stair;E;ENA;o;1;106;
+9395;2300-2400;;USA;Brother Stair;E;ENA;o;1;;
 9395;0200-0300;irr;USA;Voice of America News;E;ENA;o;6;3105;1009
 9395;1300-1400;irr;USA;Voice of America News;E;ENA;o;6;3105;1009
 9395;0000-0100;Fr;USA;V.o.Report of the Week;E;ENA;o;1;;
@@ -6956,14 +6956,14 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9400;1830-1900;;G;End Times Coming Radio;E;ME;/BUL-s;6;1306;1306
 9400;1500-1600;Sa;HOL;Mighty KBC;E;Eu;/BUL-s;6;1304;2910
 9400;1000-1400;;PHL;FEBC Manila;M;FE;i;1;;
-9400;1145-1215;;USA;Molester Stair;E;ME;/BUL-s;6;2504;2504
-9400;1800-2000;;USA;Molester Stair;E;ME;/BUL-s;6;2603;1604
-9400;1800-2030;;USA;Molester Stair;E;ME;/BUL-s;6;1704;3105
-9400;1800-2030;;USA;Molester Stair;E;ME;/BUL-s;6;608;2910
-9400;1830-2030;;USA;Molester Stair;E;ME;/BUL-s;6;106;1306
-9400;1830-2030;;USA;Molester Stair;E;ME;/BUL-s;6;1506;508
-9400;1900-2030;;USA;Molester Stair;E;ME;/BUL-s;6;1406;1406
-9400;2045-0200;;USA;Molester Stair;E;ME;/BUL-s;6;608;2910
+9400;1145-1215;;USA;Brother Stair;E;ME;/BUL-s;6;2504;2504
+9400;1800-2000;;USA;Brother Stair;E;ME;/BUL-s;6;2603;1604
+9400;1800-2030;;USA;Brother Stair;E;ME;/BUL-s;6;1704;3105
+9400;1800-2030;;USA;Brother Stair;E;ME;/BUL-s;6;608;2910
+9400;1830-2030;;USA;Brother Stair;E;ME;/BUL-s;6;106;1306
+9400;1830-2030;;USA;Brother Stair;E;ME;/BUL-s;6;1506;508
+9400;1900-2030;;USA;Brother Stair;E;ME;/BUL-s;6;1406;1406
+9400;2045-0200;;USA;Brother Stair;E;ME;/BUL-s;6;608;2910
 9400;1500-1600;Su;USA;From the Isle of Music;E;Eu;/BUL-s;1;;
 9400;1600-1700;Su;USA;V.o.Report of the Week;E;Eu;/BUL-s;6;1308;2910
 9400;1600-1630;Sa;USA;Shortwave Radiogram;E;Eu;/BUL-s;6;107;2910[1017]
@@ -7145,7 +7145,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9455;2030-2100;Mo;USA;Adventist World Radio;E;WNA;o;1;2504;
 9455;2100-2130;Tu;USA;Adventist World Radio;E;WNA;o;1;2504;
 9455;1000-1030;Tu;USA;Blues Radio Int.;E;WNA;o;1;2504;
-9455;0100-0300;;USA;Molester Stair;E;WNA;o;1;2504;
+9455;0100-0300;;USA;Brother Stair;E;WNA;o;1;2504;
 9455;1030-1100;Fr;USA;Frecuencia al Dia;S;WNA;o;1;2504;
 9455;1100-1130;Th;USA;Frecuencia al Dia;S;WNA;o;6;2504;2105
 9455;2030-2100;Fr;USA;Frecuencia al Dia;S;WNA;o;1;2504;
@@ -7307,7 +7307,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9505;1600-1700;;SDN;Voice of Africa;F;EAf;a;1;;[0317]
 9505;1700-1800;;SDN;Voice of Africa;E;EAf;a;1;;[0417]
 9505;1800-2100;;SDN;Voice of Africa;A;EAf;a;1;;[0317]
-9505;2200-2400;Mo-Fr;USA;Molester Stair;E;ENA;c;0;;
+9505;2200-2400;Mo-Fr;USA;Brother Stair;E;ENA;c;0;;
 9505;2200-2300;;USA;World Harvest Radio 1;E;ENA;c;0;;
 9505;2300-2400;Su;USA;World Harvest Radio 2;E;ENA;c;0;;
 9505;2300-2400;Sa;USA;World Harvest Radio 1;E;ENA;c;0;;
@@ -7752,8 +7752,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9655;2200-2300;Th;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 9655;0940-0950;Fr;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0817]
 9655;0300-0330;;USA;Adventist World Radio;TIG;EAf;/D-n;0;;
-9655;1400-1600;Mo-Fr;USA;Molester Stair;E;WEu;/D-n;0;;
-9655;1400-1600;SaSu;USA;Molester Stair;E;WEu;/AUT;0;;
+9655;1400-1600;Mo-Fr;USA;Brother Stair;E;WEu;/D-n;0;;
+9655;1400-1600;SaSu;USA;Brother Stair;E;WEu;/AUT;0;;
 9655;2200-2300;Th;USA;Radio Free Asia;TB;FE;/KWT;0;;
 9655;1000-1100;;TUR;Voice of Turkey;GE;Cau;e;0;;
 9660;0000-0300;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
@@ -8231,10 +8231,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9835;2300-0100;;TWN;Sound of Hope;M;FE;;1;1907;
 9840;1300-1600;;TUR;Voice of Turkey;TU;Eu;e;0;;
 9840;1730-1830;;TUR;Voice of Turkey;D;Eu;e;0;;
-9840;1200-1300;Su;USA;Molester Stair;E;ENA;c;0;;
-9840;1400-1600;Sa;USA;Molester Stair;E;ENA;c;0;;
-9840;1600-1800;;USA;Molester Stair;E;ENA;c;0;;
-9840;1900-2000;Su;USA;Molester Stair;E;ENA;c;0;;
+9840;1200-1300;Su;USA;Brother Stair;E;ENA;c;0;;
+9840;1400-1600;Sa;USA;Brother Stair;E;ENA;c;0;;
+9840;1600-1800;;USA;Brother Stair;E;ENA;c;0;;
+9840;1900-2000;Su;USA;Brother Stair;E;ENA;c;0;;
 9840;0100-0200;;USA;VoA Deewa Radio;PS;AFG;/UAE;6;2204;2910
 9840;0200-0300;;USA;VoA Deewa Radio;PS;AFG;/UAE;6;2204;2910
 9840;0300-0400;;USA;VoA Deewa Radio;PS;AFG;/KWT;6;2204;2910
@@ -8583,9 +8583,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9955;0130-0200;Fr;USA;Blues Radio Int.;E;LAm;o;2;;
 9955;0300-0330;Tu;USA;Blues Radio Int.;E;LAm;o;2;;
 9955;2030-2100;Sa;USA;Blues Radio Int.;E;LAm;o;2;2209;
-9955;0500-1000;;USA;Molester Stair;E;LAm;o;2;;
-9955;1400-2000;;USA;Molester Stair;E;LAm;o;2;2209;
-9955;1400-2100;;USA;Molester Stair;E;LAm;o;6;2603;2109
+9955;0500-1000;;USA;Brother Stair;E;LAm;o;2;;
+9955;1400-2000;;USA;Brother Stair;E;LAm;o;2;2209;
+9955;1400-2100;;USA;Brother Stair;E;LAm;o;6;2603;2109
 9955;0130-0200;Tu;USA;Frecuencia al Dia;S;LAm;o;2;;
 9955;0300-0330;Sa;USA;Frecuencia al Dia;S;LAm;o;2;;
 9955;0400-0430;Mo;USA;Frecuencia al Dia;S;LAm;o;2;;
@@ -8712,12 +8712,12 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9975;1400-1430;Mo-Fr;GUM;KTWR Trans World Radio;CA;FE;m;1;;
 9975;1430-1500;Mo-Sa;GUM;KTWR Trans World Radio;E;SAs;m;6;2603;1707
 9975;1700-1900;;USA;Radio Free Asia;K;FE;/MRA-t;6;2603;204
-9980;1200-1400;Mo-Fr;USA;Molester Stair;E;NAm;n;6;2603;3105
-9980;1200-2000;;USA;Molester Stair;E;NAm;n;2;106;
-9980;1400-2000;;USA;Molester Stair;E;NAm;n;6;2603;3105
-9980;2000-2200;SaSu;USA;Molester Stair;E;NAm;n;2;106;
-9980;2200-2300;Mo-Fr;USA;Molester Stair;E;NAm;n;6;2603;3105
-9980;2200-2300;;USA;Molester Stair;E;NAm;n;2;106;
+9980;1200-1400;Mo-Fr;USA;Brother Stair;E;NAm;n;6;2603;3105
+9980;1200-2000;;USA;Brother Stair;E;NAm;n;2;106;
+9980;1400-2000;;USA;Brother Stair;E;NAm;n;6;2603;3105
+9980;2000-2200;SaSu;USA;Brother Stair;E;NAm;n;2;106;
+9980;2200-2300;Mo-Fr;USA;Brother Stair;E;NAm;n;6;2603;3105
+9980;2200-2300;;USA;Brother Stair;E;NAm;n;2;106;
 9980;2000-2200;Mo-Fr;USA;WWCR 4 Nashville, TN;E;NAm;n;6;2603;3105
 9980;2300-2400;Mo-Fr;USA;WWCR 4 Nashville, TN;E;NAm;n;5;;
 9982.5;0519-1600;;HWA;KVM70 Fax Honolulu;;Oc;nm;1;;[0817]
@@ -9160,8 +9160,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11580;2130-2200;We;USA;Adventist World Radio;E;ENA;o;6;2603;2105
 11580;2300-2330;Su;USA;Adventist World Radio;E;ENA;o;1;;
 11580;2130-2200;Fr;USA;Blues Radio Int.;E;ENA;o;6;2603;2105
-11580;0300-1300;;USA;Molester Stair;E;ENA;o;1;;
-11580;1500-2000;;USA;Molester Stair;E;ENA;o;1;;
+11580;0300-1300;;USA;Brother Stair;E;ENA;o;1;;
+11580;1500-2000;;USA;Brother Stair;E;ENA;o;1;;
 11580;2030-2100;Fr;USA;Frecuencia al Dia;S;ENA;o;1;;
 11580;2130-2200;Tu;USA;Frecuencia al Dia;S;ENA;o;6;2603;2105
 11580;1400-1500;;USA;PAB R.Voice of Peace;KRW;Af;o;6;2705;2705
@@ -9209,10 +9209,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11585;1400-1430;SaSu;GUM;KTWR Trans World Radio;HI;SAs;m;6;2603;1707
 11585;1415-1435;Mo-Fr;GUM;KTWR Trans World Radio;HI;SAs;m;6;2603;1707
 11590;1900-1930;;G;End Times Coming Radio;E;ME;/BUL-s;6;608;2910
-11590;1600-2000;;USA;Molester Stair;E;ME;/BUL-s;6;3003;404
-11590;1800-1900;;USA;Molester Stair;E;ME;/BUL-s;6;608;2910
-11590;1800-2030;;USA;Molester Stair;E;ME;/BUL-s;6;504;508
-11590;1930-2030;;USA;Molester Stair;E;ME;/BUL-s;6;608;2910
+11590;1600-2000;;USA;Brother Stair;E;ME;/BUL-s;6;3003;404
+11590;1800-1900;;USA;Brother Stair;E;ME;/BUL-s;6;608;2910
+11590;1800-2030;;USA;Brother Stair;E;ME;/BUL-s;6;504;508
+11590;1930-2030;;USA;Brother Stair;E;ME;/BUL-s;6;608;2910
 11590;1500-1530;;USA;VoA Radio Ashna;DR;IRN;/THA-u;6;2603;2705
 11590;1530-1600;;USA;VoA Radio Ashna;AFG;IRN;/THA-u;6;2603;27055
 11590;1600-1630;;USA;VoA Radio Ashna;AFG;IRN;/THA-u;6;2603;2705
@@ -9237,7 +9237,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11600;0100-1400;;TWN;Sound of Hope-RFA;M;FE;;1;;[0917]
 11600;1400-1500;;TWN;Sound of Hope-RFA;CA;FE;;1;;[1214]
 11600;1500-1600;;TWN;Sound of Hope-RFA;M;FE;;1;;[1214]
-11600;1600-2000;;USA;Molester Stair;E;ME;/BUL-s;6;2603;2903
+11600;1600-2000;;USA;Brother Stair;E;ME;/BUL-s;6;2603;2903
 11605;1500-1600;;CHN;CNR1 Jammer/Firedrake;M;CHN;;1;;
 11605;1500-1530;;TWN;Radio Taiwan Int.;CA;SEA;p;1;;
 11605;1530-1600;;TWN;Radio Taiwan Int.;HK;SEA;p;1;;
@@ -9804,8 +9804,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11825;1300-1330;;PHL;FEBC Manila;KHA;SEA;b;1;;
 11825;0300-0400;;ROU;Radio Romania Int.;E;SAs;g;0;;
 11825;1330-1400;;USA;Adventist World Radio;T;SEA;/GUM-a;0;;
-11825;1300-2400;;USA;Molester Stair;E;ENA;o;6;2603;1009
-11825;1300-0300;;USA;Molester Stair;E;ENA;o;1;2009;
+11825;1300-2400;;USA;Brother Stair;E;ENA;o;6;2603;1009
+11825;1300-0300;;USA;Brother Stair;E;ENA;o;1;2009;
 11825;0900-1300;;USA;Voice of America;M;FE;/PHL-t;0;;
 11830;1520-1620;;IRN;IRIB Voice of I.R.Iran;E;SAs;s;0;;
 11830;0840-0850;We;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[0217]
@@ -10482,9 +10482,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12160;1400-1430;Su;IND;Trans World Radio;PJ;SAs;/UZB;0;;
 12160;1430-1445;Mo-Fr;IND;Trans World Radio;HI;SAs;/MDA;0;;
 12160;1445-1545;Mo-Fr;IND;Trans World Radio;PJ;SAs;/MDA;0;;
-12160;1700-1800;Su;USA;Molester Stair;E;NAm;n;2;;
-12160;1800-1900;SaSu;USA;Molester Stair;E;NAm;n;2;;
-12160;1900-2000;Sa;USA;Molester Stair;E;NAm;n;2;;
+12160;1700-1800;Su;USA;Brother Stair;E;NAm;n;2;;
+12160;1800-1900;SaSu;USA;Brother Stair;E;NAm;n;2;;
+12160;1900-2000;Sa;USA;Brother Stair;E;NAm;n;2;;
 12160;1500-1700;;USA;WWCR 2 Nashville, TN;E;NAm;n;2;;
 12160;1700-1800;Mo-Sa;USA;WWCR 2 Nashville, TN;E;NAm;n;2;;
 12160;1800-1900;Mo-Fr;USA;WWCR 2 Nashville, TN;E;NAm;n;2;;
@@ -12766,7 +12766,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15755;0400-0500;;USA;Radio Mashaal;PS;PAK;/THA-u;6;907;2910
 15755;0500-1300;;USA;Radio Mashaal;PS;PAK;/KWT;6;907;2910
 15755;1340-1630;;IND;Trans World Radio;;SAs;/UZB;8;;
-15760;1800-2200;;USA;Molester Stair;E;WNA;c;0;;
+15760;1800-2200;;USA;Brother Stair;E;WNA;c;0;;
 15760;0400-0500;;USA;Radio Mashaal;PS;PAK;/THA-u;6;2603;807
 15760;0500-1300;;USA;Radio Mashaal;PS;PAK;/KWT;6;2603;807
 15760;1400-2200;;USA;World Harvest Radio;E;WNA;c;6;2607;2910
@@ -12780,7 +12780,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15770;1000-1100;;IND;All India Radio GOS;E;Oc;p;1;;
 15770;2130-2200;Th;UKR;Radio Ukraine Int.;E;ENA;/USA-o;6;2603;3105
 15770;2100-2130;Tu;USA;Adventist World Radio;E;ENA;o;6;2603;1009
-15770;1200-2100;;USA;Molester Stair;E;ENA;o;6;2603;1009
+15770;1200-2100;;USA;Brother Stair;E;ENA;o;6;2603;1009
 15770;2130-2200;Tu;USA;World of Radio;E;ENA;o;6;2603;1009
 15770;2100-2130;Th-Mo;USA;WRMI Radio Miami Int.;E;ENA;o;6;2603;3105
 15770;2100-2130;Th-Su;USA;WRMI Radio Miami Int.;E;ENA;o;6;106;1009
@@ -12804,7 +12804,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15785;0400-0500;;CHN;China Radio Int.;E;Sib;x;0;;
 15785;0500-0600;;CHN;China Radio Int.;M;Sib;x;0;;
 15785;0600-0700;;CHN;China Radio Int.;M;Sib;x;0;;
-15785;1000-1100;Mo-Fr;USA;Molester Stair;E;NAm;n;2;106;
+15785;1000-1100;Mo-Fr;USA;Brother Stair;E;NAm;n;2;106;
 15785;1730-1800;Mo-Fr;USA;Voice of America;OO;EAf;/STP;0;;
 15785;1800-1900;;USA;Voice of America;AH;EAf;/G-w;0;;
 15785;1900-1930;Mo-Fr;USA;Voice of America;TIG;EAf;/UAE;6;2603;807
@@ -13626,9 +13626,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17815;1200-1230;;F;Radio France Int.;BM;WAf;;6;309;2810
 17815;1200-1230;;F;Radio France Int.;BM;WAf;;6;2603;306
 17815;0720-0820;;IRN;IRIB Voice of I.R.Iran;S;SEu;s;0;;
-17815;1300-1400;SaSu;USA;Molester Stair;E;Af;c;6;705;3009
-17815;1400-1500;Sa;USA;Molester Stair;E;Af;c;6;705;3009
-17815;1800-1900;Mo-Fr;USA;Molester Stair;E;Af;c;6;705;3009
+17815;1300-1400;SaSu;USA;Brother Stair;E;Af;c;6;705;3009
+17815;1400-1500;Sa;USA;Brother Stair;E;Af;c;6;705;3009
+17815;1800-1900;Mo-Fr;USA;Brother Stair;E;Af;c;6;705;3009
 17815;1400-1500;Su;USA;World Harvest Radio 1;E;Af;c;6;705;3009
 17815;1500-1600;SaSu;USA;World Harvest Radio 1;E;Af;c;6;705;3009
 17815;1600-1800;;USA;World Harvest Radio 1;E;Af;c;6;705;3009
@@ -13883,12 +13883,12 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 21610;0400-0500;Mo;CHN;CNR1 Jammer/Firedrake;M;FE;;6;2603;3105
 21610;0500-0600;Su;CHN;CNR1 Jammer/Firedrake;M;FE;;6;2603;3105
 21610;0500-0600;;CHN;CNR1 Jammer/Firedrake;M;FE;;6;106;2910
-21610;1300-1400;SaSu;USA;Molester Stair;E;Af;c;6;2603;605
-21610;1400-1500;Sa;USA;Molester Stair;E;Af;c;6;2603;605
-21610;1800-1900;Mo-Fr;USA;Molester Stair;E;Af;c;6;2603;605
-21610;1300-1400;SaSu;USA;Molester Stair;E;Af;c;6;110;2910
-21610;1400-1500;Sa;USA;Molester Stair;E;Af;c;6;110;2910
-21610;1800-1900;Mo-Fr;USA;Molester Stair;E;Af;c;6;110;2910
+21610;1300-1400;SaSu;USA;Brother Stair;E;Af;c;6;2603;605
+21610;1400-1500;Sa;USA;Brother Stair;E;Af;c;6;2603;605
+21610;1800-1900;Mo-Fr;USA;Brother Stair;E;Af;c;6;2603;605
+21610;1300-1400;SaSu;USA;Brother Stair;E;Af;c;6;110;2910
+21610;1400-1500;Sa;USA;Brother Stair;E;Af;c;6;110;2910
+21610;1800-1900;Mo-Fr;USA;Brother Stair;E;Af;c;6;110;2910
 21610;0200-0300;Sa;USA;Radio Free Asia;TB;FE;/MRA-t;6;2603;3105
 21610;0300-0400;Tu;USA;Voice of America;TB;FE;/PHL-t;6;2603;3105
 21610;0300-0400;;USA;Voice of America;TB;FE;/PHL-t;6;106;2910
