@@ -1,4 +1,4 @@
-v1.1.39 Beta - Removed due to startup issue
+v1.1.39 Beta - Removed due to startup issue on newer Android versions
 - Schedule list layout changes for better utilisation of different screen sizes
 - Fixed ON-AIR/+-10kHz layout issue
 - Updated internal EiBi list
