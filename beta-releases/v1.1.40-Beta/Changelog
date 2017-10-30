@@ -1,1 +1,4 @@
-
+v1.1.40 Beta
+- Fixed bug in date detect
+- Fixed bug in screen size detect on Android v7
+- Updated internal EiBi list
