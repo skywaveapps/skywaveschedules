@@ -1,3 +1,38 @@
+v1.1.43 01-11-2017 (Google Play Store Release)
+- Added Help screen
+- Minor textual changes
+- Updated Eibi List
+
+v1.1.42b Beta 01-11-2017
+- Fixed bug in Adjust View
+- Minor visual layout tweaks
+
+v1.1.42 Beta 31-10-2017
+- Added 'Adjust View' option in Menu to allow better visibility of Station name across different devices
+- Minor Visual changes
+
+v1.1.41 Beta 30-10-2017
+- Fixed bug in B Season date detect
+
+v1.1.40 Beta 29-10-2017
+- Fixed bug in date detect
+- Fixed bug in screen size detect on Android v7
+- Updated internal EiBi list
+
+v1.1.39 Beta - Retracted due to startup issue on newer Android versions
+- Schedule list layout changes for better utilisation of different screen sizes
+- Fixed ON-AIR/+-10kHz layout issue
+- Updated internal EiBi list
+
+v1.1.38 Beta 22-10-2017
+- Switched Station and Times around in the list
+- Updated internal EiBi list
+
+v1.1.37 Beta 21-10-2017
+- Updated internal EiBi list
+- Added some more BC stations to lookup
+- Added more languages
+
 v1.1.36 Beta - 20-10-2017
 - Fixed bug in Frequency search
 
