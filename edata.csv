@@ -2711,6 +2711,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4825;0000-2400;;B;Radio Cancao Nova;P;B;Cp;8;;[0216]
 4828;0455-0505;Tu,Fr;POL;S11 Polish Spy Numbers;R;;p;1;111;2802[1114]
 4830;2200-1400;;MNG;Mongolian Radio 1;MO;As;a;8;;[0117]
+4835;0000-2400;Tests;AUS;Ozy Radio;E;AUS;rz;6;0111;
 4835;0125-0130;;IND;AIR Delhi;SNK;SAs;gt;1;;
 4835;0130-0135;;IND;AIR Delhi;HI;SAs;gt;1;;
 4835;0245-0300;;IND;AIR Delhi;E;SAs;gt;1;;
