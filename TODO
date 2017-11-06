@@ -1,4 +1,5 @@
 - Improve language lookup
 - Add Logbook
 - Add date check for online schedules update
+- Allow accents/ISO-8859-1 Characters in list
 - Add entry blacklist with rollback option
