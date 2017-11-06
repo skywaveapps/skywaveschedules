@@ -1,3 +1,4 @@
 - Improve language lookup
 - Add Logbook
 - Add date check for online schedules update
+- Add entry blacklist with rollback option
