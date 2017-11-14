@@ -192,7 +192,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 639;0930-1430;;MYA;Thazin Radio;BR;SEA;p;1;;
 639;1430-1500;;MYA;Thazin Radio;E;SEA;p;1;;
 639;2330-0130;;MYA;Thazin Radio;BR;SEA;p;1;;
-648;0000-2400;1234567;G;Radio Caroline;E;G;xx;1;;
+648;0000-2400;1234567;G;Radio Test;E;G;xx;1;;
 657;0835-0850;We,Sa;IND;FEBA India;BE;SAs;kc;1;;
 657;0330-0730;;KRE;PBS Pyongyang Pansong;K;FE;kn;1;;
 657;0730-1330;;KRE;PBS Pyongyang Pansong;K;FE;kn;1;;
