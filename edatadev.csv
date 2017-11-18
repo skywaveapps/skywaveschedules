@@ -2636,7 +2636,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4835;1325-1700;;IND;AIR Gangtok;NE;SAs;gt;1;;[0817]
 4835;1600-1900;31Dec;IND;AIR Gangtok;NE;SAs;gt;1;1512;3112
 4835;1045-0300;;PRU;Ondas del Suroriente;S,Q;PRU;qb;1;;[0914]
-4835;0000-2400;Tests;AUS;Ozy Radio;E;AUS;rz;6;0111;
+4835;0000-2400;Tests;AUS;Ozy Radio;E;AUS;rz;6;111;
 4836;2030-2040;Th,Fr;RUS;E06 Russian Spy Numbers;E;RUS;xx;1;111;2802[1116]
 4840;0430-0500;Su;USA;Adventist World Radio;E;NAm;n;2;;
 4840;0100-1300;;USA;WWCR 3 Nashville, TN;E;NAm;n;2;;
@@ -3815,7 +3815,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6095;1405-1435;;J;Shiokaze;J;KRE;y;1;;
 6095;1000-1100;;KOR;KBS World Radio;J;FE;k;4;;
 6095;1130-1230;;KOR;KBS World Radio;M;CHN;k;1;;
-6095;0900-1600;25Dec;HOL;Mighty KBC;E;Eu;/D-n;6;2110;2512
+6095;0900-1600;25Dec;HOL;Mighty KBC;E;Eu;/D-n;6;0112;2512
 6100;1530-1600;;AFG;Radio Afghanistan;E;SAs;y;1;;[1017]
 6100;1600-1630;;AFG;Radio Afghanistan;UR;SAs;y;1;;[1017]
 6100;0000-0100;;CHN;China Radio Int.;P;SAm;b;0;;
