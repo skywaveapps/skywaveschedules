@@ -168,6 +168,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 621;1615-1620;4.Th;KRE;V15 Spy Numbers;K;FE;c;1;;
 621;0730-1330;;KRE;Voice of Korea;J;J;c;1;;
 621;2130-0030;;KRE;Voice of Korea;J;J;c;1;;
+621;0300-0330;;MDA;Radio Odin Plus (PMR);UK;EEu;;2;;
+621;0330-0400;;MDA;Radio Odin Plus (PMR);RO;EEu;;2;;
+621;0400-0615;;MDA;Radio Odin Plus (PMR);R;EEu;;2;;[1017]
 621;0400-1300;;USA;Radio Mashaal;PS;PAK;/AFG-x;1;;
 621;0100-0200;;USA;VoA Deewa Radio;PS;PAK;/AFG-x;1;;
 621;0200-0300;;USA;VoA Deewa Radio;PS;PAK;/AFG-x;1;;
@@ -360,7 +363,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 864;1610-1625;;USA;Trans World Radio;TK;CAs;/ARM;1;;[1015]
 864;1625-1640;;USA;Trans World Radio;KZ;CAs;/ARM;1;;
 864;1640-1655;SaSu;USA;Trans World Radio;KPK;CAs;/ARM;1;;
-864;1640-1710;Mo-Fr;USA;Trans World Radio;R;CAs;/ARM;1;;[1016]
+864;1640-1710;Mo-Fr;USA;Trans World Radio;R;CAs;/ARM;1;;[0917]
 864;1655-1710;Sa;USA;Trans World Radio;KPK;CAs;/ARM;1;;
 864;1655-1710;Su;USA;Trans World Radio;UZ;CAs;/ARM;1;;
 864;1710-1740;;USA;Trans World Radio;UZ;CAs;/ARM;1;;
@@ -401,7 +404,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 873;1830-1900;;KRE;PBS Pyongyang Pansong;K;FE;sn;1;;
 873;1900-2030;;KRE;PBS Pyongyang Pansong;K;FE;sn;1;;
 873;0400-2000;;MDA;R.Moldova Actualitati;RO;MDA;;2;;
-873;0700-0710;SaSu;MDA;R.Moldova Actualitati;R;MDA;;2;;
+873;0700-0710;SaSu;MDA;R.Moldova Actualitati;R;MDA;;2;;[1017]
 873;0700-0715;Mo-Fr;MDA;R.Moldova Actualitati;R;MDA;;2;;
 873;0900-0905;;MDA;R.Moldova Actualitati;R;MDA;;2;;
 873;1200-1205;SaSu;MDA;R.Moldova Actualitati;R;MDA;;2;;
@@ -531,7 +534,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 981;1230-1300;Mo-Fr;J;NHK Radio Japan;T;THA;/THA;1;;
 990;0000-2400;;USA;Radio Sawa;A;ME;/CYP-g;1;;
 999;1900-1915;;USA;Trans World Radio;UK;EEu;/MDA;2;;
-999;1915-1930;SaSu;USA;Trans World Radio;R;EEu;/MDA;2;;
+999;1915-1930;SaSu;USA;Trans World Radio;R;EEu;/MDA;2;;[0917]
 999;1915-1930;Mo-Fr;USA;Trans World Radio;UK;EEu;/MDA;2;;
 999;1930-2015;Su-Tu;USA;Trans World Radio;R;EEu;/MDA;2;;
 999;1930-2015;Sa;USA;Trans World Radio;UK;EEu;/MDA;2;;
@@ -683,12 +686,11 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1188;1500-1700;;HNG;Magyar Radio 4;RO;HNG;sz;2;;
 1188;1700-1900;;HNG;Magyar Radio 4;SK;HNG;sz;2;;
 1188;1700-1900;;HNG;Magyar Radio 4;SK;HNG;m;2;;
-1188;1000-1100;Mo-Fr;PHL;FEBC Manila;E;FE;/KOR-s;1;;
-1188;1900-2000;;PHL;FEBC Manila;M;FE;/KOR-s;1;;
-1188;2000-1000;;PHL;FEBC Manila;K;FE;/KOR-s;1;;
+1188;1100-1230;;PHL;FEBC Manila;E;FE;/KOR-s;1;;
+1188;1900-1100;;PHL;FEBC Manila;K;FE;/KOR-s;1;;
 1188;1500-1700;;USA;Radio Free Asia;K;FE;/KOR-s;1;;
 1188;1700-1900;;USA;Radio Free Asia;K;FE;/KOR-s;1;;
-1188;1100-1500;;USA;Voice of America;K;FE;/KOR-s;1;;
+1188;1200-1500;;USA;Voice of America;K;FE;/KOR-s;1;;
 1197;0820-0830;Su;ROU;Radio Bukarest;D;ROU;;2;;
 1197;1200-1300;Mo-Sa;ROU;Radio Bukarest;D;ROU;;2;;
 1197;0830-0900;Su;ROU;Radio Neumarkt;D;ROU;;2;;
@@ -806,7 +808,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1350;1800-1815;;USA;Trans World Radio;KU;ME;/ARM;1;;
 1350;1815-1845;;USA;Trans World Radio;TU;ME;/ARM;1;;[0416]
 1350;1845-1915;Sa-Th;USA;Trans World Radio;HB;ME;/ARM;1;;[0917]
-1350;1845-1915;Fr;USA;Trans World Radio;R;ME;/ARM;1;;[1115]
+1350;1845-1915;Fr;USA;Trans World Radio;R;ME;/ARM;1;;[0917]
 1359;0254-0600;;ETH;V.o.Tigray Revolution;TIG;EAf;a;1;;
 1359;0600-0900;SaSu;ETH;V.o.Tigray Revolution;TIG;EAf;a;1;;
 1359;0930-1030;Mo-Fr;ETH;V.o.Tigray Revolution;TIG;EAf;a;1;;
@@ -838,7 +840,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1386;0330-0400;;J;NHK Radio Japan;R;EEu;/LTU-v;1;;
 1386;1730-1800;;J;NHK Radio Japan;R;EEu;/LTU-v;1;;[0417]
 1386;0400-0500;;POL;Polskie Radio;BY;BLR;/LTU-v;1;;
-1386;1630-1730;;POL;Polskie Radio;R;BLR;/LTU-v;1;;[0417]
+1386;1630-1730;;POL;Polskie Radio;R;BLR;/LTU-v;1;;[1117]
 1386;0300-0330;;USA;Radio Liberty;BY;BLR;/LTU-v;1;;
 1386;1800-1900;;USA;Radio Liberty;R;EEu;/LTU-v;1;;[0417]
 1386;1900-2100;;USA;Radio Liberty;BY;BLR;/LTU-v;1;;[0417]
@@ -861,7 +863,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1413;1800-1900;;G;BBC;DR;AFG;/OMA-a;1;;
 1413;1900-2000;;G;BBC;E;ME;/OMA-a;1;;
 1413;2000-2100;;G;BBC;E;ME;/OMA-a;1;;
-1413;0000-2400;;RUS;Vesti FM;R;EEu;/MDA;1;;
+1413;0000-2400;;RUS;Vesti FM;R;EEu;/MDA;1;;[0917]
 1422;0600-0900;We-Mo;CHN;China National Radio 17;KZ;CHN;ka;1;;
 1422;0900-1200;;CHN;China National Radio 17;KZ;CHN;ka;1;;
 1422;1200-1500;;CHN;China National Radio 17;KZ;CHN;ka;1;;
@@ -920,7 +922,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1467;2230-2245;;USA;Trans World Radio;A;NAf;/F-ro;2;;
 1476;1400-1415;Th;IND;FEBA India;HI;SAs;ja;1;;
 1494;0400-2000;;MDA;R.Moldova Actualitati;RO;MDA;;2;;
-1494;0700-0710;SaSu;MDA;R.Moldova Actualitati;R;MDA;;2;;
+1494;0700-0710;SaSu;MDA;R.Moldova Actualitati;R;MDA;;2;;[1017]
 1494;0700-0715;Mo-Fr;MDA;R.Moldova Actualitati;R;MDA;;2;;
 1494;0900-0905;;MDA;R.Moldova Actualitati;R;MDA;;2;;
 1494;1200-1205;SaSu;MDA;R.Moldova Actualitati;R;MDA;;2;;
@@ -933,7 +935,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1494;1815-1855;Th;MDA;R.Moldova Actualitati;UK;MDA;;2;;
 1494;1835-1855;Tu-We;MDA;R.Moldova Actualitati;R;MDA;;2;;
 1494;1900-1915;Mo-Fr;MDA;R.Moldova Actualitati;R;MDA;;2;;
-1494;1915-1930;Tu-Fr;MDA;R.Moldova Actualitati;R;MDA;;2;;[0116]
+1494;1915-1930;Tu-Fr;MDA;R.Moldova Actualitati;R;MDA;;2;;[1017]
 1494;1825-1855;SaSu;USA;Radio Liberty;RO;MDA;/MDA;2;;
 1494;1915-1945;Mo;USA;Radio Liberty;R;MDA;/MDA;2;;
 1494;2030-2100;Mo;USA;Radio Liberty;RO;MDA;/MDA;2;;
@@ -1052,7 +1054,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1566;1100-1230;;PHL;FEBC Manila;M;CHN;/KOR-j;1;;
 1566;1230-1345;;PHL;FEBC Manila;J;J;/KOR-j;1;;[0817]
 1566;1345-1600;;PHL;FEBC Manila;M;CHN;/KOR-j;1;;
-1566;1600-1830;;PHL;FEBC Manila;K;FE;/KOR-j;1;;
+1566;1600-1630;;PHL;FEBC Manila;K;FE;/KOR-j;1;;
+1566;1630-1700;;PHL;FEBC Manila;R;FE;/KOR-j;1;;[1117]
+1566;1700-1830;;PHL;FEBC Manila;K;FE;/KOR-j;1;;
 1566;1830-1900;;PHL;FEBC Manila;M;CHN;/KOR-j;1;;
 1566;1900-1100;;PHL;FEBC Manila;K;FE;/KOR-j;1;;[1017]
 1566;0325-0330;Mo-Fr;SWZ;Trans World Radio;E;WAf;/BEN-p;1;;
@@ -2080,9 +2084,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3969;0430-0630;;KRE;Echo of Unification;K;KOR;c;1;;[0817]
 3969;1230-1430;;KRE;Echo of Unification;K;KOR;c;1;;
 3969;2230-0030;;KRE;Echo of Unification;K;KOR;c;1;;
-3975;0630-0710;Su;CVA;Radio Vaticana;L;SEu;;2;;
-3975;1940-2000;Su;CVA;Radio Vaticana;Ros;SEu;;4;;
-3975;2140-2200;;CVA;Radio Vaticana;A;Eu;;2;;
 3975;1200-1400;Mo-Sa;D;Shortwave Radio;E;WEu;wa;2;;
 3975;1600-1800;Mo-Sa;D;Shortwave Radio;E;WEu;wa;2;;[1017]
 3975;2000-2200;Mo-Sa;D;Shortwave Radio;E;WEu;wa;2;;[1017]
@@ -2129,7 +2130,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4010;1410-1430;Su;KGZ;Birinchi Radio;R;CAs;b;1;;[1114]
 4010;1700-1728;Mo-Fr;KGZ;Birinchi Radio;KG;CAs;b;1;;[0617]
 4010;1700-1730;SaSu;KGZ;Birinchi Radio;R;CAs;b;1;;
-4010;1728-1800;Mo-Fr;KGZ;Birinchi Radio;R;CAs;b;1;;[1216]
+4010;1728-1800;Mo-Fr;KGZ;Birinchi Radio;R;CAs;b;1;;[0917]
 4010;1730-1800;SaSu;KGZ;Birinchi Radio;KG;CAs;b;1;;
 4010;1800-2000;irr;KGZ;Birinchi Radio;KG;CAs;b;1;;[0717]
 4014;0430-0600;;AFS;ZSJ CapeNaval Meteo Fax;;SAf;ct;4;;
@@ -2527,8 +2528,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4764;1047-1330;;PRU;Radio Huanta 2000;Q,S;PRU;hu;1;;[0316]
 4764;2243-0100;;PRU;Radio Huanta 2000;Q,S;PRU;hu;1;;[1117]
 4765;0800-0300;;B;Radio Integracao;P;B;cs;3;;[0915]
-4765;0130-0502;;CUB;Radio Progreso;S;Car;b;2;;[1017]
-4765;0300-0900;;TJK;Radio Tajikistan;TJ;CAs;y;1;;[0317]
+4765;0130-0502;;CUB;Radio Progreso;S;Car;b;2;;[1117]
+4765;0300-0900;;TJK;Radio Tajikistan;TJ;CAs;y;1;;[1117]
 4765;0900-0930;;TJK;Radio Tajikistan;R;CAs;y;1;;
 4765;0930-1000;;TJK;Radio Tajikistan;UZ;CAs;y;1;;
 4765;1000-2000;;TJK;Radio Tajikistan;TJ;CAs;y;1;;[1117]
@@ -3110,6 +3111,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5844;1730-1740;We,Sa;POL;E11 Polish Spy Numbers;E;;p;1;109;3110
 5845;1500-1600;;G;BBC;UR;SAs;/ARM;0;;
 5845;1630-1700;;G;BBC;BE;SAs;/SNG;0;;
+5845;1900-2000;15Nov;I;Radio IBC;E;Eu;/ARM;6;1511;1511
 5850;2300-2330;Mo-Sa;ALB;Radio Tirana;E;WNA;/USA-o;1;;
 5850;1000-1100;Mo;ARG;La Rosa de Tokio;S;WNA;/USA-o;1;;
 5850;0700-0800;Tu-Sa;ARG;R.Argentina al Exterior;E;WNA;/USA-o;1;;
@@ -3141,6 +3143,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5850;1030-1100;Sa;USA;WRMI Radio Miami Int.;E;WNA;o;1;;
 5850;2230-2300;Mo,Fr;USA;WRMI Radio Miami Int.;E;WNA;o;1;;
 5855;0954-1050;1357;CUB;Cuban Spy Numbers;S;Am;;1;;[0115]
+5855;1330-1415;;G;BBC;BR;SEA;/UZB;6;1311;2503
 5857.5;0530-0730;;KOR;HLL Seoul Meteo;E,K;FE;sg;1;;[0817]
 5857.5;1200-1700;;KOR;HLL Seoul Meteo;E,K;FE;sg;1;;[0517]
 5857.5;2240-2245;;KOR;HLL Seoul Meteo;E;FE;sg;1;;
@@ -3172,7 +3175,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5885;2100-2130;Mo-Fr;USA;Voice of America;F;WAf;/BOT;0;;
 5885;2130-2200;Mo-Fr;USA;Voice of America;BM;WAf;/STP;0;;
 5890;1900-2100;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
-5890;1330-1415;;G;BBC;BR;SEA;/UZB;0;;
+5890;1330-1415;;G;BBC;BR;SEA;/UZB;6;2910;1211
 5890;2200-2400;;G;BBC;E;FE;/SNG;0;;
 5890;1300-1310;Th;RUS;G06 Russian Spy Numbers;D;RUS;xx;1;105;3108[0517]
 5890;0400-0500;Tu-Sa;USA;Brother Stair;E;NAm;n;2;;
@@ -3249,7 +3252,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5920;2200-0300;;EQA;HCJB Voice of Andes;E;Eu;/D-we;4;;
 5920;1420-1520;;IRN;IRIB Voice of I.R.Iran;HI;SAs;s;0;;
 5920;0300-0800;;KOR;Voice of Freedom;K;KRE;c;1;;
-5920;0900-1500;;KOR;Voice of Freedom;K;KRE;c;1;;[1017]
+5920;0900-1500;;KOR;Voice of Freedom;K;KRE;c;1;;[1117]
 5920;1555-2000;;KOR;Voice of Freedom;K;KRE;c;1;;[1117]
 5920;2100-0200;;KOR;Voice of Freedom;K;KRE;c;1;;
 5920;0000-0100;;USA;World Harvest Radio;E;ENA;c;0;;
@@ -3301,7 +3304,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5935;1620-1720;;IRN;IRIB Voice of I.R.Iran;PS;SAs;a;0;;
 5935;2220-2320;;IRN;IRIB Voice of I.R.Iran;IN;SEA;s;0;;
 5935;1800-1900;;ROU;Radio Romania Int.;E;WEu;t;0;;
-5935;1700-1800;;TWN;Radio Taiwan Int.;R;EEu;/F;6;511;2503
+5935;1700-1800;;TWN;Radio Taiwan Int.;R;EEu;/F;6;911;1011
+5935;1700-1800;;TWN;Radio Taiwan Int.;R;EEu;/F;6;1511;2503
 5935;0000-0030;Su;USA;Brother Stair;E;NAm;n;6;511;2503
 5935;2300-2400;Mo-Sa;USA;Brother Stair;E;NAm;n;6;511;2503
 5935;0100-1300;;USA;Dr.Gene Scott;E;NAm;n;2;;
@@ -3421,7 +3425,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5975;1651-1750;Su-Fr;NZL;RNZI DIGITAL;E;SOc;r;0;;
 5975;1710-1720;Mo-Fr;NZL;RNZI DIGITAL;COK;SOc;r;0;;
 5975;1720-1730;Mo;NZL;RNZI DIGITAL;F;SOc;r;0;;
-5975;1100-1110;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[0217]
+5975;1100-1110;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1117]
 5975;0400-0430;;USA;Adventist World Radio;BU;SEE;/D-n;0;;
 5975;0400-0600;;VTN;Voice of Vietnam 1;VN;VTN;m;8;;[0117]
 5975;1100-1500;;VTN;Voice of Vietnam 1;VN;VTN;m;8;;[0216]
@@ -3452,7 +3456,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5985;0400-0430;;J;NHK Radio Japan;S;CAm;/USA-o;1;;
 5985;1100-1130;;J;NHK Radio Japan;R;FE;y;0;;
 5985;1120-1530;;MYA;Myanma Radio;BR;SEA;p;1;;[1017]
-5985;1215-1235;Mo;MYA;Myanma Radio;E;SEA;p;1;;[1017]
+5985;1215-1235;Mo;MYA;Myanma Radio;E;SEA;p;1;;[1117]
 5985;1230-1250;We;MYA;Myanma Radio;E;SEA;p;1;;[1017]
 5985;1445-1500;Mo-We;MYA;Myanma Radio (NHK);BR;SEA;p;1;;
 5985;1445-1505;SaSu;MYA;Myanma Radio (NHK);BR;SEA;p;1;;
@@ -3638,9 +3642,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6035;0800-1200;;BTN;Bhutan BS;E;BTN;;1;;[1017]
 6035;1200-1250;irr;BTN;Bhutan BS;SHC;BTN;;1;;[1117]
 6035;0945-1100;;CHN;PBS Yunnan Shangri-La;VN;CHN;kl;1;;[0416]
-6035;1100-1200;;CHN;PBS Yunnan Shangri-La;M;CHN;kl;1;;[1017]
+6035;1100-1200;;CHN;PBS Yunnan Shangri-La;M;CHN;kl;1;;[1117]
 6035;1200-1400;irr;CHN;PBS Yunnan Shangri-La;-MX;CHN;kl;1;;[0917]
-6035;1700-1900;;J;NHK Radio Japan;J#;FE;y;0;;
+6035;1700-1900;;J;NHK Radio Japan;J;FE;y;0;;
 6035;0815-0900;Th;UN;United Nations Radio;E;BTN;/BTN;1;;
 6040;0300-0400;;CHN;China National Radio 8;MO;CHN;hh;1;;
 6040;1400-1500;;CHN;China Radio Int.;M;INS;x;0;;
@@ -3707,7 +3711,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6055;1330-1400;Th;J;Radio Nikkei 1;E;FE;c;1;;[0217]
 6055;2155-1500;;J;Radio Nikkei 1;J;FE;c;1;;[1017]
 6055;1400-1500;;USA;Adventist World Radio;MSY;EAf;/MDG;0;;
-6059.8;0000-2400;;B;Super Radio Deus e Amor;P;SAm;cu;1;;[1017]
+6059.8;0000-2400;;B;Super Radio Deus e Amor;P;SAm;cu;1;;[1117]
 6060;0400-0500;;ALG;Radio Algerienne;A;CAf;/F;0;;
 6060;0500-0600;;ALG;Radio Algerienne;A;CAf;/F;0;;
 6060;1600-1700;;CHN;China Radio Int.;E;SEA;k;0;;
@@ -3811,7 +3815,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6095;1405-1435;;J;Shiokaze;J;KRE;y;1;;
 6095;1000-1100;;KOR;KBS World Radio;J;FE;k;4;;
 6095;1130-1230;;KOR;KBS World Radio;M;CHN;k;1;;
-6095;0900-1600;25Dec;HOL;Mighty KBC;E;Eu;/D-n;6;2110;2512
+6095;0900-1600;25Dec;HOL;Mighty KBC;E;Eu;/D-n;6;0112;2512
 6100;1530-1600;;AFG;Radio Afghanistan;E;SAs;y;1;;[1017]
 6100;1600-1630;;AFG;Radio Afghanistan;UR;SAs;y;1;;[1017]
 6100;0000-0100;;CHN;China Radio Int.;P;SAm;b;0;;
@@ -3835,6 +3839,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6100;0700-0800;;CUB;Radio Habana Cuba;E;WNA;b;1;711;
 6100;0800-0830;Su;CUB;Radio Habana Cuba;EO;WNA;b;1;711;
 6100;1100-1300;;CUB;Radio Habana Cuba;S;WNA;b;5;;
+6100;0100-0130;;G;BBC;HI;SAs;/OMA-a;6;1311;2503
 6100;0900-1200;;IND;AIR Vividh Bharati;HI;SAs;k;1;;
 6100;1330-1830;;KRE;KCBS Pyongyang;K;KRE;k;1;;[0817]
 6100;2030-0905;;KRE;KCBS Pyongyang;K;KRE;k;1;;[0817]
@@ -3990,6 +3995,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6155;2000-2100;;CHN;China Radio Int.;R;EEu;b;0;;
 6155;1000-1605;;CHN;CNR 2 China Business R.;M;CHN;B;4;;
 6155;2055-0100;;CHN;CNR 2 China Business R.;M;CHN;B;4;;
+6155;0230-0500;;CLA;Denge Kurdistan;KU;ME;/ARM;6;1511;2503
 6155;1800-2100;;CLA;Denge Kurdistan;KU;ME;/ARM;0;;
 6155;1700-1730;;CLA;Furusato no Kaze;J;KRE;/TWN-s;1;;
 6155;0200-0300;;G;BBC;E;SAs;/OMA-a;0;;
@@ -4005,6 +4011,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6160;1400-1600;Mo-Sa;D;Shortwave Radio;E;WEu;wa;2;;[0917]
 6160;2000-2200;Mo-Sa;D;Shortwave Radio;E;WEu;wa;2;;[0817]
 6160;1900-2400;;SOM;Puntland Radio One;SO;SOM;g;1;;
+6165;2000-2100;;AFS;Channel Africa;E;CAf;;8;;
 6165;0900-1100;;CHN;China National Radio 6;HK;CHN;B;1;;
 6165;1100-1605;;CHN;China National Radio 6;M;CHN;B;1;;
 6165;2155-0100;;CHN;China National Radio 6;AM;CHN;B;1;;
@@ -4015,6 +4022,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6165;0200-0600;;CUB;Radio Habana Cuba;E;WNA;b;4;1211;
 6165;0600-0700;;CUB;Radio Habana Cuba;E;WNA;b;4;1211;
 6165;0700-0800;;CUB;Radio Habana Cuba;E;WNA;b;4;1211;
+6165;0700-0800;;CUB;Radio Habana Cuba;S;WNA;b;6;1411;1411
 6165;0020-0320;;IRN;IRIB Voice of I.R.Iran;S;SAm;s;0;;
 6165;0430-0500;;J;NHK Radio Japan;R;Eu;/D-n;0;;
 6165;0600-0630;;J;NHK Radio Japan;A;NAf;/F;0;;
@@ -4083,8 +4091,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6185;0950-1600;;CHN;China Huayi BC;M;FE;f;1;;[1017]
 6185;2000-2200;;CHN;China Radio Int.;A;NAf;/ALB-c;0;;
 6185;2300-2400;;CHN;China Radio Int.;MO;MNG;x;0;;
-6185;1700-1720;;CVA;Radio Vaticana;BY;EEu;;4;;
-6185;1740-1800;;CVA;Radio Vaticana;UK;EEu;;4;;
+6185;1700-1720;;CVA;Radio Vaticana;BY;BLR;;4;;
+6185;1740-1800;;CVA;Radio Vaticana;UK;UKR;;4;;
 6185;1030-1130;;KRE;Voice of Korea;E;SEA;u;4;;
 6185;1130-1230;;KRE;Voice of Korea;F;SEA;u;4;;
 6185;1230-1330;;KRE;Voice of Korea KCBS;K;SEA;u;4;;
@@ -4626,7 +4634,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7220;1130-1230;;KRE;Voice of Korea;M;FE;u;1;;
 7220;0500-0600;;ROU;Radio Romania Int.;RO;SEu;g;0;;
 7220;2300-2400;;ROU;Radio Romania Int.;E;WEu;g;0;;
-7220;1700-1800;;TWN;Radio Taiwan Int.;R;EEu;/F;6;2910;411
+7220;1700-1800;;TWN;Radio Taiwan Int.;R;EEu;/F;6;2910;1411
 7220;0600-0630;;USA;Adventist World Radio;F;WAf;/F;0;;
 7220;0630-0700;;USA;Voice of America;HA;WAf;/STP;0;;
 7220;1830-1900;Su;XUU;Follow the Bible Min.;A;ME;/G-w;0;;
@@ -4733,7 +4741,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7245;0200-0400;;TJK;Voice of Tajik;TJ;As;y;1;;[0217]
 7245;0400-0600;;TJK;Voice of Tajik;FS;As;y;1;;[0317]
 7245;0600-0800;;TJK;Voice of Tajik;DR;As;y;1;;
-7245;0800-1000;;TJK;Voice of Tajik;R;As;y;1;;[0417]
+7245;0800-1000;;TJK;Voice of Tajik;R;As;y;1;;[1117]
 7245;1000-1100;;TJK;Voice of Tajik;UZ;As;y;1;;
 7245;1100-1200;;TJK;Voice of Tajik;HI;As;y;1;;
 7245;1200-1300;;TJK;Voice of Tajik;A;As;y;1;;[0216]
@@ -5031,7 +5039,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7317;0915-0925;Tu,Fr;POL;S11 Polish Spy Numbers;R;;p;1;109;3110[0917]
 7318;1930-1935;Sa;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0814]
 7320;2030-2100;;CHN;China Radio Int.;BU;Eu;k;0;;
-7320;0500-2000;;CLA;Denge Kurdistan;KU;ME;/ARM;0;;
+7320;0230-0500;;CLA;Denge Kurdistan;KU;ME;/ARM;0;;
+7320;0500-1800;;CLA;Denge Kurdistan;KU;ME;/ARM;0;;
+7320;1800-2100;;CLA;Denge Kurdistan;KU;ME;/ARM;0;;
 7320;0200-0230;;PHL;FEBC Manila;UR;SAs;/UAE;0;;
 7320;0230-0300;Fr;PHL;FEBC Manila;PS;SAs;/UAE;0;;
 7320;0800-0810;Mo;RUS;G06 Russian Spy Numbers;D;;xx;1;105;3108[0817]
@@ -5162,7 +5172,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7360;1800-2000;;CHN;China Radio Int.;F;SEu;/ALB-c;0;;
 7360;1550-1610;;CVA;Radio Vaticana;AR;Cau;;4;;
 7360;1610-1640;;CVA;Radio Vaticana;R;CAs;/PHL-t;4;;
-7360;1740-1800;;CVA;Radio Vaticana;UK;EEu;;4;;
+7360;1740-1800;;CVA;Radio Vaticana;UK;UKR;;4;;
 7360;0050-0220;;IRN;IRIB Voice of I.R.Iran;TJ;CAs;s;0;;
 7360;2020-2120;;IRN;IRIB Voice of I.R.Iran;S;SEu;s;0;;
 7360;0600-0630;;ROU;Radio Romania Int.;S;SEu;g;6;2910;2910
@@ -5171,10 +5181,13 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7365;1000-1805;;CHN;China National Radio 1;M;CHN;s;4;;
 7365;1200-1805;;CHN;China National Radio 1;M;CHN;s;5;;
 7365;1900-2000;;CHN;China Radio Int.;P;SAf;b;0;;
-7365;1900-1930;Sa;CVA;Radio Vaticana;S;CNR;;0;;
-7365;1940-2000;;CVA;Radio Vaticana;Ros;CAf;;0;;
-7365;2000-2030;;CVA;Radio Vaticana;E;CAf;;0;;
-7365;2030-2100;;CVA;Radio Vaticana;F;CAf;;0;;
+7365;1902-1930;Sa;CVA;Radio Vaticana;S;CNR;;0;;
+7365;1940-2000;;CVA;Radio Vaticana;Ros;WAf;;0;;
+7365;1940-2010;1.Sa;CVA;Radio Vaticana;Ros;WAf;;0;;
+7365;2000-2030;;CVA;Radio Vaticana;E;WAf;;0;;
+7365;2010-2040;1.Sa;CVA;Radio Vaticana;E;WAf;;0;;
+7365;2030-2100;;CVA;Radio Vaticana;F;WAf;;0;;
+7365;2040-2110;1.Sa;CVA;Radio Vaticana;F;WAf;;0;;
 7365;0300-0330;;EQA;HCJB Voice of Andes;R;Eu;/D-we;4;;
 7365;0330-1600;;EQA;HCJB Voice of Andes;D;Eu;/D-we;4;;
 7365;0600-1600;;EQA;HCJB Voice of Andes;D;Eu;/D-we;5;;
@@ -5352,7 +5365,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7410;0200-0300;;ROU;Radio Romania Int.;F;ENA;g;0;;
 7410;0300-0400;;ROU;Radio Romania Int.;S;CAm;g;0;;
 7410;0400-0500;;ROU;Radio Romania Int.;E;WNA;t;0;;
-7410;0730-0740;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[0217]
+7410;0730-0740;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1117]
 7415;0000-0100;;CHN;China Radio Int.;R;Sib;h;0;;
 7415;1800-1830;;CHN;China Radio Int.;FS;IRN;x;0;;
 7415;1830-1900;;CHN;China Radio Int.;FS;IRN;x;0;;
@@ -5559,7 +5572,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7510;1500-1515;We-Su;GUM;KTWR Trans World Radio;K;FE;m;0;;
 7510;1730-1800;;S;IBRA Radio;SLT;EAf;/ARM;0;;
 7520;0400-1500;;CLA;Denge Kurdistan;KU;ME;/ARM;6;2910;611
-7520;0500-1500;;CLA;Denge Kurdistan;KU;ME;/ARM;6;711;2503
+7520;0500-1800;;CLA;Denge Kurdistan;KU;ME;/ARM;6;711;2503
 7520;1200-1500;;CLA;National Unity Bc.Sta.;K;KRE;/TJK-y;4;;
 7520;0015-0430;;IND;All India Radio GOS;UR;PAK;k;1;;
 7520;0350-0700;26Jan;IND;All India Radio GOS;HI;PAK;k;1;101;2601
@@ -5595,6 +5608,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7550;1745-1945;;IND;All India Radio GOS;E;Eu;b;1;;
 7550;1945-2045;;IND;All India Radio GOS;HI;Eu;b;1;;
 7550;2045-2230;;IND;All India Radio GOS;E;Eu;b;1;;
+7550;2245-0045;;IND;All India Radio GOS;E;SEA;b;6;1511;2503
 7553;0600-1600;;CHN;V26 Numbers Station;M;FE;xx;1;;
 7555;1215-1330;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
 7555;1512-1530;;IND;AIR Delhi;HI;SAs;d;1;;
@@ -6352,17 +6366,19 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9265;0000-0300;;USA;WINB;E;NAm;rl;5;;
 9265;0000-0400;;USA;WINB;E;NAm;rl;4;;
 9265;0400-0500;Mo;USA;WINB;E;NAm;rl;2;;
-9265;1200-1400;Su;USA;WINB;E;NAm;rl;2;;
-9265;1400-2030;SaSu;USA;WINB;E;NAm;rl;2;;
+9265;1200-1430;Su;USA;WINB;E;NAm;rl;2;;
+9265;1430-2030;SaSu;USA;WINB;E;NAm;rl;2;;
 9265;2030-2100;;USA;WINB;E;NAm;rl;2;;
 9265;2055-2058;Mo-Th;USA;WINB;S;NAm;rl;2;;
 9265;2100-2130;Th-Tu;USA;WINB;E;NAm;rl;2;;
 9265;2100-2130;We;USA;WINB;S;NAm;rl;2;;
-9265;2130-2300;;USA;WINB;E;NAm;rl;2;;
+9265;2130-2200;;USA;WINB;E;NAm;rl;2;;
+9265;2200-2230;Th-Tu;USA;WINB;E;NAm;rl;2;;
+9265;2200-2230;We;USA;WINB;S;NAm;rl;2;;
+9265;2230-2300;;USA;WINB;E;NAm;rl;2;;
 9265;2300-2400;Tu-Su;USA;WINB;E;NAm;rl;2;;
 9265;2300-2400;Mo;USA;WINB;S;NAm;rl;2;;
 9265;2300-2400;;USA;WINB;E;NAm;rl;5;;
-9275;1600-2100;Su-Fr;USA;WMLK Bethel, PA;E;NAm;bt;8;;[0317]
 9280;0100-0700;;TWN;Sound of Hope;M;FE;;1;;[0917]
 9280;0700-0800;;TWN;Sound of Hope;M;FE;;1;;[0417]
 9280;0800-1000;;TWN;Sound of Hope;M;FE;;1;;[0917]
@@ -6423,6 +6439,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9360;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 9360;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
 9370;1300-1900;;USA;VoA Deewa Radio;PS;AFG;/THA-u;0;;
+9370;0200-1200;;USA;Brother Stair;E;NAm;ma;6;1611;1611
 9370;1200-0200;;USA;WWRB Manchester, TN;E;NAm;ma;1;;
 9371;1730-1740;Th;POL;E11 Polish Spy Numbers;E;;p;1;103;3004[0317]
 9371;1730-1740;Th;POL;E11 Polish Spy Numbers;E;;p;1;109;3110[0915]
@@ -6452,6 +6469,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9390;1700-1800;;USA;Voice of America;KU;ME;/D-b;0;;
 9395;0200-0300;Tu-Sa;ARG;R.Argentina al Exterior;E;ENA;/USA-o;2;;
 9395;0300-0330;;CZE;Radio Prague;E;ENA;/USA-o;2;;
+9395;1500-1800;25Nov;D;Shortwaveservice;E;ENA;/USA-o;6;1511;2511
 9395;0330-0400;;SVK;Radio Slovakia Int.;E;ENA;/USA-o;2;;
 9395;1400-1430;Su;USA;Adventist World Radio;E;SAm;o;1;;[1117]
 9395;0000-0100;;USA;Brother Stair;E;ENA;o;4;;
@@ -6465,7 +6483,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9395;1630-1730;Su;USA;WRMI Radio Miami Int.;S;ENA;o;0;;
 9399;0900-0910;Mo,We;POL;E11 Polish Spy Numbers;E;;p;1;103;3004[0417]
 9399;0900-0910;Mo,We;POL;E11 Polish Spy Numbers;E;;p;1;109;3110[1017]
-9400;0800-1300;irr;EGY;Unknown Station;-MX;ME;;1;;[0917]
+9400;0800-1300;irr;EGY;Unknown Station;-MX;ME;;1;;[1117]
 9400;1701-1801;;G;Bible Voice;FS;IRN;/BUL-s;0;;
 9400;1931-1946;Sa;G;Bible Voice;A;EAf;/BUL-s;0;;
 9400;1900-1930;;G;End Times Coming Radio;E;Eu;/BUL-s;0;;
@@ -6753,7 +6771,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9505;1430-1450;;CVA;Radio Vaticana;HI;SAs;/PHL-t;6;1011;2503
 9505;1450-1510;;CVA;Radio Vaticana;TAM;SAs;/PHL-t;6;1011;2503
 9505;1510-1530;;CVA;Radio Vaticana;MAL;SAs;/PHL-t;6;1011;2503
-9505;1530-1600;Sa;CVA;Radio Vaticana;E;SAs;/PHL-t;6;1011;2503
 9505;1600-1700;;SDN;Voice of Africa;F;EAf;a;1;;[0317]
 9505;1700-1800;;SDN;Voice of Africa;E;EAf;a;1;;[0417]
 9505;1800-2100;;SDN;Voice of Africa;A;EAf;a;1;;[0317]
@@ -6772,7 +6789,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9510;1430-1450;;CVA;Radio Vaticana;HI;SAs;/PHL-t;6;2910;911
 9510;1450-1510;;CVA;Radio Vaticana;TAM;SAs;/PHL-t;6;2910;911
 9510;1510-1530;;CVA;Radio Vaticana;MAL;SAs;/PHL-t;6;2910;911
-9510;1530-1600;Sa;CVA;Radio Vaticana;E;SAs;/PHL-t;6;2910;911
 9510;1330-1400;;G;BBC;BE;SAs;/SNG;0;;
 9510;1400-1430;;G;BBC;HI;SAs;/SNG;0;;
 9510;0900-1000;Sa;I;IRRS Milano;D;Eu;/BUL-s;2;;
@@ -6800,7 +6816,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9525;1000-1100;;INS;Voice of Indonesia;E;Oc;j;1;;[0717]
 9525;1100-1200;;INS;Voice of Indonesia;M;FE;j;1;;
 9525;1200-1300;;INS;Voice of Indonesia;J;FE;j;1;;[1017]
-9525;1300-1400;;INS;Voice of Indonesia;E;FE;j;1;;[1017]
+9525;1300-1400;;INS;Voice of Indonesia;E;FE;j;1;;[1117]
 9525;1300-1400;;INS;Voice of Indonesia;NL;FE;j;6;3010;3010
 9525;1400-1500;;INS;Voice of Indonesia;IN;FE;j;1;;[1017]
 9525;1500-1600;;INS;Voice of Indonesia;NL;FE;j;1;;[0717]
@@ -6810,7 +6826,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9525;1900-2000;;INS;Voice of Indonesia;E;Eu;j;1;;[1017]
 9525;2000-2100;;INS;Voice of Indonesia;F;Eu;j;1;;[1117]
 9525;2100-2200;irr;INS;Voice of Indonesia;J;Eu;j;1;;
-9530;0900-1859;;B;Radio Transmundial;P;SAm;sm;3;;[0916]
+9530;0900-1859;;B;Radio Transmundial;P;SAm;sm;3;;[1117]
 9530;1859-2000;;B;Radio Transmundial;P;SAm;sm;3;;
 9530;0000-0200;;CHN;China National Radio 11;TB;CHN;as;1;;
 9530;0200-0300;;CHN;China National Radio 11;AMD;CHN;as;1;;
@@ -6867,7 +6883,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9545;1930-2000;;G;BBC;HA;WAf;w;0;;
 9545;2000-2030;Fr;G;BBC;HA;WAf;w;0;;
 9545;0457-0717;irr;SLM;Solomon Islands B.C.;E;SLM;;6;2910;2910
-9545;2200-0457;;SLM;Solomon Islands B.C.;E;SLM;;1;;[0917]
+9545;2200-0457;;SLM;Solomon Islands B.C.;E;SLM;;1;;[1117]
 9550;0900-2200;;B;R.Boa Vontade, P.Alegre;P;B;e;3;;[1117]
 9550;0000-0100;;CHN;China Radio Int.;HK;SEA;k;0;;
 9550;0100-0200;;CHN;China Radio Int.;AM;SEA;k;0;;
@@ -6954,10 +6970,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9590;0530-0630;;MYA;Thazin Radio;POR;SEA;p;1;;[1013]
 9590;0630-0730;;MYA;Thazin Radio;KYH;SEA;p;1;;[0417]
 9590;0730-0830;;MYA;Thazin Radio;SHA;SEA;p;1;;[0316]
-9590;1400-1500;;TWN;Radio Taiwan Int.;R;CAs;s;1;;
+9590;1400-1500;;TWN;Radio Taiwan Int.;R;Sib;s;1;;
 9590;2000-2100;;USA;Radio Free Asia;M;FE;/MRA-s;0;;
 9590;1900-2000;;USA;Voice of America;F;WAf;/STP;0;;
-9595;1615-1715;;IND;All India Radio GOS;R;EEu;k;1;;
+9595;1615-1715;;IND;All India Radio GOS;R;EEu;k;8;;
 9595;0830-0900;Sa;J;Radio Nikkei 1;E;FE;c;1;;
 9595;1330-1400;Th;J;Radio Nikkei 1;E;FE;c;1;;[0616]
 9595;2155-1500;;J;Radio Nikkei 1;J;FE;c;1;;[0917]
@@ -7072,7 +7088,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9640;1400-1500;;CUB;Radio Habana Cuba;S;Car;be;5;;
 9640;2200-2300;;CUB;Radio Habana Cuba;S;Car;be;4;;
 9640;2300-2400;;CUB;Radio Habana Cuba;S;Car;be;4;;
-9640;1550-1610;;CVA;Radio Vaticana;AR;EEu;;0;;
+9640;1550-1610;;CVA;Radio Vaticana;AR;Cau;;0;;
 9640;1610-1640;;CVA;Radio Vaticana;R;EEu;;0;;
 9640;1500-1600;;KOR;KBS World Radio;VN;SEA;k;1;;
 9640;1600-1700;;KOR;KBS World Radio;E;SEA;k;1;;
@@ -7090,12 +7106,14 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9645;0000-0027;;PHL;Radio Veritas Asia;KC;SEA;p;0;;
 9645.4;0000-2400;;B;Radio Bandeirantes, SP;P;B;sb;1;;[1016]
 9650;0700-1758;;AFS;Radio Sonder Grense;AF;NMB;;0;;
+9650;1230-1300;;G;Babcock Test;E;Eu;w;6;1611;1611
 9650;0600-0001;;GUI;Radio Guinee;F;WAf;c;1;;[1117]
 9650;0730-1330;;KRE;Voice of Korea;J;J;u;1;;
 9650;2130-0030;;KRE;Voice of Korea;J;J;u;1;;
 9650;0200-0300;;TUR;Voice of Turkey;S;CAm;e;0;;
 9650;1800-1830;;USA;Afia Darfur Radio;A;EAf;/G-w;0;;
 9650;1500-1600;Tu-Th;USA;Living Water Ministry;K;FE;/PHL-p;1;;
+9655;0500-0600;;AFS;Channel Africa;E;CAf;;8;;
 9655;2355-0100;;CHN;China National Radio 13;UI;CHN;L;4;;
 9655;0100-0200;;CHN;China Radio Int.;M;SEA;n;0;;
 9655;0200-0300;;CHN;China Radio Int.;BE;SAs;k;0;;
@@ -7113,11 +7131,15 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9660;0400-0415;;CVA;Radio Vaticana;AH;EAf;;5;;
 9660;0415-0430;;CVA;Radio Vaticana;TIG;EAf;;5;;
 9660;0430-0500;;CVA;Radio Vaticana;F;CAf;/MDG;5;;
-9660;1730-1800;;CVA;Radio Vaticana;AH;EAf;;4;;
+9660;1730-1800;We,Fr;CVA;Radio Vaticana;AH;EAf;;4;;
+9660;1730-1800;2467;CVA;Radio Vaticana;TIG;EAf;;4;;
 9660;1800-1830;;CVA;Radio Vaticana;P;SAf;;1;;
 9660;2000-2030;;CVA;Radio Vaticana;E;WAf;;4;;
+9660;2010-2040;1.Sa;CVA;Radio Vaticana;E;WAf;;4;;
 9660;2030-2100;;CVA;Radio Vaticana;F;WAf;;4;;
+9660;2040-2110;1.Sa;CVA;Radio Vaticana;F;WAf;;4;;
 9660;2100-2130;;CVA;Radio Vaticana;P;WAf;;0;;
+9660;2110-2140;1.Sa;CVA;Radio Vaticana;P;WAf;;0;;
 9660;0000-0300;;TWN;Radio Taiwan Int.;M;FE;k;1;;
 9660;1000-1100;;TWN;Radio Taiwan Int.;M;FE;k;1;;
 9660;1100-1200;;TWN;Radio Taiwan Int.;M;FE;k;1;;
@@ -7136,6 +7158,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9665;1630-1730;;CHN;China Radio Int.;HA;NIG;k;0;;
 9665;1900-1930;Sa;CVA;Radio Vaticana;S;GNE;;0;;
 9665;1940-2000;Su;CVA;Radio Vaticana;Ros;WAf;;0;;
+9665;1940-2000;1.Sa;CVA;Radio Vaticana;Ros;WAf;;0;;
 9665;0430-0500;;F;Radio France Int.;SWA;EAf;/MDG;0;;
 9665;2030-1830;;KRE;KCBS Pyongyang;K;KRE;p;1;;[0717]
 9670;0000-0100;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
@@ -7183,7 +7206,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9690;1900-2300;;E;Radio Exterior Espana;S;NAm;n;0;;
 9690;1300-1400;Su;F;Radio France Int.;VN;SEA;/TWN-p;1;;
 9690;1330-1500;;IND;All India Radio GOS;E;SEA;b;1;;
-9690;2245-0045;;IND;All India Radio GOS;E;SEA;b;1;;
+9690;2245-0045;;IND;All India Radio GOS;E;SEA;b;6;2910;1411
 9690;0600-0700;;NIG;Voice of Nigeria;HA;WAf;;1;;[0817]
 9690;0700-0730;irr;NIG;Voice of Nigeria;F;WAf;;1;;[0217]
 9690;1930-2000;irr;NIG;Voice of Nigeria;FU;WAf;;1;;[0817]
@@ -7200,7 +7223,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9700;1630-1700;;CVA;Radio Vaticana;A;ME;;4;;
 9700;1700-1715;;CVA;Radio Vaticana;F;ME;;0;;
 9700;1715-1730;;CVA;Radio Vaticana;E;ME;;0;;
-9700;1940-2000;;CVA;Radio Vaticana;Ros;ME;;4;;
+9700;1940-2000;Su;CVA;Radio Vaticana;Ros;ME;;4;;
 9700;1420-1520;;IRN;IRIB Voice of I.R.Iran;BE;SAs;s;0;;
 9700;0400-0700;;TUR;Voice of Turkey;TU;Eu;e;0;;
 9700;0100-0200;;USA;Radio Free Asia;UI;FE;/KWT;0;;
@@ -7525,8 +7548,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9845;2023-0100;;CHN;China National Radio 1;M;CHN;b;4;;
 9850;2100-1600;;CHN;CNR1 Jammer/Firedrake;M;CHN;;1;;
 9850;0215-0825;;CHN;PBS Qinghai;TB;CHN;xg;1;;[0417]
-9850;0710-0800;Su;CVA;Radio Vaticana;UK;UKR;;2;;
-9850;1940-2000;;CVA;Radio Vaticana;Ros;ME;;2;;
 9850;1820-1920;;IRN;IRIB Voice of I.R.Iran;HA;WAf;s;0;;
 9850;1030-1130;;KRE;Voice of Korea;E;SEA;u;4;;
 9850;1130-1230;;KRE;Voice of Korea;F;SEA;u;4;;
@@ -7609,14 +7630,15 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9890;1530-1630;;KRE;Voice of Korea;A;ME;u;1;;
 9890;1630-1730;;KRE;Voice of Korea;E;ME;u;1;;
 9890;1730-1830;;KRE;Voice of Korea;A;ME;u;1;;
+9895;1900-2000;;AFS;Channel Africa;E;CAf;;8;;
 9895;1300-1330;;CLA;Voice of Tibet;TB;Tib;/TJK;1;811;
 9895;1330-1400;;CLA;Voice of Tibet;TB;Tib;/TJK;1;811;
 9895;1300-1330;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;811;
 9895;1330-1400;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;811;
 9898;1300-1330;;CLA;Voice of Tibet;TB;Tib;/TJK;1;811;
-9898;1330-1400;;CLA;Voice of Tibet;TB;Tib;/TJK;1;811;
+9898;1330-1400;;CLA;Voice of Tibet;TB;Tib;/TJK;6;811;1311
 9900;1300-1330;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;811;
-9900;1330-1400;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;811;
+9900;1330-1400;;CHN;CNR1 Jammer/Firedrake;M;FE;;6;811;1311
 9900;2230-0030;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
 9900;2300-2400;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 9900;1700-1900;;EGY;Radio Cairo;TU;TUR;a;0;;
@@ -7627,6 +7649,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9900;1420-1520;;IRN;IRIB Voice of I.R.Iran;HI;SAs;s;0;;
 9900;2230-0030;;TWN;Radio Taiwan Int.;M;FE;;1;;
 9900;2300-2400;;USA;Radio Free Asia;M;FE;/MRA-s;0;;
+9903;1330-1400;;CLA;Voice of Tibet;TB;Tib;/TJK;1;1411;
+9905;1330-1400;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;1411;
 9905;1700-1800;;USA;World Harvest Radio;E;SEA;/PLW;0;;
 9910;1100-1130;Su;GUM;KTWR Trans World Radio;E;FE;m;0;;
 9910;1100-1200;Mo-Fr;GUM;KTWR Trans World Radio;M;FE;m;0;;
@@ -7692,7 +7716,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9930;1000-1300;SaSu;USA;World Harvest Radio;E;FE;/PLW;1;;[1117]
 9930;1400-2400;;USA;WTWW Lebanon, TN;E;NAm;L;8;;
 9935;0600-1300;irr;GRC;Voice of Greece;GR;Eu;a;2;;[1117]
-9935;0754-0758;Mo-Fr;GRC;Voice of Greece;SR;Eu;a;2;;[0817]
+9935;0754-0758;Mo-Fr;GRC;Voice of Greece;SR;Eu;a;2;;[1117]
 9935;0807-0810;Mo-Fr;GRC;Voice of Greece;A;Eu;a;2;;
 9935;0905-0907;Mo-Fr;GRC;Voice of Greece;S;Eu;a;2;;[0817]
 9935;1005-1005;Mo-Fr;GRC;Voice of Greece;R;Eu;a;2;;
@@ -7701,7 +7725,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9935;1156-1200;Mo-Fr;GRC;Voice of Greece;AL;Eu;a;2;;
 9935;1300-1700;irr;GRC;Voice of Greece;GR;Eu;a;2;;[0317]
 9935;1301-1305;Mo-Fr;GRC;Voice of Greece;E;Eu;a;2;;[0317]
-9935;1700-2200;irr;GRC;Voice of Greece;GR;Eu;a;2;;[0917]
+9935;1700-2200;irr;GRC;Voice of Greece;GR;Eu;a;2;;[1117]
 9935;2200-0600;irr;GRC;Voice of Greece;GR;NAm;a;2;;[1017]
 9940;1200-1400;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 9940;1430-1500;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
@@ -8209,14 +8233,16 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11499.8;2300-0100;;TWN;Sound of Hope;M;FE;;1;;[0417]
 11505;1200-1230;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
 11507;1200-1230;;CLA;Voice of Tibet;TB;Tib;/TJK;1;;
-11510;1200-1230;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
-11512;1200-1230;;CLA;Voice of Tibet;TB;Tib;/TJK;1;;
+11510;1200-1230;;CHN;CNR1 Jammer/Firedrake;M;FE;;6;2910;1311
+11512;1200-1230;;CLA;Voice of Tibet;TB;Tib;/TJK;6;2910;1311
+11513;1200-1230;;CLA;Voice of Tibet;TB;Tib;/TJK;1;1411;
+11515;1200-1230;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;1411;
 11520;0900-1000;;D;SWS Radio. Menschen;D;Eu;/UZB;6;2910;2910
 11520;0000-0900;;USA;WEWN EWTN Catholic R.;E;WAf;b;1;;
 11530;2000-1500;;CHN;CNR1 Jammer/Firedrake;M;CHN;;1;;[0516]
 11530;0500-0600;;CLA;Radio Biafra;E;WAf;/USA-o;6;1211;2503
 11530;1900-2000;;CLA;Radio Biafra;E;WAf;/USA-o;6;1211;2503
-11530;1130-1200;;CLA;Suab Xaa Moo Zoo;HM;SEA;/TWN-s;6;211;211
+11530;1130-1200;;CLA;Suab Xaa Moo Zoo;HM;SEA;/TWN-s;1;211;
 11530;1654-1750;;CUB;Cuban Spy Numbers;S;Am;;1;;[0917]
 11530;1854-1950;;CUB;Cuban Spy Numbers;S;Am;;1;;[0614]
 11530;2254-2350;1357;CUB;Cuban Spy Numbers;S;Am;;1;;[0114]
@@ -8237,7 +8263,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11530;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 11530;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
 11530;0100-0200;;USA;Family Radio;S;SAm;o;1;;
-11532;0740-0750;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[0217]
+11532;0740-0750;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1117]
 11535;0830-0840;We;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1117]
 11540;1000-1010;Th;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004
 11540;1000-1010;Th;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110[1014]
@@ -8247,7 +8273,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11555;1200-1300;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 11555;1200-1300;;USA;Radio Free Asia;TB;FE;/MRA-t;0;;
 11559;1015-1025;Mo,Th;POL;S11 Polish Spy Numbers;R;;p;1;111;2802[1117]
-11560;1130-1200;;CLA;Suab Xaa Moo Zoo;HM;SEA;/TWN-s;1;;
+11560;1130-1200;;CLA;Suab Xaa Moo Zoo;HM;SEA;/TWN-s;6;2910;111
 11560;1130-1135;;IND;AIR Delhi;HI;PAK;k;1;;
 11560;1135-1140;;IND;AIR Delhi;E;PAK;k;1;;
 11560;1530-1545;;IND;AIR Delhi;E;AFG;b;1;;[0917]
@@ -8328,6 +8354,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11600;0100-1400;;TWN;Sound of Hope-RFA;M;FE;;1;;[0917]
 11600;1400-1500;;TWN;Sound of Hope-RFA;CA;FE;;1;;[1214]
 11600;1500-1600;;TWN;Sound of Hope-RFA;M;FE;;1;;[1214]
+11603;1230-1300;;CLA;Voice of Tibet;TB;Tib;/TJK;1;1311;
+11605;1230-1300;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;1311;
 11605;1500-1600;;CHN;CNR1 Jammer/Firedrake;M;CHN;;1;;
 11605;1500-1530;;TWN;Radio Taiwan Int.;CA;SEA;p;1;;
 11605;1530-1600;;TWN;Radio Taiwan Int.;HK;SEA;p;1;;
@@ -8344,6 +8372,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11610;2200-2300;;USA;Adventist World Radio;VN;SEA;/GUM-a;0;;
 11615;1800-1830;;USA;Afia Darfur Radio;A;EAf;/BOT;0;;
 11615;1900-1930;;USA;Afia Darfur Radio;A;EAf;/THA-u;0;;
+11620;0600-0700;;AFS;Channel Africa;E;CAf;;8;;
 11620;0100-0600;;CHN;China National Radio 5;M;CHN;B;1;;
 11620;0600-0900;Th-Tu;CHN;China National Radio 5;M;CHN;B;1;;
 11620;0900-1000;;CHN;China National Radio 5;M;CHN;B;1;;
@@ -8356,9 +8385,11 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11625;1615-1630;Sa;CVA;Radio Vaticana;SO;EAf;/MDG;4;;
 11625;1630-1700;;CVA;Radio Vaticana;E;SAf;/MDG;0;;
 11625;1700-1730;;CVA;Radio Vaticana;F;CAf;/MDG;4;;
-11625;1730-1800;;CVA;Radio Vaticana;AH;EAf;/MDG;4;;
+11625;1730-1800;We,Fr;CVA;Radio Vaticana;AH;EAf;/MDG;4;;
+11625;1730-1800;2467;CVA;Radio Vaticana;TIG;EAf;/MDG;4;;
 11625;1300-1400;;TWN;Radio Taiwan Int.;IN;INS;;1;;
 11628;1300-1330;;CLA;Voice of Tibet;TB;Tib;/TJK;1;;
+11630;1800-1900;;AFS;Channel Africa;E;CAf;;8;;
 11630;0600-0900;We-Mo;CHN;China National Radio 17;KZ;CHN;L;1;;
 11630;0900-1200;;CHN;China National Radio 17;KZ;CHN;L;1;;
 11630;1200-1805;;CHN;China National Radio 17;KZ;CHN;L;5;;
@@ -8372,6 +8403,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11630;1230-1300;Fr;USA;Adventist World Radio;M;FE;/GUM-a;0;;
 11630;1400-1500;;USA;Adventist World Radio;M;FE;/CLN-t;0;;
 11633;1300-1330;;CLA;Voice of Tibet;TB;Tib;/TJK;1;;
+11635;1700-1800;;AFS;Channel Africa;E;CAf;;8;;
 11635;1000-1100;;CHN;China Radio Int.;E;Sib;b;0;;
 11635;1300-1330;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
 11635;2230-0030;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
@@ -8526,7 +8558,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11700;1430-1450;;CVA;Radio Vaticana;HI;SAs;/PHL-t;0;;
 11700;1450-1510;;CVA;Radio Vaticana;TAM;SAs;/PHL-t;0;;
 11700;1510-1530;;CVA;Radio Vaticana;MAL;SAs;/PHL-t;0;;
-11700;1530-1600;Sa;CVA;Radio Vaticana;E;SAs;/PHL-t;0;;
 11700;0400-0459;;F;Radio France Int.;F;EAf;;6;2502;2403
 11700;0500-0600;;F;Radio France Int.;F;CAf;;0;;
 11700;0600-0659;;F;Radio France Int.;F;CAf;;6;2502;2403
@@ -8589,6 +8620,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11720;1330-1700;;VTN;Voice of Vietnam 1;VN;Oc;s;1;;
 11720;2145-1030;;VTN;Voice of Vietnam 1;VN;Oc;s;1;;
 11720;1030-1330;;VTN;Voice of Vietnam 4;VN;SEA;s;1;;
+11720.1;1330-1400;;D;Deutsche Welle;DR;AFG;/UAE;6;1411;2503
+11720.1;1400-1430;;D;Deutsche Welle;PS;AFG;/UAE;6;1411;2503
 11725;1600-1800;;CHN;China Radio Int.;A;NAf;/ALB-c;0;;
 11725;0459-0758;;NZL;Radio New Zealand Int.;E;Oc;r;0;;
 11725;1759-1958;Sa;NZL;Radio New Zealand Int.;E;Oc;r;0;;
@@ -8600,6 +8633,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11730;0400-0500;;SSD;Eye Radio;Vn;SSD;/F;5;;
 11730;1730-1830;;TUR;Voice of Turkey;E;SAs;e;0;;
 11730;1100-1200;;USA;Adventist World Radio;M;FE;/GUM-a;0;;
+11731;0700-0800;;IND;All India Radio GOS;NE;NPL;d;6;1511;1511
 11735;0850-1959;;B;Radio Transmundial;P;SAm;sm;3;;[1117]
 11735;0330-0430;;KRE;Voice of Korea;S;LAm;u;1;;
 11735;0430-0530;;KRE;Voice of Korea;E;LAm;u;1;;
@@ -8727,7 +8761,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11790;0530-0600;;F;Radio France Int.;SWA;EAf;/MDG;6;2910;2402
 11790;0200-0230;467;G;Bible Voice;;SAs;/MDG;0;;
 11790;1500-1600;Mo;G;Bible Voice;A;PAK;/D-n;0;;
-11790;1500-1600;We,Fr;G;Bible Voice;UR;PAK;/D-n;0;;
+11790;1500-1600;Fr;G;Bible Voice;PJ;PAK;/D-n;0;;
+11790;1500-1600;We;G;Bible Voice;UR;PAK;/D-n;0;;
 11790;1600-1730;Tu,Sa;G;Bible Voice;;EAf;/D-n;0;;
 11790;1600-1730;Su-Mo;G;Bible Voice;;EAf;/D-n;0;;
 11790;1630-1700;Fr;G;Bible Voice;;EAf;/D-n;0;;
@@ -8994,7 +9029,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11935;0000-0100;;CHN;China National Radio 5;M;CHN;B;1;;
 11935;0100-0600;;CHN;China National Radio 5;M;CHN;B;1;;
 11935;0600-0900;Th-Tu;CHN;China National Radio 5;M;CHN;B;1;;
-11935;0620-0700;;CVA;Radio Vaticana;L;ME;;0;;
+11935;0620-0700;Su;CVA;Radio Vaticana;L;ME;;0;;
 11935;0700-0710;Mo-Sa;CVA;Radio Vaticana;I;ME;;0;;
 11935;0710-0730;Mo-Sa;CVA;Radio Vaticana;A;ME;;0;;
 11935;0730-0745;Mo-Sa;CVA;Radio Vaticana;F;ME;;0;;
@@ -9014,7 +9049,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11945;2000-2100;;MDG;MWV Radio Feda;A;ME;m;4;;
 11945;1000-1130;;PHL;Radio Veritas Asia;M;FE;p;0;;
 11945;1300-1330;;ROU;Radio Romania Int.;A;ME;g;0;;
-11945;0800-0810;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[0217]
+11945;0800-0810;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1117]
 11945;1500-1530;;SOM;Vo.People of Somaliland;SO;EAf;/MDG;0;;
 11945;0000-0100;;USA;Voice of America;M;FE;/PHL-t;0;;
 11945;2200-2400;;USA;World Harvest Radio;E;SEA;/PLW;0;;
@@ -9326,7 +9361,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12150;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
 12153;0640-0650;We;POL;E11 Polish Spy Numbers;E;;p;1;103;3004
 12153;0640-0650;We;POL;E11 Polish Spy Numbers;E;;p;1;109;3110[1017]
-12153;1045-1055;Tu,We;POL;E11 Polish Spy Numbers;E;;p;1;111;2802[0217]
+12153;1045-1055;Tu,We;POL;E11 Polish Spy Numbers;E;;p;1;111;2802[1117]
 12155;1200-1210;Th;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1215]
 12160;1800-1900;Su;USA;Brother Stair;E;NAm;n;2;;
 12160;1900-2000;SaSu;USA;Brother Stair;E;NAm;n;2;;
@@ -9839,7 +9874,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13424;0545-0555;We,Fr;POL;E11 Polish Spy Numbers;E;;p;1;105;3108[0616]
 13424;0645-0655;Tu,Th;POL;E11 Polish Spy Numbers;E;;p;1;105;3108[0616]
 13427;0900-0910;Mo,We;POL;E11 Polish Spy Numbers;E;;p;1;105;3108[0517]
-13435;0654-0750;246;CUB;Cuban Spy Numbers;S;Am;;1;;[1116]
+13435;0654-0750;246;CUB;Cuban Spy Numbers;S;Am;;1;;[1117]
 13440;1815-1825;Mo;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;104;3004[0414]
 13455;0530-0540;Tu,Sa;POL;E11 Polish Spy Numbers;E;;p;1;111;2802[1114]
 13455;1810-1820;Tu,Sa;POL;E11 Polish Spy Numbers;E;;p;1;103;3004[0415]
@@ -9921,7 +9956,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13590;1900-2000;;USA;Voice of America;E;CAf;/STP;0;;
 13600;0100-0200;;CHN;China Radio Int.;R;CAs;x;0;;
 13600;0300-0400;;CHN;China Radio Int.;TAM;SAs;k;0;;
-13600;0400-1000;;OMA;Radio Sultanate Oman;A;EAf;t;1;;[1017]
+13600;0400-1000;;OMA;Radio Sultanate Oman;A;EAf;t;1;;[1117]
 13605;1000-1100;;IND;All India Radio GOS;E;FE;b;1;;
 13605;1515-1615;;IND;All India Radio GOS;SWA;EAf;b;1;;
 13605;1615-1730;;IND;All India Radio GOS;HI;EAf;b;1;;
@@ -10061,6 +10096,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13695;1000-1100;;IND;All India Radio GOS;E;Oc;b;1;;
 13695;1115-1215;;IND;All India Radio GOS;TAM;SEA;b;1;;
 13695;1215-1245;;IND;All India Radio GOS;TEL;SEA;b;1;;
+13695;1330-1500;;IND;All India Radio GOS;E;SEA;b;1;1511;
 13695;1515-1600;;IND;All India Radio GOS;GU;EAf;b;1;;
 13695;1745-1945;;IND;All India Radio GOS;E;EAf;b;1;;
 13695;1400-1500;Sa;USA;Voice of America;M;FE;/MRA-t;0;;
@@ -10074,7 +10110,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13710;1500-1800;;ARS;BSKSA Holy Quran;A;NAf;;1;;
 13710;0900-1100;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 13710;1200-1230;Sa;D;Mission.Friedensstimme;R;Sib;n;4;;
-13710;0430-0530;;G;BBC;FS;IRN;/UZB;0;;
+13710;0430-0530;;G;BBC;FS;IRN;/UZB;6;2910;1211
 13710;2000-2100;;MDG;MWV Radio Feda;A;ME;m;5;;
 13710;0900-1100;;USA;Voice of America;M;FE;/THA-u;0;;
 13715;0200-0300;;CHN;China Radio Int.;TAM;SAs;ka;0;;
@@ -10084,7 +10120,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13720;1100-1200;;CHN;China Radio Int.;E;SEA;x;0;;
 13720;1200-1300;;CHN;China Radio Int.;M;Eu;ka;0;;
 13720;1300-1400;;CHN;China Radio Int.;F;SEu;ka;0;;
-13720;1330-1500;;IND;All India Radio GOS;E;SEA;b;1;;
+13720;1330-1500;;IND;All India Radio GOS;E;SEA;b;6;2910;1411
 13720;0415-0445;;J;NHK Radio Japan;K;FE;y;0;;
 13720;1700-1900;;J;NHK Radio Japan;J;SAm;y;0;;
 13722;1400-1410;Tu,Sa;POL;E11 Polish Spy Numbers;E;;p;1;105;3108[0815]
@@ -10145,8 +10181,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13765;1600-1615;Sa;CVA;Radio Vaticana;SWA;EAf;;4;;
 13765;1600-1630;Su-Fr;CVA;Radio Vaticana;SWA;EAf;;4;;
 13765;1615-1630;Sa;CVA;Radio Vaticana;SO;EAf;;4;;
-13765;1630-1645;;CVA;Radio Vaticana;E;EAf;;4;;
-13765;1645-1700;;CVA;Radio Vaticana;TIG;EAf;;4;;
+13765;1630-1700;;CVA;Radio Vaticana;E;EAf;;4;;
 13765;1700-1730;;CVA;Radio Vaticana;F;CAf;;4;;
 13765;0400-0530;;USA;Radio Farda;FS;IRN;/THA-u;0;;
 13765;0530-1100;;USA;Radio Farda;FS;IRN;/D-L;0;;
@@ -10214,6 +10249,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13850;0900-1100;;CHN;China Radio Int.;M;SEA;b;0;;
 13855;1300-1400;;CHN;China Radio Int.;M;Eu;ka;0;;
 13855;1150-1250;;IRN;IRIB Voice of I.R.Iran;M;FE;s;0;;
+13860;0430-0530;;G;BBC;FS;IRN;/UZB;6;1311;2503
 13860;0230-0300;;USA;Radio Liberty;PS;AFG;/THA-u;0;;
 13860;0300-0330;;USA;Radio Liberty;DR;AFG;/THA-u;0;;
 13860;0330-0430;;USA;Radio Liberty;PS;AFG;/UAE;0;;
@@ -10541,6 +10577,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15160;0900-1000;;KOR;KBS World Radio;K;ME;k;1;;
 15160;0800-0830;;USA;Adventist World Radio;KB;NAf;/D-n;0;;
 15160;1400-1500;;USA;Voice of America;TB;FE;/KWT;0;;
+15170;0700-0900;;AFS;Channel Africa;E;CAf;;8;;
 15170;0300-0600;;ARS;BSKSA Holy Quran;A;ME;;1;;
 15170;0400-0500;;CHN;China Radio Int.;M;SAs;ka;0;;
 15175;1515-1600;;IND;All India Radio GOS;GU;EAf;p;1;;
@@ -10681,11 +10718,12 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15270;1030-1100;;TWN;Radio Taiwan Int.;HK;SEA;p;1;;
 15270;0100-0200;;USA;Radio Free Asia;TB;FE;/MRA-t;0;;
 15275;1000-1100;;D;Deutsche Welle;SWA;EAf;/MDG;0;;
-15275;1600-1700;;D;Deutsche Welle;AH;EAf;/CLN-t;0;;
+15275;1600-1700;;D;Deutsche Welle;AH;EAf;/CLN-t;6;2910;911
+15275;1600-1700;;D;Deutsche Welle;AH;EAf;/F;6;1311;2503
 15275;2230-2330;;USA;Radio Free Asia;KH;SEA;/MRA-t;0;;
 15280;0700-0900;;J;NHK Radio Japan;J;SEA;y;0;;
 15280;0100-0127;;PHL;Radio Veritas Asia;UR;SAs;p;0;;
-15285;0400-0700;;ARS;BSKSA Riad;SWA;EAf;;1;;[0317]
+15285;0400-0700;;ARS;BSKSA Riad;SWA;EAf;;1;;[1117]
 15285;1700-1730;;EGY;Radio Cairo;SO;EAf;z;8;;
 15285;1000-1200;;G;BBC;E;FE;/SNG;0;;
 15285;1230-1245;Mo;IND;Athmeeyayathra (GFA);GJ;SAs;/D-n;0;;
@@ -10896,8 +10934,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15425;0000-0100;;USA;Voice of America;M;FE;/PHL-t;0;;
 15430;0500-0600;;CHN;China Radio Int.;E;SAs;ka;0;;
 15430;0600-0700;;CHN;China Radio Int.;E;SAs;ka;0;;
-15430;1330-1400;;D;Deutsche Welle;DR;AFG;/CLN-t;0;;
-15430;1400-1430;;D;Deutsche Welle;PS;AFG;/CLN-t;0;;
+15430;1330-1400;;D;Deutsche Welle;DR;AFG;/CLN-t;6;2910;911
+15430;1400-1430;;D;Deutsche Welle;PS;AFG;/CLN-t;6;2910;911
 15430;0800-0900;Su;ROU;Radio Romania Int.;RO;IRN;g;0;;
 15430;0900-1000;Su;ROU;Radio Romania Int.;RO;ME;t;0;;
 15430;1000-1100;Su;ROU;Radio Romania Int.;RO;NAf;t;0;;
@@ -10937,7 +10975,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15465;0900-1000;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
 15465;0900-1000;;TWN;Radio Taiwan Int.;M;SEA;p;1;;
 15465;1000-1100;;TWN;Radio Taiwan Int.;AM;SEA;p;1;;
-15476;1800-2105;Mo-Fr;ATA;LRA36 RN Arcangel;S;ATA;;1;;[1017]
+15476;1800-2105;Mo-Fr;ATA;LRA36 RN Arcangel;S;ATA;;1;;[1117]
 15480;0100-0600;;CHN;China National Radio 1;M;CHN;b;4;;
 15480;0600-0850;We-Mo;CHN;China National Radio 1;M;CHN;b;1;;
 15480;0850-1000;;CHN;China National Radio 1;M;CHN;b;4;;
@@ -10973,10 +11011,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15505;1400-1430;;BGD;Bangladesh Betar;UR;SAs;k;1;;
 15505;1515-1545;;BGD;Bangladesh Betar;HI;SAs;k;1;;
 15505;2230-2300;;CHN;China Radio Int.;M;Af;/MLI;0;;
-15515;1230-1300;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
+15515;1230-1300;;CHN;CNR1 Jammer/Firedrake;M;FE;;6;2910;1211
 15515;1500-1530;Sa;CLA;Radio Warra Wangeelaa;OO;EAf;/BUL-s;1;;
 15515;0500-0900;;KWT;Radio Kuwait;A;FE;;1;;
-15517;1230-1300;;CLA;Voice of Tibet;TB;Tib;/TJK;1;;
+15517;1230-1300;;CLA;Voice of Tibet;TB;Tib;/TJK;6;2910;1211
 15523;1330-1400;;CLA;Voice of Tibet;TB;Tib;/TJK;1;;
 15525;0900-1100;;CHN;China Radio Int.;M;SAs;u;0;;
 15525;1330-1400;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
@@ -10985,8 +11023,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15530;1330-1400;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
 15530;1100-1130;;G;BBC;SO;EAf;/UAE;0;;
 15530;0130-0230;;PHL;Radio Veritas Asia;VN;SEA;p;0;;
-15533;1230-1300;;CLA;Voice of Tibet;TB;Tib;/TJK;1;;
-15535;1230-1300;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
+15533;1230-1300;;CLA;Voice of Tibet;TB;Tib;/TJK;6;2910;1211
+15535;1230-1300;;CHN;CNR1 Jammer/Firedrake;M;FE;;6;2910;1211
 15540;0100-0600;;CHN;CNR 2 China Business R.;M;CHN;L;1;;
 15540;0600-0855;We-Mo;CHN;CNR 2 China Business R.;M;CHN;L;1;;
 15540;0855-1100;;CHN;CNR 2 China Business R.;M;CHN;L;1;;
@@ -11002,7 +11040,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15550;0330-0430;;HOL;Radio Tamazuj;SUD;SSD;/MDG;0;;
 15550;1530-1630;;HOL;Radio Dabanga;SUD;SDN;/CVA;0;;
 15550;1430-1530;;HOL;Radio Tamazuj;SUD;SSD;/CVA;0;;
-15555;1402-2207;;USA;WJHR Milton, FL (USB);E;NAm;mi;1;;[1017]
+15555;1402-2207;;USA;WJHR Milton, FL (USB);E;NAm;mi;1;;[1117]
 15560;0800-0900;;CHN;China Radio Int.;M;CAs;x;0;;
 15560;0900-1000;;CHN;China Radio Int.;M;CAs;x;0;;
 15560;0500-0600;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
@@ -11044,7 +11082,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15580;2000-2100;;USA;Voice of America;E;Af;/BOT;0;;
 15580;2100-2200;;USA;Voice of America;E;WAf;g;0;;
 15590;0200-0400;;J;NHK Radio Japan;J;SAs;y;0;;
-15595;0930-1050;Su;CVA;Radio Vaticana;LTO;ME;;2;;
+15595;0930-1050;Su;CVA;Radio Vaticana;EEu;ME;;2;;
 15595;0930-1100;1.Su;CVA;Radio Vaticana;GZ;EAf;;2;;
 15595;1130-1200;Fr;CVA;Radio Vaticana;E;ME;;1;;
 15595;1530-1600;;CVA;Radio Vaticana;A;ME;;5;;
@@ -11634,7 +11672,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17580;1400-1500;;CUB;Radio Habana Cuba;S;SAm;b;2;;
 17585;1400-1500;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 17585;1400-1500;;USA;Voice of America;TB;FE;/D-b;0;;
-17590;0930-1050;Su;CVA;Radio Vaticana;LTO;ME;;2;;
+17590;0930-1050;Su;CVA;Radio Vaticana;LTO;Cau;;2;;
 17590;0930-1100;1.Su;CVA;Radio Vaticana;GZ;EAf;;2;;
 17590;1130-1200;Fr;CVA;Radio Vaticana;E;ME;;1;;
 17595;0100-0600;;CHN;China National Radio 1;M;CHN;s;4;;
@@ -11667,7 +11705,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17640;0300-0400;;CHN;China Radio Int.;R;CAs;x;0;;
 17640;0400-0500;;CHN;China Radio Int.;R;CAs;x;0;;
 17640;0600-0800;;G;BBC;E;EAf;/UAE;0;;
-17640;0800-1000;Tu,We;G;BBC DIGITAL;E;SAf;/ASC;6;711;2503
+17640;0800-1000;Tu,We;G;BBC DIGITAL;E;SAf;/ASC;6;711;1211
 17640;1200-1230;;G;BBC;F;WAf;/ASC;0;;
 17640;1400-1430;Mo-Fr;G;BBC;HA;WAf;/AFS;0;;
 17640;1600-1700;;G;BBC;E;SAf;/ASC;0;;
@@ -11984,7 +12022,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 21690;1700-1759;;F;Radio France Int.;F;Af;;6;2502;2403
 21700;0500-0700;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 21700;0500-0700;;USA;Radio Free Asia;M;FE;/MRA-t;0;;
-21750;1400-1600;Tu,We;G;BBC DIGITAL;E;SAf;/ASC;6;711;2503
+21750;1400-1600;Tu,We;G;BBC DIGITAL;E;SAf;/ASC;6;711;1211
 21760;0500-0600;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 21760;0500-0600;;USA;Voice of America;TB;FE;/PHL-t;0;;
 21795;0300-0400;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
