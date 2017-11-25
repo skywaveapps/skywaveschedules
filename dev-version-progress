@@ -1,5 +1,6 @@
 v1.1.44 Beta (Unreleased)
 - Fixed bug in List lookups
+- Fixed bug in utility filter
 - Better Language lookup
 - Removed duplicate from Target lookup
 - Fixed bug in day detect
