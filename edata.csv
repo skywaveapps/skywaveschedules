@@ -1624,7 +1624,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 2663;0000-2400;;I;Romaradio IAR;I;SEu;kr;1;;[0916]
 2670;0805-0815;;TUN;3VT Tunis Radio;F;NAf;tu;1;;
 2670;1705-1715;;TUN;3VT Tunis Radio;F;NAf;tu;1;;
-2671;0000-2400;;J;JJU22 Jap.Self Defense;-CW;FE;as;1;;[1216]
 2677;0635-0645;;F;CROSS Corsen Radio Wx;F;WEu;co;2;;
 2677;0715-0730;;F;CROSS Corsen Radio Wx;F;WEu;co;2;;
 2677;1835-1845;;F;CROSS Corsen Radio Wx;F;WEu;co;2;;
@@ -1648,7 +1647,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 2677;2303-2313;;F;CROSS La Garde Radio Wx;F,E;WEu;g;5;;
 2680;0000-2400;;I;Romaradio IAR;I;SEu;cg;1;;[1216]
 2680;0000-2400;;ISR;4XZ Israeli Navy Haifa;-CW;;;1;;[1016]
-2685;0000-2400;;J;JJT44 Jap.Self Defense;-CW;FE;ir;1;;[1216]
 2690;1100-1110;;INS;Jakarta Radio;E;INS;;1;;
 2700;0733-0743;;CYP;Cyprus Radio;E;ME;cr;1;;
 2705;0610-0620;;COG;Pointe Noire Radio;F;COG;pn;1;;
@@ -1844,7 +1842,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3180;0000-2400;;D;IAP Juliusruh Radar 27us;;Eu;jr;1;;
 3185;0200-1200;;USA;Brother Stair;E;NAm;ma;2;;
 3192;1900-1905;Mo,Th;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[0214]
-3195;0000-2400;;J;JJT88 Jap.Self Defense;-CW;FE;tk;1;;[1216]
 3195;0100-0400;Su-Tu;USA;WWRB Manchester, TN;E;NAm;ma;1;110;1504
 3200;0430-0500;Mo-Fr;SWZ;Trans World Radio;E;SAf;;1;;
 3200;0500-0600;SaSu;SWZ;Trans World Radio;E;SAf;;4;;
@@ -1853,7 +1850,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3200;1630-1645;Tu;SWZ;Trans World Radio;SGA;MOZ;;5;;
 3205;0700-1406;;PNG;NBC Sandaun West Sepik;TP;PNG;v;1;;[0415]
 3205;1900-2230;;PNG;NBC Sandaun West Sepik;TP;PNG;v;1;;
-3210;0000-2400;;J;JJX25 Jap.Self Defense;-CW;FE;;1;;[1216]
 3215;0200-0300;Mo;USA;Brother Stair;E;NAm;n;2;;
 3215;0500-0600;Tu-Sa;USA;Brother Stair;E;NAm;n;2;;
 3215;0600-1000;Mo-Sa;USA;Brother Stair;E;NAm;n;2;;
@@ -1895,7 +1891,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3253;1100-1130;;CAN;VFF Iqaluit Meteo Fax;;ENA;r;1;1007;3110
 3253;2100-2130;;CAN;VFF Iqaluit Meteo Fax;;ENA;i;1;106;3112
 3253;2200-2230;;CAN;VFF Iqaluit Meteo Fax;;ENA;i;1;106;3112
-3254;0000-2400;;RUS;RCC Ny Petropavlovsk;-CW;Oc;pk;1;;[1216]
 3255;0500-0600;;G;BBC;E;SAf;/AFS;0;;
 3255;1600-2000;;G;BBC;E;SAf;/AFS;0;;
 3255;0530-2330;;CLA;Voice of the People;K;KRE;/KOR-g;1;;[1117]
@@ -1989,7 +1984,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3385;0700-1252;;PNG;NBC East New Britain;TP;PNG;r;1;;[0215]
 3385;1231-1600;31Dec;PNG;NBC East New Britain;TP;PNG;r;1;1512;3112[1214]
 3385;1231-1600;1Jan;PNG;NBC East New Britain;TP;PNG;r;1;1512;0101[1214]
-3390;0000-2400;;J;JJT88 Jap.Self Defense;-CW;FE;tk;1;;[1216]
 3398.5;0000-2400;;RUS;Russian Navy;-CW;RUS;xy;1;;[0916]
 3407;0000-2400;;UZB;Tashkent Volmet x20,x50;R;CAs;a;1;;[0716]
 3413;1800-1200;;IRL;Shannon Volmet;E;Eu;s;1;111;3103[1117]
@@ -2051,7 +2045,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3673;2140-2150;;HOL;Netherlands Coastgd Wx;E;WEu;cg;1;;[0716]
 3673;2333-2343;;HOL;Netherlands Coastgd Wx;E;WEu;cg;1;;
 3683;0000-2400;;RUS;Russian Navy;-CW;RUS;xy;1;;[0616]
-3691;0000-2400;;J;JJT88 Jap.Self Defense;-CW;FE;tk;1;;[1216]
 3695;0930-0942;+-5;KRE;V28 Parrot Spy Numbers;K;FE;;1;;
 3696;1700-1710;Mo;RUS;G06 Russian Spy Numbers;D;RUS;xx;1;111;2802[1116]
 3714;0000-2400;;RUS;RMP Russian Navy;-CW;RUS;kl;1;;[0616]
