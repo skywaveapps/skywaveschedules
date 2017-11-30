@@ -4290,7 +4290,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6348;0000-2400;;F;FUE Brest Stanag;F;Eu;;1;;[0317]
 6350;0555-2400;;CLA;Echo of Hope VOH 3;K;KRE;/KOR-o;1;;[1117]
 6351;0000-2400;;USA;WHL St Augustine, FL;-CW;Car;;1;;
-6368.5;0000-2400;;SUI;HEB Bern Radio;-CW;Eu;be;1;;[1016]
 6370;0100-0700;;TWN;Sound of Hope;M;FE;;1;;[0717]
 6370;0700-0800;;TWN;Sound of Hope;M;FE;;1;;
 6370;0800-1000;;TWN;Sound of Hope;M;FE;;1;;[0917]
@@ -6026,7 +6025,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8440;1400-1500;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
 8440;1850-1900;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
 8440;2000-2015;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;[0616]
-8446.5;0000-2400;;SUI;HEB Bern Radio;-CW;Eu;be;1;;[1016]
 8453;0000-2400;;F;FUG La Regine Stanag;F;Eu;;1;;[0417]
 8456;0100-0140;;CAN;VFF Iqaluit Meteo Fax;;NAm;in;1;1005;3110
 8456;0200-0240;;CAN;VFF Iqaluit Meteo Fax;;NAm;in;1;1005;3110
@@ -8012,11 +8010,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 10000;0000-2400;;B;PPE Observatorio Nac.;-TS;B;ro;1;;
 10000;0000-2400;;CHN;BPM Xian;-TS;CHN;p;1;;
 10000;0000-2400;;HWA;WWVH Hawaii (f.ann.);-TS;USA;c;1;;
-10000;0000-2400;;I;ItalyCable;-TS;SEu;v;1;;
 10000;0000-2400;;USA;WWV Colorado (m.ann.);-TS;USA;fc;1;;
 10018;0000-2400;;IND;Mumbai Radio;E;SAs;;1;;[0717]
 10024;0000-2400;;HND;COCESNA Cenamer Control;E;CAm;;1;;[0616]
-10024;0000-2400;;PRU;Lima Radio;S;SAm;;1;;[0816]
 10048;0000-2400;;J;Tokyo Radio;E;FE;;1;;
 10048;0000-2400;;USA;San Francisco Radio NP1;E;NOc;/ALS-ba;1;;[0417]
 10048;0000-2400;;USA;San Francisco Radio NP1;E;NOc;/HWA-m;1;;
@@ -9666,7 +9662,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12666.6;0000-2400;;REU;FUX STANAG;F;EAf;;1;;[0716]
 12692;0000-2400;;RUS;RAA Russian Navy;-CW;RUS;xx;1;;[0616]
 12700;0000-2400;;CHN;XSQ Guangzhou Radio x30;M;FE;gx;1;;
-12704.5;0000-2400;;J;JFX Kagoshima Fishery;-CW;FE;k;1;;[1216]
 12709;0230-0245;;B;PWZ33 Rio d.J.Naval Wx;P;B;rw;1;;
 12709;0400-0415;;B;PWZ33 Rio d.J.Naval Wx;P;B;rw;1;;
 12709;0600-0615;;B;PWZ33 Rio d.J.Naval Wx;P;B;rw;1;;
@@ -9796,7 +9791,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12980.1;2100-2200;;TWN;Sound of Hope;M;FE;;1;;
 12980.1;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 12980.1;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
-13012;0000-2400;;PAK;AQP Pakistan Navy;-CW;SAs;;1;;[0916]
 13026;0000-2400;;USA;WHL St Augustine, FL;-CW;Car;;1;;
 13031.2;0000-2400;;MRT;FUF Martinique STANAG;F;Car;;1;;[0616]
 13042.5;0000-2400;;DJI;FUV Djibouti Stanag;F;EAf;;1;;[0317]
@@ -11587,7 +11581,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 16898.5;1250-1300;;CHN;XSG Shanghai R. Telex;M;FE;sh;1;;
 16898.5;1350-1400;;CHN;XSG Shanghai R. Telex;M;FE;sh;1;;
 16898.5;1450-1500;;CHN;XSG Shanghai R. Telex;M;FE;sh;1;;
-16899;0000-2400;;CHN;XSG Shanghai R.;-CW;FE;sh;1;;[1116]
 16902;0755-0815;;CHN;3SD Beijing Meteo Fax;;FE;bs;1;;
 16902;1130-1150;;CHN;3SD Beijing Meteo Fax;;FE;bs;1;;
 16905;0000-2400;;DJI;FUV Djibouti Stanag;F;EAf;;1;;[0416]
@@ -11631,7 +11624,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17000;2100-2200;;TWN;Sound of Hope;M;FE;;1;;
 17000;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 17000;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
-17014;0000-2400;;J;JFX Kagoshima Fishery;-CW;FE;k;1;;[0816]
 17069.6;0000-0300;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;
 17069.6;0430-0450;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;
 17069.6;0540-0800;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;[0816]
