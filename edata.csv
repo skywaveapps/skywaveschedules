@@ -6002,7 +6002,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8417.5;2100-2110;;CHN;XSV Tianjin Radio Telex;M;FE;tj;1;;
 8420;1300-1310;Mo;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1214]
 8421;0000-2400;;USA;WLO Mobile Radio;-CW;Car;mo;1;;[0816]
-8424;0000-2400;;GRC;SVO Olimpia Radio;-CW;SEu;o;1;;[1216]
 8425.5;0050-0100;;CHN;XSG Shanghai R. Telex;M;FE;sh;1;;
 8425.5;0250-0300;;CHN;XSG Shanghai R. Telex;M;FE;sh;1;;
 8425.5;0650-0700;;CHN;XSG Shanghai R. Telex;M;FE;sh;1;;
@@ -12192,7 +12191,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 22376;0130-0140;;HWA;NMO NAVTEX Honolulu;E;Oc;nm;1;;
 22376;2030-2040;;HWA;NMO NAVTEX Honolulu;E;Oc;nm;1;;
 22383.5;0000-2400;;USA;WLO Mobile Radio;-CW;Car;mo;1;;
-22426;0000-2400;;PAK;AQP Pakistan Navy;-CW;SAs;;1;;[1216]
 22447;0000-2400;;DJI;FUV Djibouti Stanag;F;EAf;;1;;[1016]
 22461;0000-2400;;NCL;FUJ Noumea Stanag;F;Oc;;1;;[1016]
 22527;1840-2215;;USA;NMC Fax Pt Reyes CA;;WNA;pr;1;;
