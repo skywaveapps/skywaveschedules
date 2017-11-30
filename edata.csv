@@ -8520,7 +8520,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11635;0800-0810;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004[0417]
 11635;0800-0810;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110[1017]
 11635;2230-0030;;TWN;Radio Taiwan Int.;M;SEA;p;1;;
-11638;0000-2400;irr;D;DWD Polarstern Fax/RTTY;;Eu;pi;1;;[1016]
 11640;0100-0200;;CHN;China Radio Int.;M;SEA;x;0;;
 11640;0200-0300;;CHN;China Radio Int.;BE;SAs;k;0;;
 11640;0300-0400;;CHN;China Radio Int.;HI;SAs;ka;0;;
@@ -11413,7 +11412,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15970;2100-2200;;TWN;Sound of Hope;M;FE;;1;;
 15970;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 15970;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
-15988;0000-2400;irr;D;DWD Polarstern Fax/RTTY;;Eu;pi;1;;
 16020;1010-1020;We;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0616]
 16024;0000-2400;;CHN;BAF Beijing Meteo Fax;;FE;bm;1;;
 16035;0740-1010;;SNG;9VF Kyodo News Agcy Fax;;FE;j;1;;
