@@ -1611,7 +1611,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 2628;1100-1715;;AUS;VMC Charleville Met Fax;;Oc;c;1;;
 2628;1800-1845;;AUS;VMC Charleville Met Fax;;Oc;c;1;;
 2628;0000-2400;;I;Romaradio IAR;I;SEu;au;1;;[0216]
-2630;2010-2015;;RUS;UCE2 Arkhangelsk Radio;E,R;NEu;;1;;[0916]
 2632;0000-2400;;I;Romaradio IAR;I;SEu;na;1;;
 2642;0000-2400;;I;Romaradio IAR;I;SEu;ge;1;;[1116]
 2656;0000-2400;;I;Romaradio IAR;I;SEu;an;1;;[1216]
@@ -3003,7 +3002,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5188.5;0000-2400;;RUS;RCV Russian Navy;-CW;RUS;se;1;;[0616]
 5194;1710-1720;Mo,Fr;POL;E11 Polish Spy Numbers;E;;p;1;103;3004[0414]
 5194;1710-1720;Mo,Fr;POL;E11 Polish Spy Numbers;E;;p;1;109;3110[0915]
-5195;1500-1510;Mo;USA;Texas DoT Net;E;CNA;;2;;[1016]
 5197;2130-2140;Fr;RUS;E06 Russian Spy Numbers;E;RUS;xx;1;103;3004[0417]
 5197;2130-2140;Fr;RUS;E06 Russian Spy Numbers;E;RUS;xx;1;109;3110[1014]
 5215.6;0000-2400;;F;FUO Toulon Stanag;F;Eu;;1;;[1116]
@@ -3015,7 +3013,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5290;1430-1440;07th;KOR;V24 Numbers Station;K;Oc;g;1;;
 5317;1900-1910;Sa;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004[0414]
 5317;1900-1910;Sa;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110[0914]
-5320;0800-0810;Mo;RUS;G06 Spy Numbers;D;RUS;xx;1;111;2802[1215]
 5348;1700-1710;Mo;RUS;G06 Russian Spy Numbers;D;RUS;xx;1;105;3108[0716]
 5358;0455-0505;Tu,Fr;POL;S11 Polish Spy Numbers;R;;p;1;103;3004
 5358;0455-0505;Tu,Fr;POL;S11 Polish Spy Numbers;R;;p;1;109;3110[0914]
@@ -3315,7 +3312,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5925;0300-0600;;VTN;Voice of Vietnam 2;VN;VTN;x;1;;[0117]
 5925;1100-1500;;VTN;Voice of Vietnam 2;VN;VTN;x;1;;[0216]
 5925;2145-0100;;VTN;Voice of Vietnam 2;VN;VTN;x;1;;[0416]
-5930;2100-2300;24Dec;D;NDR Gruﬂ an Bord;D;NAO;n;6;2811;2412
+5930;2100-2300;24Dec;D;NDR Grub an Bord;D;NAO;n;6;2811;2412
 5930;0030-0100;;G;BBC;DR;AFG;/AUT;0;;
 5930;0100-0130;;G;BBC;PS;AFG;/AUT;0;;
 5930;0130-0200;;G;BBC;DR;AFG;/AUT;0;;
@@ -3607,7 +3604,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6010;2155-2400;;CHN;China National Radio 11;TB;CHN;as;1;;
 6010;1600-1700;;CHN;China Radio Int.;VN;SEA;b;0;;
 6010;1800-1900;;CHN;China Radio Int.;AM;SEu;u;0;;
-6010;1900-2100;24Dec;D;NDR Gruﬂ an Bord;D;WEu;/ARM;6;2811;2412
+6010;1900-2100;24Dec;D;NDR Grub an Bord;D;WEu;/ARM;6;2811;2412
 6010;0230-0330;;G;BBC;FS;IRN;/BUL-s;8;;
 6010;0330-0430;;G;BBC;FS;IRN;/UZB;0;;
 6010;2220-2320;;IRN;IRIB Voice of I.R.Iran;IN;SEA;s;0;;
@@ -3810,7 +3807,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6080;1100-1200;;CHN;China Radio Int.;R;Sib;b;0;;
 6080;0935-1440;;CHN;PBS Hulun Buir;MO;CHN;ha;1;;[0517]
 6080;2150-0530;;CHN;PBS Hulun Buir;MO;CHN;ha;1;;
-6080;1900-2100;24Dec;D;NDR Gruﬂ an Bord;D;NAO;n;6;2811;2412
+6080;1900-2100;24Dec;D;NDR Grub an Bord;D;NAO;n;6;2811;2412
 6080;0300-0500;;USA;Voice of America;E;SAf;/STP;0;;
 6080;0500-0600;;USA;Voice of America;E;WAf;/STP;0;;
 6080;0600-0700;;USA;Voice of America;E;WAf;/STP;0;;
@@ -4042,7 +4039,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6155;0230-0500;;CLA;Denge Kurdistan;KU;ME;/ARM;6;1511;2311
 6155;1800-2100;;CLA;Denge Kurdistan;KU;ME;/ARM;6;2910;2311
 6155;1700-1730;;CLA;Furusato no Kaze;J;KRE;/TWN-s;1;;
-6155;2100-2300;24Dec;D;NDR Gruﬂ an Bord;D;WEu;/ARM;6;2811;2412
+6155;2100-2300;24Dec;D;NDR Grub an Bord;D;WEu;/ARM;6;2811;2412
 6155;0200-0300;;G;BBC;E;SAs;/OMA-a;0;;
 6155;0059-0120;;J;NHK Radio Japan;HI;SAs;/UZB;0;;
 6155;0500-0530;;J;NHK Radio Japan;E;WEu;/AUT;0;;
@@ -7046,7 +7043,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9590;1500-1600;;CHN;China Radio Int.;M;Eu;ka;0;;
 9590;2300-0100;;CHN;China Radio Int.;S;SAm;ka;0;;
 9590;2000-2100;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
-9590;2100-2300;24Dec;D;NDR Gruﬂ an Bord;D;SAf;/F;6;2811;2412
+9590;2100-2300;24Dec;D;NDR Grub an Bord;D;SAf;/F;6;2811;2412
 9590;1800-1830;;G;BBC;SO;EAf;/AFS;0;;
 9590;0130-0230;;MYA;Thazin Radio;WA;SEA;p;1;;[0217]
 9590;0230-0330;;MYA;Thazin Radio;K-P;SEA;p;1;;[0416]
@@ -7190,7 +7187,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9645;0000-0027;;PHL;Radio Veritas Asia;KC;SEA;p;0;;
 9645.4;0000-2400;;B;Radio Bandeirantes, SP;P;B;sb;1;;[1016]
 9650;0700-1758;;AFS;Radio Sonder Grense;AF;NMB;;0;;
-9650;2100-2300;24Dec;D;NDR Gruﬂ an Bord;D;AUS;/AUT;6;2811;2412
+9650;2100-2300;24Dec;D;NDR Grub an Bord;D;AUS;/AUT;6;2811;2412
 9650;1230-1300;;G;Babcock Test;E;Eu;w;6;1611;1611
 9650;0600-0001;;GUI;Radio Guinee;F;WAf;c;1;;[1117]
 9650;0730-1330;;KRE;Voice of Korea;J;J;u;1;;
@@ -7401,7 +7398,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9735;1300-1400;;TWN;Radio Taiwan Int.;J;J;p;1;;
 9735;1400-1500;;TWN;Radio Taiwan Int.;IN;INS;p;1;;
 9735;2200-2300;;TWN;Radio Taiwan Int.;J;J;p;1;;
-9740;1900-2100;24Dec;D;NDR Gruﬂ an Bord;D;WIO;n;6;2811;2412
+9740;1900-2100;24Dec;D;NDR Grub an Bord;D;WIO;n;6;2811;2412
 9740;1000-1300;;G;BBC;E;SEA;/SNG;0;;
 9740;1600-1800;;KOR;KBS World Radio;K;ME;k;1;;
 9740;1800-1900;;KOR;KBS World Radio;S;Eu;k;1;;
@@ -7445,7 +7442,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9765;1300-1400;;CHN;China Radio Int.;E;CAs;a;0;;
 9765;1400-1500;;CHN;China Radio Int.;E;CAs;a;0;;
 9765;2300-2400;;CHN;China Radio Int.;KH;SEA;n;0;;
-9765;2100-2300;24Dec;D;NDR Gruﬂ an Bord;D;WIO;n;6;2811;2412
+9765;2100-2300;24Dec;D;NDR Grub an Bord;D;WIO;n;6;2811;2412
 9765;1700-1900;;J;NHK Radio Japan;J;ME;/D-n;0;;
 9765;0759-1058;;NZL;Radio New Zealand Int.;E;Oc;r;0;;
 9765;0100-0400;;USA;VoA Deewa Radio;PS;AFG;/THA-u;0;;
@@ -7498,7 +7495,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9790;0900-1100;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 9790;1500-1600;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 9790;2200-2300;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
-9790;1900-2100;24Dec;D;NDR Gruﬂ an Bord;D;AUS;/AUT;6;2811;2412
+9790;1900-2100;24Dec;D;NDR Grub an Bord;D;AUS;/AUT;6;2811;2412
 9790;0400-0500;;F;Radio France Int.;F;EAf;;0;;
 9790;0500-0600;;F;Radio France Int.;F;CAf;;0;;
 9790;0600-0700;;F;Radio France Int.;F;WAf;;6;2502;2403
@@ -7519,7 +7516,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9800;2300-0100;;CHN;China Radio Int.;S;SAm;ka;0;;
 9800;1500-1530;;CLA;Nippon no Kaze;K;KRE;/TWN-s;1;;
 9800;1830-1900;;CME;LWF Sauti Linjilia;FU;WAf;/F;4;;
-9800;1900-2100;24Dec;D;NDR Gruﬂ an Bord;D;SAf;/F;6;2811;2412
+9800;1900-2100;24Dec;D;NDR Grub an Bord;D;SAf;/F;6;2811;2412
 9800;1700-1759;;F;Radio France Int.;R;EEu;;6;2502;2403
 9800;0130-0230;;IND;All India Radio GOS;NE;NPL;b;1;;
 9800;0400-0500;;ROU;Radio Romania DIGITAL;E;SAs;s;0;;
@@ -7594,7 +7591,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9830;0630-0700;;D;Deutsche Welle;HA;WAf;n;0;;
 9830;1300-1400;;D;Deutsche Welle;HA;WAf;/STP;0;;
 9830;1800-1900;;D;Deutsche Welle;HA;WAf;/STP;0;;
-9830;2100-2300;24Dec;D;NDR Gruﬂ an Bord;D;SAO;/F;6;2811;2412
+9830;2100-2300;24Dec;D;NDR Grub an Bord;D;SAO;/F;6;2811;2412
 9830;0000-2400;;PTR;NAU Isabela RTTY;;Car;i;1;;
 9830;1600-1630;;USA;Adventist World Radio;BU;SEE;/D-n;0;;
 9830;1300-1400;;USA;Voice of America;HA;WAf;/STP;6;2910;211
@@ -8549,7 +8546,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11650;0900-1100;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 11650;1300-1400;;CUB;Radio Habana Cuba;S;Car;be;4;1211;
 11650;1400-1500;;CUB;Radio Habana Cuba;S;Car;be;4;1211;
-11650;1900-2100;24Dec;D;NDR Gruﬂ an Bord;D;SAO;/F;6;2811;2412
+11650;1900-2100;24Dec;D;NDR Grub an Bord;D;SAO;/F;6;2811;2412
 11650;2200-0200;;OMA;Radio Sultanate Oman;A;Eu;t;8;;[1016]
 11650;1500-1530;;PHL;FEBC Manila Radio Teos;R;Sib;b;1;;
 11650;1530-1600;Mo-Sa;PHL;FEBC Manila Radio Teos;R;Sib;b;1;;
