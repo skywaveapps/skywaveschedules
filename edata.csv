@@ -2239,7 +2239,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4235;0230-0505;;USA;NMF Fax Boston MA;;ENA;bo;1;;
 4235;0745-1040;;USA;NMF Fax Boston MA;;ENA;bo;1;;
 4243;0600-1600;;CHN;V26 Numbers Station USB;M;FE;xx;1;;
-4250.5;0000-2400;;SUI;HEB Bern Radio;-CW;Eu;be;1;;[1016]
 4259;1030-1040;;CHN;XSG Shanghai Radio;M;FE;sh;1;;
 4259;1230-1240;;CHN;XSG Shanghai Radio;M;FE;sh;1;;
 4259;1430-1440;;CHN;XSG Shanghai Radio;M;FE;sh;1;;
@@ -2460,7 +2459,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4558.4;0000-2400;;RUS;Channel Marker M;-CW;FE;mg;1;;
 4562;1800-1810;Mo;RUS;G06 Russian Spy Numbers;D;RUS;xx;1;111;2802[1216]
 4580;1230-1240;We;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1114]
-4583;0000-2400;;D;DWD 1 Pinneberg RTTY;E;Eu;pi;1;;[0417]
+4583;0000-2400;;D;DWD Pinneberg;E;Eu;pi;1;;[0417]
 4592;2020-2030;We;RUS;E06 Russian Spy Numbers;E;RUS;xx;1;105;3108[0814]
 4598;0000-2400;;RUS;Russian Navy;-CW;RUS;xy;1;;[0816]
 4610;0600-2000;;G;GYA Northwood Meteo Fax;;WEu;nw;1;;[1116]
@@ -2939,7 +2938,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5050;0000-0400;Su-Tu;USA;WWRB Manchester, TN;E;NAm;ma;1;1604;911
 5055;1000-1300;;AUS;4KZ Innisfail;E;AUS;in;3;;
 5055;2200-0700;;CUB;RHC Mixing 5025/5040;;CAm;b;2;;[0517]
-5055;0000-2400;;J;JJT44 Jap.Self Defense;-CW;FE;;1;;[1216]
 5055.5;0000-2400;;UZB;Channel Marker V;-CW;CAs;;1;;[1215]
 5060;0230-0300;;CHN;PBS Xinjiang;M;CHN;uc;4;;
 5060;1200-1205;;CHN;PBS Xinjiang;M;CHN;uc;4;;
@@ -5735,7 +5733,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7620;1230-1240;We;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110[1014]
 7625;1330-1530;;CLA;CMI Voice of Wilderness;K;KRE;/UZB;1;;
 7630;0940-0950;Th;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0514]
-7646;0000-2400;;D;DWD 1 Pinneberg RTTY;E;Eu;pi;1;;[0417]
+7646;0000-2400;;D;DWD Pinneberg;E;Eu;pi;1;;[0417]
 7650;0800-0810;Fr;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0814]
 7650.2;0100-0700;;TWN;Sound of Hope;M;FE;;1;;
 7650.2;0700-0800;;TWN;Sound of Hope;M;FE;;1;;
@@ -6050,7 +6048,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8467.5;2215-2245;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;[0216]
 8473;0000-2400;;USA;WLO Mobile Radio RTTY;;Car;mo;1;;[0417]
 8478.5;0000-2400;;MRT;FUF Martinique STANAG;F;Car;;1;;[0417]
-8484;0900-2400;;KOR;HLG Seoul Radio;-CW;FE;;1;;
 8484.5;0000-2400;;RUS;Channel Marker P;-CW;RUS;kl;1;;[0314]
 8494.7;0000-2400;;RUS;Channel Marker D;-CW;EEu;se;1;;[0616]
 8494.8;0000-2400;;RUS;Channel Marker P;-CW;RUS;kl;1;;[0816]
@@ -6115,7 +6112,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8625;0000-2400;;OCE;FUM Tahiti Stanag;F;Oc;;1;;[0317]
 8630;0820-0830;We;RUS;S06 Russian Spy Numbers;R;FE;xx;1;103;3004[0316]
 8630;0820-0830;We;RUS;S06 Russian Spy Numbers;R;FE;xx;1;109;3110[1014]
-8636;0900-2400;;KOR;HLW Seoul Radio;-CW;FE;;1;;
 8646;0000-2400;;NCL;FUJ Noumea Stanag;F;Oc;;1;;[0216]
 8658;0615-0630;126;J;JFC Misaki Fisheries Fax;;WOc;m;1;;
 8658;0650-0705;Mo-Sa;J;JFC Misaki Fisheries Fax;;WOc;m;1;;
@@ -8032,7 +8028,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 10066;0000-2400;;MYA;Yangon Radio;E;SEA;;1;;
 10084;0000-2400;;IND;Delhi Radio;E;SAs;;1;;
 10084;0000-2400;;IND;Mumbai Radio;E;SAs;;1;;
-10100.8;0000-2400;;D;DWD 1 Pinneberg RTTY;E;Eu;pi;1;;[0817]
+10100.8;0000-2400;;D;DWD Pinneberg;E;Eu;pi;1;;[0817]
 10115;0000-2400;;CHN;BAF Beijing Meteo Fax;;FE;bm;1;;
 10125;0820-0830;Mo,Th;POL;E11 Polish Spy Numbers;E;;p;1;111;2802[1215]
 10148;0610-0620;Fr;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004[0414]
@@ -8179,7 +8175,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11030;1915-2045;;AUS;VMC Charleville Met Fax;;Oc;c;1;;
 11030;2215-2400;;AUS;VMC Charleville Met Fax;;Oc;c;1;;
 11030;1915-1925;Mo;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3103[0314]
-11039;0000-2400;;D;DWD 2 Pinneberg RTTY;E;Eu;pi;1;;[1216]
+11039;0000-2400;;D;DWD Pinneberg;E;Eu;pi;1;;[1216]
 11070;0100-0700;;TWN;Sound of Hope;M;FE;;1;;[0917]
 11070;0700-0800;;TWN;Sound of Hope;M;FE;;1;;
 11070;0800-1000;;TWN;Sound of Hope;M;FE;;1;;[0917]
@@ -9738,8 +9734,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12830;0755-0815;;CHN;3SD Beijing Meteo Fax;;FE;bs;1;;
 12830;1130-1150;;CHN;3SD Beijing Meteo Fax;;FE;bs;1;;
 12830;0910-0920;Mo;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;111;2802[1116]
-12843;0000-0900;;KOR;HLO Seoul Radio;-CW;FE;;1;;
-12843;0900-2400;;KOR;HLO Seoul Radio;-CW;FE;;1;;[1216]
 12856;0030-0040;;CHN;XSG Shanghai Radio;M;FE;sh;1;;
 12856;0230-0240;;CHN;XSG Shanghai Radio;M;FE;sh;1;;
 12856;0430-0440;;CHN;XSG Shanghai Radio;M;FE;sh;1;;
@@ -9775,14 +9769,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12910;1600-1700;;TWN;Sound of Hope;M;FE;;1;;
 12910;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 12910;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
-12916.5;0000-0900;;KOR;HLF Seoul Radio;-CW;FE;;1;;
-12916.5;0900-2400;;KOR;HLF Seoul Radio;-CW;FE;;1;;[1116]
-12923;0000-0900;;KOR;HLW Seoul Radio;-CW;FE;;1;;
-12923;0900-2400;;KOR;HLW Seoul Radio;-CW;FE;;1;;
 12924;0710-0720;Th;POL;E11 Polish Spy Numbers;E;;p;1;111;2802[1215]
 12924;0830-0840;Mo,Fr;POL;E11 Polish Spy Numbers;E;;p;1;105;3108[0815]
-12935;0000-0900;;KOR;HLG Seoul Radio;-CW;FE;;1;;
-12935;0900-2400;;KOR;HLG Seoul Radio;-CW;FE;;1;;[1216]
 12935;0810-0820;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0717]
 12950.2;0100-0700;;TWN;Sound of Hope;M;FE;;1;;
 12950.2;0700-0800;;TWN;Sound of Hope;M;FE;;1;;[0917]
@@ -10495,7 +10483,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 14430.1;2100-2200;;TWN;Sound of Hope;M;FE;;1;;
 14430.1;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 14430.1;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
-14467.3;0000-2400;;D;DWD 2 Pinneberg RTTY;E;Eu;pi;1;;
+14467.3;0000-2400;;D;DWD Pinneberg;E;Eu;pi;1;;
 14500;2200-1600;;CHN;CNR1 Jammer/Firedrake;M;CHN;;1;;
 14500;0100-0700;;TWN;Sound of Hope;M;FE;;1;;[1117]
 14500;0700-0800;;TWN;Sound of Hope;M;FE;;1;;[0917]
@@ -11604,7 +11592,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 16902;1130-1150;;CHN;3SD Beijing Meteo Fax;;FE;bs;1;;
 16905;0000-2400;;DJI;FUV Djibouti Stanag;F;EAf;;1;;[0416]
 16907.5;0435-0450;Mo-Sa;J;JFC Misaki Fisheries Fax;;WOc;m;1;;
-16910;0000-0900;;KOR;HLJ Seoul Radio;-CW;FE;;1;;[1216]
 16945;0610-0620;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0616]
 16951.5;0000-2400;;SEN;6WW Dakar STANAG;F;WAf;r;1;;[1016]
 16957;0000-2400;;NCL;FUJ Noumea Stanag;F;Oc;;1;;[0517]
@@ -11635,7 +11622,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 16980;2100-2200;;TWN;Sound of Hope;M;FE;;1;;
 16980;2200-2300;;TWN;Sound of Hope;M;FE;;1;;
 16980;2300-0100;;TWN;Sound of Hope;M;FE;;1;;
-16990;0000-0900;;KOR;HLO Seoul Radio;-CW;FE;;1;;[1216]
 17000;0100-0700;;TWN;Sound of Hope;M;FE;;1;;[1216]
 17000;0700-0800;;TWN;Sound of Hope;M;FE;;1;;
 17000;0800-1000;;TWN;Sound of Hope;M;FE;;1;;
@@ -11654,7 +11640,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17069.6;1645-2000;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;[0616]
 17069.6;2215-2245;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;
 17094;0000-2400;;USA;WHL St Augustine, FL;-CW;Car;;1;;
-17130;0000-0900;;KOR;HLW Seoul Radio;-CW;FE;;1;;[1216]
 17146.4;1115-1145;;CHL;CBV Valparaiso Met Fax;;SAm;v;1;;
 17146.4;1630-1700;;CHL;CBV Valparaiso Met Fax;;SAm;v;1;;
 17146.4;1915-1945;;CHL;CBV Valparaiso Met Fax;;SAm;v;1;;
@@ -12228,7 +12213,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 22542;1645-2000;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;
 22542;2215-2245;;J;JJC Kyodo News Agcy Fax;;FE;ky;1;;
 22559.6;0335-0350;2356;J;JFC Misaki Fisheries Fax;;WOc;m;1;;
-22611.5;0000-0900;;KOR;HLF Seoul Radio;-CW;FE;;1;;[1016]
 22636.3;0003-0013;;URG;Punta Carretas Radio Wx;S;URG;pc;1;;
 22636.3;1403-1413;;URG;Punta Carretas Radio Wx;S;URG;pc;1;;
 22636.3;2103-2113;;URG;Punta Carretas Radio Wx;S;URG;pc;1;;
