@@ -55,7 +55,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 135.6;0000-2400;;HNG;EFR Teleswitch;;Eu;lh;1;;
 139;0000-2400;;D;EFR Teleswitch;;Eu;bu;1;;
 145;0000-2400;irr;E;Spanish Navy FSK;;Eu;gm;1;;
-147.3;0000-2400;;D;DWD 2 Pinneberg RTTY;E;Eu;pi;1;;
+147.3;0000-2400;;D;DWD Pinneberg;E;Eu;pi;1;;
 153;0000-2400;1234567;ROU;Antena Satelor;RO;Eeu;b;1;;
 164;2200-1500;1234567;MNG;Mongolian Radio 1;MO;As;u;1;;
 171;0000-2400;;MRC;Medi 1;A,F;NAf;n;1;;
