@@ -3,5 +3,5 @@ v1.1.44 Beta (Unreleased)
 - Fixed bug in utility filter
 - Removed duplicate from Target lookup
 - Fixed bug in day detect
-- Added more Utility stations to the list filter
+- Added more Utility stations to the list filter and Utility station lookup
 - Minor textual changes
