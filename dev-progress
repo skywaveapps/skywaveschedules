@@ -1,7 +1,2 @@
-v1.1.44 (Google Play Release)
-- Fixed bug in List lookups
-- Fixed bug in utility filter
-- Removed duplicate from Target lookup
-- Fixed bug in day detect
-- Added more Utility stations to the list filter and BC/Utility station lookups
-- Minor textual changes
+v1.1.45 (Unreleased)
+- 
