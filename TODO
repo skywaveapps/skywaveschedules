@@ -1,6 +1,6 @@
 - Add Logbook
 - Add date check for online schedules update
-- Allow character accents in list (partially done - needs more wok)
+- Allow character accents in list (partially done - needs more work)
 - Allow stations to be blacklisted so they don't show in the list, include rollback option
 - Add utility whitelist so new stations can be filtered out from the BC list without an app update
 - Add AOKI support either through a list or incorporate Power/Bearing 
