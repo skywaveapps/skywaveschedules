@@ -1,4 +1,5 @@
 v1.1.45 (Unreleased)
-- Added AOKI lookup for Power/Bearing (Menu Option to enable)
-- Added 'Mark as Utility' option under Long Tap so stations not in the utility filter can be added manually after a schedule update
+- Added 'AOKI Data Lookup' for Power/Bearing (Menu option to enable/disable)
+- Added 'Add as Utility' option under Long Tap so stations not in the utility filter can be added manually e.g. after a schedule update
+- Better visiblity of Target and Language boxes
 - Fixed bug in Long Tap 
