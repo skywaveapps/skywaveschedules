@@ -1,3 +1,5 @@
 06-11-2017 - Cap
 FIXED - Duplicate Target codes (CEu/CEU/CAf/CAF) - Applied to next release, temp workaround applied to schedule
-- When long tap enabled, if cancel/back button is not tapped and a tap anywhere else on the screen results in no more info box showing, workaround is long tap again and tap cancel or back button to restore more info box. This is a known issue.
+
+16-12-2017 - Cap
+- When long tap enabled, if cancel/back button is not tapped and a tap anywhere else on the screen results in no more info box showing when station tapped, workaround is long tap again and tap cancel or back button to restore more info box. This is a known issue.
