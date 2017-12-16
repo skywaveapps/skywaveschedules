@@ -3,4 +3,4 @@
 - Allow character accents in list (partially done - needs more work, not stable enough yet)
 - Allow stations to be blacklisted so they don't show in the list, include rollback option
 - Add utility whitelist so new stations can be filtered out from the BC list without an app update
-DONE - Add AOKI support to incorporate Power & Bearing/Azimuth 
+DONE ADDED TO v1.1.45 Beta - Add AOKI support to incorporate Power & Bearing/Azimuth 
