@@ -1,7 +1,3 @@
-v1.1.45 (Unreleased) -  Expected Beta release around 15th Dec 2017
-- Added 'AOKI Data Lookup' for Power/Bearing (Menu option to enable/disable)
-PULLED FROM RELEASE DUE TO UNRESOLVED BUG - 'Add as Utility' option added under Long Tap so stations not in the utility filter can be added manually e.g. after a schedule update
-- Better visiblity of Target and Language boxes
-- Swapped Freq/Station in Long Tap options box
-- Consolidated transmitter names between EiBi and AOKI schedules
-- Fixed bug in Long Tap 
+v1.1.46 Beta (Unreleased)
+- More robust list layout for different screen sizes 
+- Better reset using List Title (Freq  Station   Times UTC)
