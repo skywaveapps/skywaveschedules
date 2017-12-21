@@ -6091,7 +6091,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8431;0000-2400;;TUR;TAH Turk Radio Istanbul;-CW;ME;is;1;;[1016]
 8434;0000-2400;;TUR;TAH Turk Radio Istanbul;-CW;ME;is;1;;[1016]
 8435;0000-2400;;CHN;XSQ Guangzhou R.;;FE;gx;1;;
-8439;0000-2400;;HOL;PBB Ny DenHelder;-TY;WEu;cg;1;;[1216]
+8439;0000-2400;;HOL;PBB Ny DenHelder;-TY;WEu;cg;8;;[1216]
 8440;0700-0715;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
 8440;0800-0815;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
 8440;1400-1500;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
