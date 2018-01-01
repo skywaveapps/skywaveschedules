@@ -1,6 +1,6 @@
 - Add Logbook
 - Add date check for online schedules update
-- Allow character accents in list (partially done - needs more work, not stable enough yet)
-- Allow stations to be blacklisted so they don't show in the list, include rollback option
+- Allow stations to be blacklisted so they don't show in any lists, include rollback option
+DONE ADDED TO v1.1.45 Beta - Allow character accents in list and station lookup
 DONE ADDED TO v1.1.45 Beta - Add utility whitelist so new stations can be filtered out from the BC list without an app update
 DONE ADDED TO v1.1.45 Beta - Add AOKI support to incorporate Power & Bearing/Azimuth 
