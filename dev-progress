@@ -1,5 +1,6 @@
 v1.1.46 Beta (Unreleased)
-- Moved creation of schedules directory during download rather than startup
-- More robust list layout for different screen sizes 
+- Added utility station filter, allows you to move stations to the utility list yourself (long tap!), handy for future schedule updates that include new utility stations
+- Moved creation of schedules directory during download rather than startup, less chance of crashing on startup
+- Better list layout
 - Better reset using List Title (Freq  Station   Times UTC)
 - Minor textual changes
