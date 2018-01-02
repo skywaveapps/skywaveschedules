@@ -3,5 +3,6 @@ v1.1.46 Beta (Unreleased)
 - Moved creation of schedules directory during download rather than startup, less chance of crashing on startup
 - Better list layout
 - Better reset using List Title (Freq  Station   Times UTC)
+- Restricted some dialogs from closing with a tap
 - AOKI data updated
 - Minor textual changes
