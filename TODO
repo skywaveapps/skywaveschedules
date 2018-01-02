@@ -1,6 +1,6 @@
 - Add Logbook
 - Add date check for online schedules update
-DONE ADDED TO v1.1.46 Beta - Allow stations to be blacklisted (Long Tap) so they don't show in any lists, include rollback option
+REMOVED - Allow stations to be blacklisted so they don't show in any lists, include rollback option
 DONE ADDED TO v1.1.46 Beta - Allow character accents in list and station lookup
 DONE ADDED TO v1.1.46 Beta - Add station to utility whitelist (Long Tap) so new stations can be filtered out from the BC list without an app update
 DONE ADDED TO v1.1.45 Beta - Add AOKI support to incorporate Power & Bearing/Azimuth 
