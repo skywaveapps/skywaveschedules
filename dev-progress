@@ -1,8 +1,9 @@
 v1.1.46 Beta (Unreleased)
+- Added Logbook feature (Schedule entry, Date Logged, Time Logged, SIO, Comments, option to remove entries
 - Added utility station filter, allows you to add stations to the utility list yourself (Long Tap), handy for future schedule updates that include new utility stations not already flagged as a utility station
 - Moved creation of schedules directory during download rather than startup, less chance of crashing on startup
 - Better list layout
 - Better reset using List Title (Freq  Station   Times UTC)
-- Restricted some dialogs from closing with a tap
+- Restricted some dialogs closing with a tap
 - AOKI data updated
 - Minor textual changes
