@@ -1,6 +1,8 @@
-- Add Logbook
 - Add date check for online schedules update
-REMOVED - Allow stations to be blacklisted so they don't show in any lists, include rollback option
+- Import/Export SWL Logs in ADIF format
+- Import old ebfav.csv + eufav.csv data into SQLite DB 
+DONE ADDED TO v1.1.46 Beta - Move Favourites (BC & Utils) and Utility Filter to a SQLite DB
+DONE ADDED TO v1.1.46 Beta - Add Logbook, use SQLite DB so we can import/export SWL logs later
 DONE ADDED TO v1.1.46 Beta - Allow character accents in list and station lookup
-DONE ADDED TO v1.1.46 Beta - Add station to utility whitelist (Long Tap) so new stations can be filtered out from the BC list without an app update
+DONE ADDED TO v1.1.46 Beta - Add station to utility filter (Long Tap) so new stations can be filtered out from the BC list without an app update
 DONE ADDED TO v1.1.45 Beta - Add AOKI support to incorporate Power & Bearing/Azimuth 
