@@ -1,6 +1,6 @@
 v1.1.46 Beta (Unreleased)
 - Added Logbook feature
-- Added Utility station filter, allows you to add stations to the utility list yourself (Long Tap), handy for future schedule updates that include new utility stations not already flagged as a utility station
+- Added Utility station filter feature, allows you to move stations to the utility list yourself (Long Tap), handy for future schedule updates that include new utility stations not already flagged as a utility station
 - Data now saved to SQLite DB
 - Moved creation of schedules directory during download rather than startup, less chance of crashing on startup
 - Better list layout
