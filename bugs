@@ -1,5 +1,5 @@
 01-01-2018
-- Issue on Android =< v4.1, will not open
+- Issue on Android <= v4.1, will not open
 
 06-11-2017 - Cap
 FIXED - Duplicate Target codes (CEu/CEU/CAf/CAF) - Applied to next release, temp workaround applied to schedule
