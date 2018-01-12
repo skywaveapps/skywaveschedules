@@ -1,4 +1,5 @@
 v1.1.46 Beta (Unreleased)
+- BC/Utility flag added to Logbook feature so a filter can be run later to separate out stations later
 - Added Logbook feature
 - Added Utility station filter feature, allows you to move stations to the utility list yourself (Long Tap), handy for future schedule updates that include new utility stations not already flagged as a utility station
 - Data now saved to SQLite DB
