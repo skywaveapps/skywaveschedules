@@ -1,6 +1,7 @@
 - Add date check for online schedules update
 - Import/Export SWL Logs in ADIF format
 - Import old ebfav.csv + eufav.csv data into SQLite DB 
+- Add filter to Logbook: 'Show All', 'Today', 'This Week', 'Last Week', 'Last Month', '6 Months Ago', '1 Year ago'
 DONE ADDED TO v1.1.46 Beta - Move Favourites (BC & Utils) and Utility Filter to a SQLite DB
 DONE ADDED TO v1.1.46 Beta - Add Logbook, use SQLite DB so we can import/export SWL logs later
 DONE ADDED TO v1.1.46 Beta - Allow character accents in list and station lookup
