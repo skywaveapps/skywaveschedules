@@ -1,3 +1,4 @@
 v1.1.47 Beta - 17-01-2018
 - Fixed bug in database schema
 - Added text delete options for database in case we need to clear/drop tables for any reason in the future
+- Lowest Android API is now API16 (v4.1 Jellybean) until further testing done on earlier API's
