@@ -1,0 +1,3 @@
+v1.1.47 Beta - 17-01-2018
+- Fixed bug in database schema
+- Added text delete options for database in case we need to clear/drop tables for any reason in the future
