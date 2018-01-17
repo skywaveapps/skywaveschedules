@@ -1,4 +1,4 @@
 v1.1.48 Beta - UNRELEASED
 - Fixed bug in Schedule Update that was causing app to crash
-- Added duplicate detect on Favourites (BC & Utiliy)
+- Added duplicate detect on Favourites (BC & Utility)
 - Added duplicate detect Utility Filter
