@@ -1,4 +1,6 @@
-v1.1.46 Beta (Unreleased)
+- Added detect duplicates in Utility Filter
+- Added detect duplicates in Favs
+- Fixed crash bug in Schedule update
 - BC/Utility flag added to Logbook feature so a filter can be run later to separate out stations later
 - Changed 'Broadcaster's Country:' label on Utility stations to show 'ITU Area Designation:' instead
 - Added Logbook feature
