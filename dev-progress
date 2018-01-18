@@ -1,6 +1,8 @@
 - Added detect duplicates in Utility Filter
 - Added detect duplicates in Favs
 - Fixed crash bug in Schedule update
+- Lowest API is now 16 (Android v4.1 Jellybean) until more testing carried out on earlier version)
+- Fix for Android v4.1 Jellybean
 - BC/Utility flag added to Logbook feature so a filter can be run later to separate out stations later
 - Changed 'Broadcaster's Country:' label on Utility stations to show 'ITU Area Designation:' instead
 - Added Logbook feature
