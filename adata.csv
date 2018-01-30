@@ -1,4 +1,4 @@
-40;Time Signal;0000-2400;1234567;A1B;50;ND;Otakadoyama Tamura C;J;3722N14051E;NICT;37;22;-140;51
+﻿40;Time Signal;0000-2400;1234567;A1B;50;ND;Otakadoyama Tamura C;J;3722N14051E;NICT;37;22;-140;51
 60;Time Signal;0000-2400;1234567;A1B;50;ND;Haganeyama;J;3328N13010E;NICT;33;28;-130;10
 153;Antena Satelor;0000-2400;1234567;Romanian;200;ND;Brasov Bod;ROU;;ROU;;;;
 162;Time Signal;0000-2400;1234567;French;1000;;Allouis;F;;;;;;
@@ -6817,7 +6817,3 @@
 21780;DEUTSCHE WELLE;1300-1400;1234567;Hausa;500;185;Nauen;D;5238N01254E;DW b17;52;38;-12;54
 21795;VOICE OF AMERICA;0300-0400;1234567;Tibetan;250;283;Tinang;PHL;1521N12037E;VOA/IBB b17;15;21;-120;37
 21800;SOH Xi Wang Zhi Sheng;2300-1000;1234567;Chinese/Cantonese;0.1;ND;?;TWN;2610N11955E;SOH b17;26;1;-119;55
-;Radio MiAmigo International ;1800-1900;1......;English;100;305;Yerevan-Gavar;ARM;4025N04511E;FNA b17 last Su.;40;25;-45;11
-;AM streo;;;;;;;;;;;;;
-;Jammed by CNR1×2;;;;;;Tibet Autonomous Region;TIB;;;;;;
-;off the air;;;;;;Xinjiang Uyghur;TKS;;;;;;
