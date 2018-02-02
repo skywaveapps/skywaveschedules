@@ -1,5 +1,14 @@
-v1.1.48 Beta - UNRELEASED
+v1.1.48 Beta - 02-02-2018
+- AOKI lookup for Power, Bearing and TX Location Lat/Long
+- AOKI list added to schedules update
+- Added quick switch checkbox for Broadcast and Utility lists
+- Better start/finish date detection
 - Fixed bug in Schedule Update that was causing app to crash
 - Added duplicate detect on Favourites (BC & Utility)
 - Added duplicate detect Utility Filter
+- Added Export Logbook in ADIF format
 - Expanded Logbook schema to include 'Times'
+- Auto font resize when length of station exceeds length of 13 chars for better visibility in stationbox
+- Extended favourites database schema
+- Default view is now 23 chars length for station name on the list, change with 'Adjust View' in the menu
+- Minor layout changes
