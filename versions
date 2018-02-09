@@ -1,3 +1,18 @@
+v1.1.48 Beta - 08-02-2018
+- Added AOKI lookup for Power, Bearing and TX Location Lat/Long
+- Added AOKI list to schedules update
+- Added quick switch between Broadcast and Utility lists (Menu option removed)
+- Added Export Logbook in ADIF format
+- Added better start/finish date detection
+- Added duplicate detect on Favourites (BC & Utility)
+- Added duplicate detect for Utility Filter
+- More readable Start/Finish Date and Last Heard dates (02 Jan instead of 0201 and Oct 2017 instead of 1117)
+- Expanded Logbook schema to include 'Times'
+- Auto font resize when length of station exceeds length of 13 chars for better visibility in stationbox
+- Extended favourites database schema
+- Default view is now 23 chars length for station name on the list, change with 'Adjust View' in the menu
+- Layout changes
+
 v1.1.45 Beta - 16-12-2017 
 - Added 'AOKI Data Lookup' for Power/Bearing (Menu option to enable/disable)
 - Better visiblity of Target and Language boxes
