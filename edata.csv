@@ -2742,7 +2742,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4835;1325-1700;;IND;AIR Gangtok;NE;SAs;gt;1;;[0118]
 4835;1600-1900;31Dec;IND;AIR Gangtok;NE;SAs;gt;1;1512;3112
 4835;1045-0300;;PRU;Ondas del Suroriente;S,Q;PRU;qb;1;;[0914]
-4835;0000-2400;Tests;AUS;Ozy Radio;E;AUS;rz;8;0111;
+4835;0000-2400;Tests;AUS;Ozy Radio;E;AUS;rz;1;111;
 4836;2030-2040;Th,Fr;RUS;E06 Russian Spy Numbers;E;RUS;xx;1;111;2802[1116]
 4840;0430-0500;Su;USA;Adventist World Radio;E;NAm;n;2;;
 4840;0100-1300;;USA;WWCR 3 Nashville, TN;E;NAm;n;2;;
@@ -4123,7 +4123,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6095;1405-1435;;J;Shiokaze;J;KRE;y;6;2910;3011
 6095;1000-1100;;KOR;KBS World Radio;J;FE;k;4;;
 6095;1130-1230;;KOR;KBS World Radio;M;CHN;k;1;;
-6095;0900-1600;25Dec;HOL;Mighty KBC;E;CEu;/D-n;6;0112;2512
+6095;0900-1600;25Dec;HOL;Mighty KBC;E;CEu;/D-n;6;112;2512
 6100;1530-1600;;AFG;Radio Afghanistan;E;SAs;y;1;;[1017]
 6100;1600-1630;;AFG;Radio Afghanistan;UR;SAs;y;1;;[1017]
 6100;1630-1700;;AFG;Radio Afghanistan;A;SAs;y;1;;[0118]
@@ -6402,7 +6402,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8433;0000-2400;;CHN;XSG Shanghai R.;-CW;FE;sh;1;;[0118]
 8434;0000-2400;;TUR;TAH Turk Radio Istanbul;-CW;ME;is;1;;[1016]
 8435;0000-2400;;CHN;XSQ Guangzhou R.;-CW;FE;gx;1;;[0118]
-8439;0000-2400;;HOL;PBB Ny DenHelder;-TY;WEu;cg;8;;[1216]
+8439;0000-2400;;HOL;PBB Ny DenHelder;-TY;WEu;cg;1;;[1216]
 8440;0700-0715;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
 8440;0800-0815;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
 8440;1400-1500;;RUS;RBW Murmansk Meteo Fax;;NEu;mm;1;;
