@@ -1,6 +1,6 @@
 v1.1.50 Beta - 04-04-2018
 - Fixed typo in Target box, South America 
 - Added Tabs and relocated features to specific tabs
-- Added TX Site transmitter Google Maps lat/long marker (Press/hold details box)
+- Added TX Site transmitter Google Maps with lat/long TX marker (approx. location!) Press/hold details box to activate/switch to TX Site location on the map
 - Fixed bug in Upcoming Stations - Broadcast not checked/labelled
 - Added Save settings: Target, Language, Fullscreen, Adjust View (Saves settings after a search is carried out)
