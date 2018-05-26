@@ -1,47 +1,45 @@
 Privacy Policy
-The author built the Skywave Radio Schedules app as a free app in the hope that it is useful. This app is provided at no cost and is intended for use as is.
+The author developed the Skywave Radio Schedules app as a free app in the hope that it is useful. This app is provided at no cost and is intended for use as is.
 
-This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my app.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Skywave Radio Schedules unless otherwise defined in this Privacy Policy.
+This page is used to inform website visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the app.
 
 Information Collection and Use
-I want to inform you that whenever you use Skywave Radio Schedules no data is collected about you by the app, when you use the app or carry out an update to the schedules, the website you visit may collect information about your connection to the server, but the app will not collect any information about you or your device.
-The app requires permission to connect to the internet to download a schedules update, but will only do this when you request it. Part of this process involves saving data to read/write data to the built in storage area on your device in order to present the update to the app and thefore also requires storage permissions. You will have to agree to these permissions prior to installing the app. 
+The app does not collect information used to identify you, however the app delivery system Google Play Services will collect information about you and I recommend you read their Privacy Policy. GitHub and KiwiSDR may also store information about you and I recommend you read their Privacy Policies. Accessing any websites from the app will result in storing cookies and suggest you check the sites privacy policies before visiting them and decide whether you want to continue using the app.  
 
-The app does not collect information used to identify you, however the app delivery system Google Play Services  may collect information about you and I recommend you read their Privacy Policy. GitHub may also store information about you and I recommend you read their Privacy Policy.
+Whenever you use Skywave Radio Schedules no data is collected about you by the app, when you use the app or carry out an update to the schedules, the websites you visit may collect information about your connection to the server, but the app will not collect any personal data about you or your device. Your install and use of the app is your permission to Google Play to store information about you.
+The app requires permission to connect to the internet to download a schedules update, but will only do this when you request it. Part of this process involves saving data to read/write data to the built in storage area on your device in order to present the update to the app and thefore also requires storage permissions. You will have to agree to these permissions prior to installing the app. 
 
 Link to privacy policy of third party service providers used by the app
 Google Play Services: https://www.google.com/policies/privacy
 GitHub: https://help.github.com/articles/github-privacy-statement
 
-Log Data
-I want to inform you that whenever you use the Skywave Radio Schedules app no data is collected about you by the app. Future versions may store additional app data locally on your device, but no personal data will be accessed or stored by the app. 
+Log/Favourites Data
+No data is collected about you by the app. Future versions may store additional app data locally on your device, but no personal data will be accessed or stored by the app. 
 
 Cookies
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
 
-The app does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and to improve their services.
+The app does not use these “cookies” directly. However, the app may use third party code and libraries that use “cookies” to collect information and to improve their services.
 
 Service Providers
-I may employ third-party companies and individuals for the following reasons:
+I may employ third-party companies (e.g. Google Play Services) and individuals for the following reasons:
 - To facilitate our Service;
 - To provide the Service on our behalf;
 - To perform Service-related services; or
 - To assist us in analyzing how our Service is used.
-- I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+- I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. An example of use by Google Play Services is to identify what type of device you are using and version of Android you are running in order to help identify any bugs that may occur.
 
 Security
 Remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 Links to Other Sites
-This app does not contain links to any websites other than to download schedule data from GitHub.
+This app does contain links to websites, to download schedule information from GitHub and KiwiSDR for listening to remote SDRs. If you do not agree to this then please do not use the app.
 
 Children’s Privacy
 This app is suitable for ages 3+ and does not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 Changes to This Privacy Policy
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Our Privacy Policy may be updated from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
