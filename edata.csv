@@ -3946,6 +3946,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5985;0330-0400;We;USA;Frecuencia al Dia;S;CAm;o;1;;
 5985;0330-0400;Sa-Mo;USA;WRMI Radio Miami Int.;E;CAm;o;1;;
 5985;0430-0600;Mo;USA;WRMI Radio Miami Int.;E;CAm;o;1;;
+5985;2130-2200;;G;BBC Antarctic Midwinter Broadcast;E;ATA;w;6;2106;2106
 5990;0000-0100;;CHN;China Radio Int.;S;Car;/CUB;0;;
 5990;1200-1300;;CHN;China Radio Int.;MO;MNG;h;0;;
 5990;1300-1400;;CHN;China Radio Int.;R;Sib;h;0;;
@@ -4087,6 +4088,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6035;2300-1630;;CHN;PBS Yunnan FM99;M;CHN;kl;1;;[0518]
 6035;0815-0900;Th;UN;United Nations Radio;E;BTN;/BTN;1;;
 6035;0500-0530;;USA;Voice of America;HA;WAf;/ASC;0;;
+6035;2130-2200;;G;BBC Antarctic Midwinter Broadcast;E;ATA;/UAE;6;2106;2106
 6040;0300-0400;;CHN;China National Radio 8;MO;CHN;hh;1;;
 6040;1400-1500;;CHN;China Radio Int.;M;SEA;x;0;;
 6040;2055-2300;;CHN;CNR 2 China Business R.;M;CHN;B;5;;
@@ -5158,6 +5160,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7230;1620-1720;;IRN;IRIB Voice of I.R.Iran;AR;Cau;s;0;;
 7230;1110-1120;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004[0418]
 7230;1110-1120;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110[0916]
+7230;2130-2200;;G;BBC Antarctic Midwinter Broadcast;E;ATA;w;6;2106;2106
 7235;1400-1500;;CHN;China Radio Int.;M;SAs;ka;0;;
 7235;1500-1600;;CHN;China Radio Int.;M;SAs;ka;0;;
 7235;1600-1700;;CHN;China Radio Int.;E;SAs;ka;0;;
@@ -5618,6 +5621,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7360;2320-0020;;IRN;IRIB Voice of I.R.Iran;M;FE;s;0;;
 7360;1500-1530;;ROU;Radio Romania Int.;R;EEu;t;0;;
 7360;1730-1830;;TUR;Voice of Turkey;F;EAf;e;0;;
+7360;2130-2200;;G;BBC Antarctic Midwinter Broadcast;E;ATA;/ASC;6;2106;2106
 7365;1000-1805;;CHN;China National Radio 1;M;CHN;s;4;;
 7365;1200-1805;;CHN;China National Radio 1;M;CHN;s;5;;
 7365;1400-1500;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
