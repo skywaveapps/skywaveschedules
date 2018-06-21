@@ -4088,7 +4088,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6035;2300-1630;;CHN;PBS Yunnan FM99;M;CHN;kl;1;;[0518]
 6035;0815-0900;Th;UN;United Nations Radio;E;BTN;/BTN;1;;
 6035;0500-0530;;USA;Voice of America;HA;WAf;/ASC;0;;
-6035;2130-2200;;G;BBC Antarctic Midwinter Broadcast;E;ATA;/UAE;6;2106;2106
+6035;2130-2200;tent;G;BBC Antarctic Midwinter Broadcast;E;ATA;/UAE;6;2106;2106
 6040;0300-0400;;CHN;China National Radio 8;MO;CHN;hh;1;;
 6040;1400-1500;;CHN;China Radio Int.;M;SEA;x;0;;
 6040;2055-2300;;CHN;CNR 2 China Business R.;M;CHN;B;5;;
@@ -5160,7 +5160,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7230;1620-1720;;IRN;IRIB Voice of I.R.Iran;AR;Cau;s;0;;
 7230;1110-1120;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004[0418]
 7230;1110-1120;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;109;3110[0916]
-7230;2130-2200;;G;BBC Antarctic Midwinter Broadcast;E;ATA;w;6;2106;2106
+7230;2130-2200;tent;G;BBC Antarctic Midwinter Broadcast;E;ATA;w;6;2106;2106
 7235;1400-1500;;CHN;China Radio Int.;M;SAs;ka;0;;
 7235;1500-1600;;CHN;China Radio Int.;M;SAs;ka;0;;
 7235;1600-1700;;CHN;China Radio Int.;E;SAs;ka;0;;
@@ -8269,6 +8269,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9890;0030-0100;;G;BBC;BE;SAs;/SNG;6;2503;804
 9890;0130-0200;;G;BBC;BE;SAs;/SNG;0;;
 9890;0200-0230;;G;BBC;BR;SEA;/SNG;0;;
+9890;2130-2200;;G;BBC Antarctic Midwinter Broadcast;E;ATA;w;6;2106;2106
 9890;1530-1630;;KRE;Voice of Korea;A;ME;u;6;2503;405
 9890;1630-1730;;KRE;Voice of Korea;E;ME;u;6;2503;405
 9890;1730-1830;;KRE;Voice of Korea;A;ME;u;6;2503;405
