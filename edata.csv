@@ -3573,7 +3573,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5850;0800-0900;Su;USA;WRMI Radio Miami Int.;E;WNA;o;1;;
 5850;2230-2400;Fr;USA;WRMI Radio Miami Int.;E;WNA;o;1;;
 5850;0800-0830;Mo;USA;Shortwave Radiogram;E;NAm;o;6;;
-5850;0700-0800;Mo;USA;Broad Spectrum Radio – Radiogram;E;NAm;o;6;;
+5850;0700-0800;Mo;USA;Broad Spectrum Radio Ö Radiogram;E;NAm;o;6;;
 5850;0125-0130;Tu;I;IBC DIGITAL Radiogram;E;NAm;/USA-o;6;;
 5850;0155-0200;Sa;I;IBC DIGITAL Radiogram;E;NAm;/USA-o;6;;
 5850;0100-0130;Tu;I;Radio IBC;E;NAm;/USA-o;6;;
@@ -6264,7 +6264,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7730;0800-0830;Mo;USA;WRMI Radio Miami Int.;E;WNA;o;1;;
 7730;0800-0900;Su;USA;WRMI Radio Miami Int.;E;WNA;o;1;;
 7730;0800-0830;Mo;USA;Shortwave Radiogram;E;NAm;o;6;;
-7730;0700-0800;Mo;USA;Broad Spectrum Radio – Radiogram;E;NAm;o;6;;
+7730;0700-0800;Mo;USA;Broad Spectrum Radio Ö Radiogram;E;NAm;o;6;;
 7730;0055-0100;Su;I;IBC DIGITAL Radiogram;E;NAm;/USA-o;6;;
 7730;0030-0100;Su;I;Radio IBC;E;NAm;/USA-o;6;;
 7744;1510-1520;Tu;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;105;3108[0517]
