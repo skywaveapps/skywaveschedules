@@ -1,13 +1,6 @@
 v1.1.49 Beta - 21-02-2018
-- Added AOKI lookup feature, now lists Power, Bearing and TX Location Lat/Long if station data matches
-- Added quick switch between lists
-- Added Logbook feature
-- Added Export Logbook 
-- Added Utility station filter
-- Added better start/finish date detection
 - Fix for Android Jellybean
 - Fix for corrupt schedules
-- Favourites unfortunately not carried over from previous versions due to major design change
 - Lowest Android version is now v4.1
 
 v1.1.48 Beta - 08-02-2018
