@@ -1,5 +1,6 @@
 WIP - Port to new platform
 - Add date check for online schedules update
+- Add transmitter location to an offline map
 - Add remote listen option based on station Target area
 - Add import option for ADIF
 - Add multi language/target options
