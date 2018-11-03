@@ -1,4 +1,4 @@
-kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35;Start:60;Stop:60
+﻿kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35;Start:60;Stop:60
 16.4;0000-2400;;NOR;JXN Marine Norway;;NEu;no;1;;
 18.2;0000-2400;;IND;VTX Indian Navy;;SAs;v;1;;
 18.3;0000-2400;;F;HWU French Navy;;WEu;wu;1;;
@@ -7119,7 +7119,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8903;0000-2400;;KOR;Seoul Radio;E;FE;;1;;[0216]
 8903;0000-2400;;NGR;Niamey Radio;E;CAf;;1;;[0616]
 8903;0000-2400;;PHL;Manila Radio;E;WOc;;1;;[0416]
-8903;0000-2400;;TCD;N'Djamena Radio;E;CAf;;1;;[0616]
+8903;0000-2400;;TCD;NDjamena Radio;E;CAf;;1;;[0616]
 8903;0000-2400;;USA;San Francisco Radio CWP;E;WOc;/GUM-b;1;;
 8903;0000-2400;;USA;San Francisco Radio CWP;E;WOc;/HWA-m;1;;
 8906;0000-2400;;AZR;Santa Maria Radio A;E;NAO;sm;1;;[0217]
@@ -10198,8 +10198,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11860;2100-2300;;CUB;Radio Habana Cuba;S;Eu;b;5;804;
 11860;0700-1000;Mo-Fr;USA;Radio Marti;S;CUB;g;6;1308;2810
 11860;1400-2300;Mo-Fr;USA;Radio Marti;S;CUB;g;6;1308;2810
-11860;0900-1758;;YEM;Rep.Yemen Radio Sana'a;A;YEM;/ARS-j;1;;[1018]
-11860;1758-0900;;YEM;Rep.Yemen Radio Sana'a;A;YEM;/ARS;1;;[0918]
+11860;0900-1758;;YEM;Rep.Yemen Radio Sanaa;A;YEM;/ARS-j;1;;[1018]
+11860;1758-0900;;YEM;Rep.Yemen Radio Sanaa;A;YEM;/ARS;1;;[0918]
 11865;0730-1330;;KRE;Voice of Korea;J;J;u;6;2503;405
 11865;0700-1300;;KRE;Voice of Korea;J;J;u;5;505;
 11865;1430-1630;;KRE;Voice of Korea;R;Eu;u;6;2504;2504
@@ -10746,7 +10746,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12140;1330-1400;;USA;Radio Free Asia;BR;SEA;/MRA-s;6;2503;2510
 12140;1430-1500;;USA;Radio Free Asia;KH;SEA;/MRA-t;6;2503;2510
 12144.6;0000-2400;;NCL;FUJ Noumea STANAG;F;Oc;;1;;[0517]
-12150;1130-1200;Th,Su;CLA;V.o.Khmer M'Chas Srok;KH;SEA;/TJK;1;;[1217]
+12150;1130-1200;Th,Su;CLA;V.o.Khmer MChas Srok;KH;SEA;/TJK;1;;[1217]
 12150;0100-0700;;TWN;Sound of Hope;M;FE;;1;;[0617]
 12150;0700-0800;;TWN;Sound of Hope;M;FE;;1;;
 12150;0800-1000;;TWN;Sound of Hope;M;FE;;1;;[0418]
