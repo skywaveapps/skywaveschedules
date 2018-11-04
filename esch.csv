@@ -1,4 +1,4 @@
-kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35;Start:60;Stop:60
+﻿kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35;Start:60;Stop:60
 16.4;0000-2400;;NOR;JXN Marine Norway;;NEu;no;1;;
 18.2;0000-2400;;IND;VTX Indian Navy;;SAs;v;1;;
 18.3;0000-2400;;F;HWU French Navy;;WEu;wu;1;;
@@ -62,7 +62,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 183;0000-2400;1234567;D;Europe 1;F;F;fl;1;;
 189;0000-2400;1234567;ISL;Rikisutvarpid Ras 1+2;IS;ISL;gu;1;;
 198;0100-0600;1234567;G;BBC World Service;E;G;d;1;;
-198;0600-0100;1234567;G;BBC R4;E;G;d;1;;
+198;0600-0100;1234567;G;BBCBBBB R4;E;G;d;1;;
 198;0000-2400;1234567;ALG;R.Algerienne Chaine 1;A;ALG;o;1;;
 207;0000-2400;1234567;ISL;Rikisutvarpid Ras 1+2;IS;ISL;gu;1;;
 207;0000-2400;1234567;MRC;SNRT Al-Idaa al-Watania;A;MRC;ad;1;;
