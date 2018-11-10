@@ -8821,7 +8821,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11590;2300-2400;;IND;All India Radio GOS;HI;SEA;p;1;;
 11590;1300-1330;;USA;Adventist World Radio;KH;SEA;/GUM-a;0;;
 11590;1500-1600;SaSu;USA;Radio Free Asia;M;FE;/KWT;0;;
-11600;1300-1400;Sa;HOL;Mighty KBC;E;Eu;/BUL-s;6;;
+11600;1300-1400;Sa;HOL;Mighty KBC;E;Eu;/BUL-s;0;;
 11600;0000-1600;;CHN;CNR1 Jammer/Firedrake;M;CHN;;1;;[1018]
 11600;1000-1100;;TWN;Radio Taiwan Int.;IN;INS;p;5;;
 11600;1200-1300;;TWN;Radio Taiwan Int.;AM;SEA;p;5;;
