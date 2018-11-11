@@ -1,11 +1,13 @@
 - Add option for manual logging so errors and new freqs can be logged
 - Add better Medium Wave schedules, maybe list by country?
-WIP - Port to new platform
 - Add date check for online schedules update
-DONE - Add transmitter location to an offline map
-DONE - Add remote listen option based on station Target area
 - Add import option for ADIF
 - Add multi language/target options
+- Add bearing direction on map
+WIP - Port to new platform
+DONE - Update transmitter sites
+DONE - Add transmitter location to an offline map
+DONE - Add remote listen option based on station Target area
 DONE ADDED to v1.1.49 - Add corruption/CRC detect for schedules
 DONE ADDED to v1.1.48 Beta - Import/Export SWL Logs in ADIF format
 DONE ADDED to v1.1.48 Beta - Detect duplicates in Favs & Utility Filter
