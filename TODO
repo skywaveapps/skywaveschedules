@@ -4,10 +4,16 @@
 - Add import option for ADIF
 - Add multi language/target options
 - Add bearing direction on map
-WIP - Port to new platform
+
+DONE - Add better a list view showing times/language/target below Freq/Station
+DONE - Add option to disable listen mode
+DONE - Add 'Not know' to Language list
+DONE - Add Shortwave bands option
+DONE - Make Language multi view
+DONE - Port to new platform
 DONE - Update transmitter sites
 DONE - Add transmitter location to an offline map
-DONE - Add remote listen option based on station Target area
+DONE - Add remote listen option based on station Target area and allow random or selectable receivers
 DONE ADDED to v1.1.49 - Add corruption/CRC detect for schedules
 DONE ADDED to v1.1.48 Beta - Import/Export SWL Logs in ADIF format
 DONE ADDED to v1.1.48 Beta - Detect duplicates in Favs & Utility Filter
