@@ -2,14 +2,16 @@
 - Add better Medium Wave schedules, maybe list by country?
 - Add date check for online schedules update
 - Add import option for ADIF
-- Add multi language/target options
 - Add bearing direction on map
 
+
+DONE - Add multi language/target options
 DONE - Add better a list view showing times/language/target below Freq/Station
 DONE - Add option to disable listen mode
-DONE - Add 'Not know' to Language list
-DONE - Add Shortwave bands option
+DONE - Add 'Not known' to Language list
+DONE - Add 'Shortwave bands' band option
 DONE - Make Language multi view
+DONE - Add Listen option with inital randomly selected receiver based on the target area with option to select specific receiver/mode
 DONE - Port to new platform
 DONE - Update transmitter sites
 DONE - Add transmitter location to an offline map
