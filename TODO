@@ -2,9 +2,8 @@
 - Add better Medium Wave schedules, maybe list by country?
 - Add date check for online schedules update
 - Add import option for ADIF
-- Add bearing direction on map
 
-
+DONE - Add bearing direction on map
 DONE - Add multi language/target options
 DONE - Add better a list view showing times/language/target below Freq/Station
 DONE - Add option to disable listen mode
