@@ -1,3 +1,15 @@
+11/01/2019 - v2.0.8 Alpha UNRELEASED
+
+11/01/2019 - V2.0.7 Alpha
+- After entering Frequency in Search on API 28 cannot correctly select +-10kHz checkbox, suspect layout issue
+FIXED - Mode select label not showing for CW-W - Fix applied to v2.0.8 Alpha
+
+11/01/2019 - v2.0.6 Alpha
+FIXED - Language 'Friendly name' being doubled after schedules are updated- Fix applied to v2.0.7 Alpha
+
+10/01/2019 - v2.0.5 Alpha
+FIXED - Search does not complete on API 26 - Fix applied to v2.0.6 Alpha
+
 04-03-2018 - v1.1.49
 - South America typo in Target box, thank you Gonzalo Gutiérrez
 
