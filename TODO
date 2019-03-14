@@ -1,7 +1,6 @@
 - Add option for manual logging so errors and new freqs can be logged
 - Add better Medium Wave schedules, maybe list by country?
 - Add date check for online schedules update
-- Add import option for ADIF
 
 DONE - Add bearing direction on map
 DONE - Add multi language/target options
