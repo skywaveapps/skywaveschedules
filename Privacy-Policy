@@ -17,9 +17,8 @@ Log/Favourites Data
 No data is collected about you by the app. Future versions may store additional app data locally on your device, but no personal data will be accessed or stored by the app. 
 
 Cookies
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
-
-The app does not use these “cookies” directly. However, the app may use third party code and libraries that use “cookies” to collect information and to improve their services.
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices internal memory.
+The app does not use these “cookies” directly. However, the app may connect to some websites that may track you although the app itself will never do this or hold any tracking data or attempt to retrieve any personal data on your device. SDR receivers such as KiwiSDR or WebSDR generally only hold tuning information in cookies at the time of writing.
 
 Service Providers
 I may employ third-party companies (e.g. Google Play Services) and individuals for the following reasons:
@@ -33,7 +32,10 @@ Security
 Remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 Links to Other Sites
-This app does contain links to websites, to download schedule information from GitHub and KiwiSDR for listening to remote SDRs. If you do not agree to this then please do not use the app.
+The latest Alpha/Beta versions of the app (greater than v1.1.49) contains links to SDR receivers. Schedule information is downloaded from GitHub. KiwiSDR.com and Websdr.org are used for linking to remote SDRs. If you do not agree to this then please do not use the app.
+
+World Map
+The latest Beta/Alpha version of the app contains an offline fixed zoom map feature, this map does not connect to the internet and uses local files to generate a usable map feature to plot where station transmitter sites are situated around the globe. Map data is kindly provided by Openstreetmap and contributors which is copyrighted and must not be reproduced without complying with the their licence. 
 
 Children’s Privacy
 This app is suitable for ages 3+ and does not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
