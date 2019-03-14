@@ -1,3 +1,36 @@
+v2.0.14 Alpha
+- Added 'ON-AIR NEXT' time select option
+- Added 'Disable Confirmation Boxes' option
+- Added Frequency box validation check
+- Redesigned ON-AIR NOW, NEXT, ANYTIME and SPECIFIC time 
+- Fixed blank station on SDR region after a search when no station selected
+- Fixed time bug
+- Fixed bug in Utility Filter
+- Fixed bug in Language select
+- Fixed bug in Export Filename
+- Fixed bug in Multi Language
+- Fixed bug in Schedules update
+- Fixed bug in Manual Freq not showing actual tuned freq but showed WRMI instead
+- Fixed bug in Fav/Log filters
+- Fixed bug in date filter
+- Renamed 'No data' to 'No station data available' on Transmitter Location Map
+- Startup now shows titlebar to reduce any GUI errors
+- Added dbl tap on SDR Receivers list
+
+v2.0.13 Alpha
+- Fixed default label when selecting region without an SDR Target from the schedules
+- Fixed bugs in favs and Logbook
+- Close virtual keyboard on Freqbox and Stationbox
+- Widened Station, Fav and Log view detail column
+
+v2.0.12 Alpha:
+- Changed Not known target to Unknown
+- Fixed bug in switching from SPECIFIC time to ANYTIME returned no results
+- Fixed bug in station search after you switched from Utility back to Broadcast
+
+v2.0.11 Alpha:
+- Added better day detect to List and Favs
+
 v1.1.49 Beta - 21-02-2018
 - Fix for Android Jellybean
 - Fix for corrupt schedules
