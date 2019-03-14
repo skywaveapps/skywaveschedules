@@ -1,6 +1,6 @@
 Current known bugs from v2.0.14 Alpha:
 - 'Duplicates not found' when updating
-- Text size may become sporadic
+- Text size may alter on some comnponents
 
 v2.0.14 Alpha
 - Fixed blank station on SDR region after a search when no station selected
