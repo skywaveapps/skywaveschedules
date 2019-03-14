@@ -1,4 +1,42 @@
+Current known bugs from v2.0.14 Alpha:
+- 'Duplicates not found' when updating
+- Text size may become sporadic
+
+v2.0.14 Alpha
+- Fixed blank station on SDR region after a search when no station selected
+- Fixed time bug
+- Fixed bug in Utility Filter
+- Fixed bug in Language select
+- Fixed bug in Export Filename
+- Fixed bug in Multi Language
+- Fixed bug in Schedules update
+- Fixed bug in Manual Freq not showing actual tuned freq but showed WRMI instead
+- Fixed bug in Fav/Log filters
+- Fixed bug in date filter
+
+v2.0.13 Alpha
+- Fixed default label when selecting region without an SDR Target from the schedules
+- Fixed bugs in favs and Logbook
+
+v2.0.12 Alpha:
+- Fixed bug in switching from SPECIFIC time to ANYTIME returned no results
+- Fixed bug in station search after you switched from Utility back to Broadcast
+
+v2.0.11 Alpha Bugs:
+FIXED - Bug on SPECIFIC to ANYTIME
+FIXED - Bug in switching from Utility to BC when BC station still there, search ignores whats in teh box and search *
+FIXED - 4.4.4 Crash on Loc and Fav/Log error FIredac fav table does not exist
+
+v2.0.10 Alpha
+- Fixed date in About
+
+v2.0.9 Alpha
+- Fixed bug in specific time search
+
 11/01/2019 - v2.0.8 Alpha 
+FIXED - After updating receivers, list was not refreshing
+FIXED - 7285khz search 2130 manual time, searches forever under US language!!!!!!!!
+FIXED formatdatetime hh:mm- Manual search fails with US keyboard! ok with UK?
 
 11/01/2019 - v2.0.7 Alpha
 FIXED - Mode select label not showing for CW-W - Fix applied to v2.0.8 Alpha
