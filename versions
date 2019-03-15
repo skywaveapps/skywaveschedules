@@ -16,6 +16,8 @@ v2.0.14 Alpha
 - Renamed 'No data' to 'No station data available' on Transmitter Location Map
 - Startup now shows titlebar to reduce any GUI errors
 - Added dbl tap on SDR Receivers list
+- Added Uni. of Twente WebSDR to Western/Eastern Europe regions
+- Added icons to Tabs
 
 v2.0.13 Alpha
 - Fixed default label when selecting region without an SDR Target from the schedules
