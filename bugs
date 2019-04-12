@@ -1,5 +1,19 @@
 Current known bugs from v2.0.14 Alpha:
 - 'Duplicates not found' when updating
+v2.0.18 Alpha
+- Changed entry type from numberpad to default for Bearing/Power
+- Added country/area designation detect on 'Broadcast and Utility' list type
+- Added better confirmation boxes
+- Minor layout and textual changes
+
+v2.0.19 Alpha
+- Fixed Android 9 Download issue
+- Fixed date bug in log edit
+
+v2.0.20 Alpha
+- Fixed Mode bug
+- Fixed reset bug
+- Fixed bug in Location map
 
 v2.0.17 Alpha
 FIXED - Text size may alter on some comnponents
@@ -25,9 +39,9 @@ v2.0.12 Alpha:
 - Fixed bug in station search after you switched from Utility back to Broadcast
 
 v2.0.11 Alpha Bugs:
-FIXED - Bug on SPECIFIC to ANYTIME
-FIXED - Bug in switching from Utility to BC when BC station still there, search ignores whats in teh box and search *
-FIXED - 4.4.4 Crash on Loc and Fav/Log error FIredac fav table does not exist
+- Fixed Bug on SPECIFIC to ANYTIME
+- Fixed Bug in switching from Utility to BC when BC station still there, search ignores whats in teh box and search *
+- Fixed 4.4.4 Crash on Loc and Fav/Log error, fav table does not exist
 
 v2.0.10 Alpha
 - Fixed date in About
