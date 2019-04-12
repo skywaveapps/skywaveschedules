@@ -1,3 +1,44 @@
+v2.0.20 Alpha
+- Added Approx. Distance from Transmitter
+- Added AM Sync mode in listen mode for WebSDR receivers
+- Added more external browsers for listen mode
+- Optimised processing of receiver list for faster loading
+- Fixed Mode bug
+- Fixed reset bug
+- Fixed bug in Location map
+- Uni. of Twente WebSDR set as default for Western/Eastern Europe Regions
+- Minor layout and textual changes
+
+v2.0.19 Alpha
+- Fixed Android 9 Download issue
+- Fixed date bug in log edit
+
+v2.0.18 Alpha
+- Changed entry type from numberpad to default for Bearing/Power
+- Added country/area designation detect on 'Broadcast and Utility' list type
+- Added better confirmation boxes
+- Minor layout and textual changes
+
+v2.0.17 Alpha
+- Added 'Last Search Time' to showing in the subtitle every 5 mins on the search tab following a search
+- Added Logbook entry edit option 
+- Fixed bug in Schedules Update
+- Changed Logbook SINPO column to Date instead
+- Updated TX sites
+- Minor layout and textual changes
+
+v2.0.16 Alpha
+- Added additional search type (Broadcast and Utilities)
+- Fixed bug in Logbook export
+- Minor GUI and textual tweaks
+
+v2.0.15 Alpha
+- Changed index of tabs and code accordingly
+- Set Utilstationbox to 21/bold
+- Adjusted layouts of some components for uniform between utility/bc
+- Fixed issue with On-Air Next Timer resettting to 15mins instead of staying on 1hr
+- Fixed issue with Utility Filter CLose and Back buttons overlay stopping you closing teh Utility Filter
+
 v2.0.14 Alpha
 - Added 'ON-AIR NEXT' time select option
 - Added 'Disable Confirmation Boxes' option
