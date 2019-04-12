@@ -1,4 +1,4 @@
-kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35;Start:60;Stop:60
+﻿kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35;Start:60;Stop:60
 16.4;0000-2400;;NOR;JXN Marine Norway;;NEu;no;1;;
 18.2;0000-2400;;IND;VTX Indian Navy;;SAs;v;1;;
 18.3;0000-2400;;F;HWU French Navy;;WEu;wu;1;;
@@ -6668,7 +6668,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9400;1000-1030;;HKG;FEBC Radio Liangyou;HUI;FE;/PHL-i;1;;
 9400;1030-1400;;HKG;FEBC Radio Liangyou 1;M;FE;/PHL-i;1;;
 9400;1500-1600;Su;USA;From the Isle of Music;E;Eu;/BUL-s;1;;
-9400;1400-1430;Sa;USA;Shortwave Radiogram;E;Eu;/BUL-s;0;;
 9405;2230-0030;;HKG;FEBC Radio Liangyou 3;M;FE;/PHL-b;1;;
 9405;1600-1700;;TWN;Radio Taiwan Int.;E;SAs;p;1;;
 9410;1000-1705;;CHN;China National Radio 5;M;CHN;B;4;;
@@ -10257,7 +10256,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 13755;0900-1100;;USA;Voice of America;M;FE;/THA-u;0;;
 13755;1400-1500;135;USA;Voice of America;M;FE;/MRA-t;6;3103;104
 13755;1100-1600;Mo-Fr;USA;WINB DIGITAL;E;NAm;rl;2;;
-13755;1500-1530;Fr;USA;Shortwave Radiogram DRM;E;NAm;rl;0;;
 13760;1600-1700;;CHN;China Radio Int.;E;Eu;ka;0;;
 13760;1700-1800;;CHN;China Radio Int.;E;Eu;ka;0;;
 13760;1800-1900;;CHN;China Radio Int.;E;Eu;ka;0;;
@@ -10639,6 +10637,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15120;1630-1900;irr;NIG;Voice of Nigeria DIGITAL;E;Eu;;1;;[0319]
 15120;2130-2200;Mo-Fr;USA;Voice of America;BM;WAf;g;0;;
 15120;1100-1700;Mo-Fr;USA;WINB DIGITAL;E;Eu;rl;0;;
+15120;1500-1530;Fr;USA;Shortwave Radiogram DRM;E;NAm;rl;0;;
 15125;0000-0100;;CHN;China Radio Int.;E;SEA;b;0;;
 15125;0100-0200;;CHN;China Radio Int.;E;SEA;b;0;;
 15125;1600-1700;;CHN;China Radio Int.;A;EAf;/MLI;0;;
