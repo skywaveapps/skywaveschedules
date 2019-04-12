@@ -1,6 +1,25 @@
+- Filter out languages not in the schedules
+- Auto timer refresh, can be turned on/off, say 10/15/user-defined mins?
+- Search for receivers
+- Station Scheduler/Scheduled time notification
+- Option to add your own receiver i.e. not on the internet so you can tune via the schedules
+- Equipment list to add to Log entry! (Ralf Bender)
+- Location for log?
+- Colours?
+- Notification of upcoming station that is in Favs?
+- Receiver Favs?? remember that receivers should not show in list if they are not active!
+- My Schedules, allow end users to manual enter in new schedules that are not overwritten by an update i.e. seperate table
+- Add a permanent table for looking up kW power for stations?
 - Add better Medium Wave schedules, maybe list by country?
 - Add date check for online schedules update
-
+DONE - Add RX Location
+DONE - Manual Log entry
+DONE - Add Back button to station details
+DONE - Distance from transmitter (manual or GPS location?)
+DONE - Add Opera to Web browser select!
+DONE - Add WebSDR option for Twente under Western Europe
+DONE - Add 'Disable Confirmations'
+DONE - NOW/NEXT/ANYTIME/SPECIFIC change current checkbox time select!
 DONE - Add option for manual logging so frequency offsets/errors and new freqs can be logged
 DONE - Add bearing direction on map
 DONE - Add multi language/target options
