@@ -1,4 +1,3 @@
-- Filter out languages not in the schedules
 - Auto timer refresh, can be turned on/off, say 10/15/user-defined mins?
 - Search for receivers
 - Station Scheduler/Scheduled time notification
@@ -12,6 +11,7 @@
 - Add a permanent table for looking up kW power for stations?
 - Add better Medium Wave schedules, maybe list by country?
 - Add date check for online schedules update
+DONE - Filter out languages not in the schedules
 DONE - Add RX Location
 DONE - Manual Log entry
 DONE - Add Back button to station details
