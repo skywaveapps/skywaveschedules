@@ -2453,7 +2453,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3966;0400-0600;;KRE;Echo of Unification;K;KOR;c;1;;[0817]
 3966;1200-1400;;KRE;Echo of Unification;K;KOR;c;1;;
 3966;2200-2400;;KRE;Echo of Unification;K;KOR;c;1;;
-3975;1600-2200;;D;Shortwave Radio;E;WEu;wa;2;;
+3975;0700-1800;;D;Shortwave Radio;E;WEu;wa;2;;
+3975;1800-2200;;D;Shortwave Radio;E;WEu;wa;2;;
 3976;2000-1800;;KRE;KCBS Pyongyang;K;KRE;k;1;;
 3985;1500-1530;;ALB;Radio Tirana;F;CEu;/D-k;2;;
 3985;1930-2000;Mo-Sa;ALB;Radio Tirana;D;CEu;/D-k;2;;
@@ -4282,7 +4283,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6155;0900-1000;;KOR;KBS World Radio;J;FE;k;4;;
 6155;0430-0500;;USA;Adventist World Radio;F;NAf;/D-n;0;;
 6160;1000-2300;;B;R.Boa Vontade, P.Alegre;P;B;E;3;;[1218]
-6160;1600-2200;;D;Shortwave Radio;E;WEu;wa;2;;
+6160;0700-1800;;D;Shortwave Radio;E;WEu;wa;2;;
 6165;0900-1100;;CHN;China National Radio 6;HK;CHN;B;1;;
 6165;1100-1605;;CHN;China National Radio 6;M;CHN;B;1;;
 6165;2155-0100;;CHN;China National Radio 6;AM;CHN;B;1;;
@@ -6570,6 +6571,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9265;2300-2400;;USA;WINB;E;NAm;rl;5;;
 9265;1300-1330;Sa;USA;World of Radio;E;NAm;/USA-rl;3;;
 9265;0230-0300;Sa;USA;Shortwave Radiogram;E;NAm;rl;0;;
+9265;2330-2400;Th;USA;Shortwave Radiogram;E;NAm;rl;0;;
 9275;1000-1600;;HKG;FEBC i-Radio Liangyou;M;FE;/PHL-b;1;;
 9280;2200-1700;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;[0419]
 9280;1430-1730;;IRN;IRIB Voice of I.R.Iran;A;NAf;z;0;;
@@ -6683,7 +6685,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9390;0100-0200;;USA;Radio Free Asia;TB;FE;/TJK;0;;
 9395;0130-0200;Tu-Su;ALB;Radio Tirana;E;ENA;/USA-o;2;;[0419]
 9395;0100-0130;Tu-Sa;ARG;R.Argentina al Exterior;E;ENA;/USA-o;2;;
-9395;0130-0230;Th;USA;This is a Music Show;E;NAm;o;0;;
 9395;0200-0230;;CZE;Radio Prague;E;ENA;/USA-o;1;;
 9395;0230-0300;;SVK;Radio Slovakia Int.;E;ENA;/USA-o;1;;
 9395;1000-2000;;USA;Brother Stair;E;ENA;o;2;;
@@ -7889,7 +7890,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9920;2200-2300;Sa;USA;Radio Free Asia;TB;FE;/KWT;0;;
 9920;1600-1700;;USA;Radio Liberty;UZ;CAs;/THA-u;0;;
 9925;0820-0830;Fr;RUS;S06 Russian Spy Numbers;R;RUS;xx;1;103;3004[0317]
-9925;0000-0200;Su;HOL;Mighty KBC;E;NAm;/D-n;1;;
 9930;0800-0900;Mo-Fr;USA;World Harvest Radio 3;E;FE;/PLW;0;;
 9930;0800-0900;Sa;USA;World Harvest Radio 3;J;FE;/PLW;0;;
 9930;0900-1100;;USA;World Harvest Radio 3;E;FE;/PLW;0;;
@@ -11313,7 +11313,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15770;1300-1400;Th;USA;V.o.Report of the Week;E;ENA;o;1;;
 15770;1330-1400;135;USA;WRMI Radio Miami Int.;E;ENA;o;1;;
 15770;1400-2000;;USA;WRMI Radio Miami Int.;E;ENA;o;1;;
-15770;1300-1300;Fr;USA;Shortwave Radiogram;E;NAm;o;;;
+15770;1300-1330;Fr;USA;Shortwave Radiogram;E;NAm;o;;;
 15775;2130-1600;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;[0219]
 15775;1000-1300;;TWN;Sound of Hope;M;FE;;1;;[0419]
 15775;1300-1400;;TWN;Sound of Hope;M;FE;;1;;
