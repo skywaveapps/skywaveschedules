@@ -1,5 +1,6 @@
-12-04-2019
-- Filter out languages not in the schedules
+09-06-2019
+COMPLETE - Filter out languages not in the schedules
+COMPLETE - Add schedules update check
 - Auto timer refresh, can be turned on/off, say 10/15/user-defined mins?
 - Search for receivers
 - Station Scheduler/Scheduled time notification 
