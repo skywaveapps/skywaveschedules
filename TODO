@@ -10,7 +10,7 @@
 - My Schedules, allow end users to manual enter in new schedules that are not overwritten by an update i.e. seperate table
 - Add a permanent table for looking up kW power for stations?
 - Add better Medium Wave schedules, maybe list by country?
-- Add date check for online schedules update
+DONE - Add check for online schedules update
 DONE - Filter out languages not in the schedules
 DONE - Add RX Location
 DONE - Manual Log entry
