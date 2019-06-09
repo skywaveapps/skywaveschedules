@@ -1,5 +1,5 @@
 # Skywave Radio Schedules
-- CSV of EiBi Frequency List for Skywave Radio Schedules App (edata.csv)
+- CSV of EiBi Frequency List for Skywave Schedules App
 - TODO list
 - Feature requests
 - Bugs Reported
