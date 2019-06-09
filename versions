@@ -1,3 +1,59 @@
+v2.0.28 Alpha
+- Added Schedules version check prior to download and after app starts, saves downloading schedules if you already have the latest schedules
+- Changed update location for schedules
+- New download mechanism
+- Fixed bug in search
+- GUI tweaks
+- Textual changes
+
+v2.0.27 Alpha
+- Fixed layout issues on smaller and larger screens
+- Removed Long Tap from Receiver List due to framework bug
+
+v2.0.26 Alpha
+- Fixed Transmitter entries 
+- Fixed bug in search
+- Fixed bug in Mode select
+
+v2.0.25 Alpha
+- Tweaked SDR Receiver List layout
+- Set default Station/Target for Listen mode
+- Fixed bug in Listen mode where if you stopped listening and selected a station in the schedules it would allocate that frequency to the receiver
+- Fixed bug in Location
+- Fixed bug in Target Area select in Listen Mode
+- Transmitter lookup code now has much faster lookups
+- Added Long Tap to play a receiver in addition to double tap
+
+v2.0.24 Alpha
+- Fixed RX Location bug
+- Fixed Map bug
+- Fixed minor bug in Receiver list
+- Station, Language and Target only shows those on the schedule resulting in a shorter list
+- Better layout of Target Areas and Languages
+- Fixed bug in List Type
+- Fixed bugs in Transmitter lookup
+- Made better detection of corrupt schedules
+- Changed Listen mode to show selected station when receiver is stopped
+- Amended Advanced Settings
+- Better About box
+
+v2.0.23 Alpha
+- Fixed locale bug
+- Added better Receiver location view including receiver Antenna info
+- Reduced AM Wide bandwidth from 10kHz to 9kHz
+- Added boundaries to map to stop inifite dragging
+
+v2.0.22 Alpha
+- Fixed reset bug
+- Fixed Mode bug
+
+v2.0.21 Alpha
+- Fixed caching issue with KiwiSDR receivers
+- Made mode sticky once selected from schedules
+- Fixed locale bug
+- Fixed RX Location bug
+- Add back button to fav/logbook
+
 v2.0.20 Alpha
 - Added Approx. Distance from Transmitter
 - Added AM Sync mode in listen mode for WebSDR receivers
