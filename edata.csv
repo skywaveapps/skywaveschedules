@@ -2463,10 +2463,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3966;0400-0600;;KRE;Echo of Unification;K;KOR;c;1;;[0817]
 3966;1200-1400;;KRE;Echo of Unification;K;KOR;c;1;;
 3966;2200-2400;;KRE;Echo of Unification;K;KOR;c;1;;
-3975;0700-1800;;D;Shortwave Radio;E;WEu;wa;6;3103;3004
-3975;1600-2200;;D;Shortwave Radio;E;WEu;wa;2;105;
-3975;1800-2200;;D;Shortwave Radio;E;WEu;wa;6;3103;3004
-3975;2200-2300;;D;Shortwave Radio;E;WEu;wa;2;105;
 3975;1600-2300;;D;Shortwave Radio;E;WEu;wa;2;105;
 3976;2000-1800;;KRE;KCBS Pyongyang;K;KRE;k;1;;
 3985;1500-1530;;ALB;Radio Tirana;F;CEu;/D-k;2;;
@@ -4369,7 +4365,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6160;1000-2300;;B;R.Boa Vontade, P.Alegre;P;B;E;3;;[1218]
 6160;0700-1800;;D;Shortwave Radio;E;WEu;wa;6;3103;3004
 6160;1600-2200;;D;Shortwave Radio;E;WEu;wa;2;105;
-6160;1600-2300;;D;Shortwave Radio;E;WEu;wa;2;105;
 6165;0900-1100;;CHN;China National Radio 6;HK;CHN;B;1;;
 6165;1100-1605;;CHN;China National Radio 6;M;CHN;B;1;;
 6165;2155-0100;;CHN;China National Radio 6;AM;CHN;B;1;;
