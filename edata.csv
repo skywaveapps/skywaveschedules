@@ -129,7 +129,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 567;0000-2400;1234567;E;RNE Radio 5;S;E;;1;;
 567;0000-2400;1234567;I;Challenger Radio;I;I;;1;;
 567;0000-2400;1234567;ROU;Radio România Actualit??i ;RO;ROU;;1;;
-573;0025-1745;1234567;IND;AIR Alleppey;MAL;IND;;1;;
+576;0025-1745;1234567;IND;AIR Alleppey;MAL;IND;;1;;
 576;0000-2400;;BUL;BNR Horizont;BU;BUL;vi;1;;
 576;0500-0600;Mo-Fr;BUL;Bulgarian National R.;TU;BUL;sl;2;;
 576;1200-1300;;BUL;Bulgarian National R.;TU;BUL;sl;2;;
@@ -288,7 +288,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 684;2355-0300;;IND;AIR Port Blair;HI;SAs;pb;1;;
 684;0000-2400;1234567;RUS;Radio Radonezh;R;RUS;;1;;
 684;0000-2400;1234567;E;RNE Radio Nacional;S;E;;1;;
-687;0025-1745;1234567;IND;AIR Kozhikode;MAL;IND;;1;;
+684;0025-1745;1234567;IND;AIR Kozhikode;MAL;IND;;1;;
 690;0000-2400;irr;B;Radio Clube do Para;P;B;be;1;;
 693;1930-2000;;ALG;Radio Algiers Int.;S;NAf;r;1;;
 693;2000-2030;;ALG;Radio Algiers Int.;A;NAf;r;1;;
