@@ -1,5 +1,4 @@
 - Auto timer refresh, can be turned on/off, say 10/15/user-defined mins?
-- Search for receivers
 - Station Scheduler/Scheduled time notification
 - Option to add your own receiver i.e. not on the internet so you can tune via the schedules
 - Equipment list to add to Log entry! (Ralf Bender)
@@ -10,6 +9,11 @@
 - My Schedules, allow end users to manual enter in new schedules that are not overwritten by an update i.e. seperate table
 - Add a permanent table for looking up kW power for stations?
 - Add better Medium Wave schedules, maybe list by country?
+DONE - Make better languages/target selection
+DONE - Export logbook in CSV
+DONE - Add some translations (Spanish + Russian)
+DONE - DRM support for KiwiSDR
+DONE - Search for receivers
 DONE - Add check for online schedules update
 DONE - Filter out languages not in the schedules
 DONE - Add RX Location
