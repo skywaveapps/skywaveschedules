@@ -1,3 +1,19 @@
+09-06-2019
+DONE - Filter out languages not in the schedules
+DONE - Add schedules update check
+- Auto timer refresh, can be turned on/off, say 10/15/user-defined mins?
+- Search for receivers
+- Station Scheduler/Scheduled time notification 
+- Option to add your own receiver i.e. not on the internet so you can tune via the schedules
+- Equipment list to add to Log entry
+- Location for log
+
+14-03-2019
+- Notification of upcoming station that is in Favs?
+- Receiver Favs, remember that receivers should not show in the list if they are not active!
+- My Schedules, allow end users to manual enter in new schedules that are not overwritten by an update
+- More stations for Medium Wave!!!! by country? maybe too many stations for the app?
+- Add import option for ADIF
 - Auto timer refresh, can be turned on/off, say 10/15/user-defined mins?
 - Station Scheduler/Scheduled time notification
 - Option to add your own receiver i.e. not on the internet so you can tune via the schedules
