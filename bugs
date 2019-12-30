@@ -1,9 +1,50 @@
+v2.1.6 BETA
+- Fixed minor bug in station lookup
+- Fixed bug in BandUpdateTitles
+- Fixed bug in Target/Lang reset
+- Fixed Last Heard bug
+- Fixed AMSync bug on KiwiSDR
+- Fixed exit bug on some tabs
+
+v2.1.5
+- Removed Fixed x86 to get it work on some tablets
+
+v2.1.4
+- Fixed Android 5/6 bug - caused by x86
+- Fixed Slovenia was not unticked after Europe as no code was present
+
+v2.1.3
+- Bug fixed in On-Air Next time
+- Fixed 'India 'in region auto-select
+
+v2.1.1 Beta
+- Fixed bug in Log export
+- Fixed bug in PlaySDR
+
+v2.1.0 Beta
+- Fixed bug in PlaySDR
+- Fixed ShowSDR bug for Android 4 not unchecking
+
+v2.0.32 Alpha
+- Fixed some initialised DB entries TXEXT LISTEN etc.
+- Fixed bug in PlaySDR
+
+v2.0.31 Alpha
+- Fixed AMSync staying on when switching from websdr to Kiwisdr now sets to AM-W
+- Fixed station lookup bug after schedules update
+- Fixed some region bugs
+
+v2.0.30 Alpha
+- Fixed bugs in receiver play
+
+v2.0.29 Alpha
+- Fixed locale bug in search
+
 v2.0.28 Alpha
 - Fixed bug in search
 
 v2.0.27 Alpha
 - Fixed layout issues on smaller and larger screens
-- Removed Long Tap from Receiver List due to framework bug
 
 v2.0.26 Alpha
 - Fixed Transmitter entries 
