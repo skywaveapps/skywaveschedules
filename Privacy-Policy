@@ -37,7 +37,7 @@ SDR Receivers and links to other sites
 The latest Alpha/Beta versions of the app (greater than v1.1.49) contains links to SDR receivers. Schedule information is downloaded from GitHub. KiwiSDR.com and Websdr.org are used for linking to remote SDRs. If you do not agree to this then please do not use the app.
 
 World Map
-The latest Beta/Alpha version of the app contains an offline fixed zoom map feature, this map does not connect to the internet and uses local files to generate a usable map feature to plot where station transmitter sites are situated around the globe. Map data is kindly provided by Openstreetmap and contributors which is copyrighted and must not be reproduced without complying with the their licence. 
+The latest Beta/Alpha version of the app contains an offline fixed zoom map feature, this map does not connect to the internet and uses local files to generate a usable map feature to plot where station transmitter sites are situated around the globe. Map data is kindly provided by Openstreetmap and contributors which is copyrighted and must not be reproduced without complying with their licence. 
 
 Children’s Privacy
 This app is suitable for ages 3+ and does not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
