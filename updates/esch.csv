@@ -8959,6 +8959,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1602;0000-2400;1234567;ROU;Radio Vocea Speranței;RO;ROU;Piatra Neamț;1;;
 1602;0300-2000;1234567;SDN;SRTC Idhaat Welayat Janobi Kurdufan;A;SDN;Kaduqli/Kadugli;1;;
 1602;0000-2400;1234567;SRB;RTS Radio Beograd 1;SR;SRB;Sjenica;1;;
+1602;0600-0630;1.Sa;G;Radio Emma Toc;E;Eu;/FIN-v;2;2906;0407
 1610;0000-2400;1234567;CAN;CHHA Voces Latinas;S;CAN;Toronto, ON;1;;
 1610;0000-2400;1234567;CAN;CHRN Radio Humsafar;;CAN;Montréal, QC;1;;
 1611;0420-1300;;NOR;Radio Northern Star;NO;NEu;be;8;;
@@ -9892,7 +9893,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3210;1200-1230;Su-Mo;AUS;Unique Radio;E;AUS;g;1;;
 3210;1600-1800;Su;AUS;Unique Radio;E;AUS;g;1;;
 3210;0900-0930;Fr-Mo;USA;World of Radio;E;AUS;/AUS-g;1;;
-3210;2200-2230;6;G;Radio Emma Toc;E;Aus;/AUS-g;6;;
 3210;0730-0800;6;G;Radio Emma Toc;E;Aus;/AUS-g;6;;
 3210;0730-0800;7;G;Radio Emma Toc;E;Aus;/AUS-g;6;;
 3215;0100-0200;Mo;USA;Brother Stair;E;NAm;n;2;;
@@ -10933,7 +10933,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5045;1200-1230;Su-Mo;AUS;Unique Radio;E;AUS;g;1;;
 5045;1600-1800;Su;AUS;Unique Radio;E;AUS;g;1;;
 5045;0900-0930;Fr-Mo;USA;World of Radio;E;AUS;/AUS-g;1;;
-5045;2200-2230;6;G;Radio Emma Toc;E;Aus;/AUS-g;6;;
 5045;0730-0800;6;G;Radio Emma Toc;E;Aus;/AUS-g;6;;
 5045;0730-0800;7;G;Radio Emma Toc;E;Aus;/AUS-g;6;;
 5050;0100-0102;;CHN;Beibu Bay Radio;VN;FE;n;1;;
@@ -11716,7 +11715,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6065;1620-1720;;IRN;IRIB Voice of I.R.Iran;PS;SAs;z;0;;
 6065;0300-0400;;USA;Adventist World Radio;MSY;EAf;/MDG;0;;
 6070;1400-1500;1.Su;D;SM Radio Dessau;D;Eu;/AUT;6;0505;0607
-6070;2000-2030;5;G;Radio Emma Toc;E;Eu;r;6;1506;1906
+6070;2000-2030;3;G;Radio Emma Toc;E;Eu;/D-r;6;0607;0807
+6070;2000-2030;3;G;Radio Emma Toc;E;Eu;/D-r;6;2007;2207
 6070;0000-2400;;CAN;CFRX Toronto, CFRB 1010;E;NAm;t;1;;[0620]
 6070;0000-2400;;D;Channel 292;D,E;Eu;r;1;;
 6070;0900-1000;Su;D;Radio DARC;D;Eu;/AUT;2;;
@@ -12048,6 +12048,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6170;2000-2030;;ROU;Radio Romania Int.;F;SEu;g;0;;
 6170;2030-2100;;ROU;Radio Romania Int.;E;WEu;g;0;;
 6170;1900-2000;;USA;Voice of America;KU;ME;/D-b;0;;
+6170;0600-0630;1.Sa;G;Radio Emma Toc;E;Eu;/FIN-v;2;2906;0407
 6173.9;1040-0300;;PRU;Radio Tawantinsuyo;S,Q;PRU;cu;8;;[0418]
 6175;0900-1805;;CHN;China National Radio 1;M;CHN;b;1;;
 6175;2023-2400;;CHN;China National Radio 1;M;CHN;b;1;;
@@ -14519,7 +14520,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9455;0100-0200;Mo-Sa;USA;WRMI Radio Miami Int.;E;ENA;o;2;;
 9455;0200-0300;Mo,Th;USA;WRMI Radio Miami Int.;E;ENA;o;2;;
 9455;2000-2200;Mo-Fr;USA;WRMI Radio Miami Int.;E;ENA;o;1;;
-9455;0100-0130;1;G;Radio Emma Toc;E;NAm;/USA-o;6;;
+9455;0100-0130;1;G;Radio Emma Toc;E;ENA;/USA-o;6;;
 9459;0015-0030;;NZL;ZKLF Wellington Met Fax;;Oc;a;1;;
 9459;0115-0130;;NZL;ZKLF Wellington Met Fax;;Oc;a;1;;
 9459;0215-0230;;NZL;ZKLF Wellington Met Fax;;Oc;a;1;;
@@ -15704,7 +15705,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9955;2300-2345;Sa;USA;WRMI Radio Miami Int.;E;LAm;o;5;;
 9955;2330-2400;Su;USA;WRMI Radio Miami Int.;E;LAm;o;5;;
 9955;2345-2400;Sa;USA;WRMI Radio Miami Int.;I;LAm;o;5;;
-9955;0000-0030;3;G;Radio Emma Toc;E;NAm;/USA-o;6;;
+9955;0000-0030;4;G;Radio Emma Toc;E;LAm;/USA-o;6;;
 9960;1730-1930;;PHL;Radyo Pilipinas;TAG;ME;t;6;0105;2510
 9960;0830-1130;;IND;All India Radio GOS;UR;SAs;d;1;0805;
 9963;0715-0725;Tu,Fr;POL;E11 Polish Spy Numbers;E;;p;1;0109;3110[1019]
@@ -16377,6 +16378,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11690;0000-0800;25Dec;FIN;Scandinavian Weekend R.;FI;Eu;v;4;;
 11690;1400-1700;25Dec;FIN;Scandinavian Weekend R.;FI;Eu;v;4;;
 11690;1900-2200;25Dec;FIN;Scandinavian Weekend R.;FI;Eu;v;4;;
+11690;0600-0630;1.Sa;G;Radio Emma Toc;E;Eu;/FIN-v;2;2906;0407
 11695;1800-2000;;CHN;China Radio Int.;F;NAf;ka;0;;
 11695;0055-0900;;CHN;CNR1 DIGITAL;M;FE;d;1;;[0119]
 11695;1100-1130;;J;NHK Radio Japan;E;SEA;/SNG;0;;
