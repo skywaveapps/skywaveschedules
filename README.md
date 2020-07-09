@@ -5,3 +5,4 @@
 - Bugs Reported
 - Versions
 - Dev Version Progress
+- Non-commerical use only
