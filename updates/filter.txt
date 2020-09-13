@@ -374,6 +374,7 @@ minvody aero uzbezische
 mkg forestmoor stanag
 mogadishu radio
 molokai hfdl (id2)
+moloka'i hfdl (id2)
 mong cai radio xvm
 moscow aero
 mosdok aero assistent
@@ -381,6 +382,7 @@ mrcc papeete
 msf time from npl
 mumbai radio
 mumbai volmet x25,x55
+ndjamena radio
 n'djamena radio
 naa us navy cutler
 nadi radio
@@ -394,7 +396,7 @@ nato lisboa stanag
 nau isabela rtty
 nau us navy stanag
 nbc port moresby
-ndjamena radio
+n'djamena radio
 netherlands coastgd wx
 new york radio
 new york radio a
