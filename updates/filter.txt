@@ -11,6 +11,7 @@
 7ta alger radio
 7to oran radio
 9kk kuwait radio
+9mb malaysia navy lumut
 9vf kyodo news agcy fax
 9vf209 meteo fax
 9yl north post radio
@@ -119,6 +120,7 @@ cross la garde radio wx
 cross martinique wx
 crossru la reunion
 crossru la réunion
+cruiseemail
 cta nato stanag
 cuban babbler numbers
 cuban spy numbers
@@ -188,6 +190,7 @@ gander radio c
 gander radio f
 gander volmet x20,x50
 gladstone radio
+goose channel marker
 gqd anthorn
 guangzhou volmet x00,30
 gya northwood meteo fax
@@ -587,6 +590,7 @@ sydney radio
 syktyvkar aero
 syktyvkar volmet x00,30
 t channel marker
+t channel marker 1050hz
 tah turk radio istanbul
 tahiti radio
 tallinn radio
