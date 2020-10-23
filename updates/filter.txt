@@ -250,6 +250,8 @@ jfe itoman marine r.
 jfe itoman marine radio
 jfe shizuokaken fishery
 jfg shizuokaken fishery
+jfm muroto fishery
+jfq makurazaki fishery
 jfx kagoshima fishery
 jg2xa propag.studies
 jjc kyodo news agcy fax
@@ -547,6 +549,7 @@ santa maria radio h
 saratov aero
 search and rescue coord
 seoul radio
+seoul muan hfdl (id10)
 seychelles marine wx
 seychelles radio
 shandong maritime meteo
