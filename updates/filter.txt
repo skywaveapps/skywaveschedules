@@ -435,6 +435,7 @@ novosib. aero katyusha
 novosibir volmet x10,40
 novosibirsk aero
 npg us navy stanag
+npn stanag
 npm us navy
 nrv navtex guam
 nrv uscg guam
