@@ -589,6 +589,7 @@ stornoway coastguard wx
 stpeterbg volmet x05,35
 svj4 athens meteo fax
 svo olimpia radio
+swa18 athens meteo fax
 swedish navy msk 200/79
 sxv ny spata att.stanag
 sydney radio
