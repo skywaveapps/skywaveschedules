@@ -324,6 +324,7 @@ johannesburg hfdl (id8)
 jwt norwaymil stanag
 jxn marine norway
 jxu ny bodo stanag
+kaliningrad radio uiw32
 kanmon martis x00,x30
 kanmon martis x15,x45
 karachi volmet x15,x45
@@ -388,6 +389,7 @@ mrcc papeete
 msf time from npl
 mumbai radio
 mumbai volmet x25,x55
+murmansk r. udk (mtk-2)
 ndjamena radio
 n'djamena radio
 naa us navy cutler
