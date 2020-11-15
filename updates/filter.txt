@@ -324,7 +324,7 @@ johannesburg hfdl (id8)
 jwt norwaymil stanag
 jxn marine norway
 jxu ny bodo stanag
-kaliningrad radio uiw32
+kaliningrad radio uiw23
 kanmon martis x00,x30
 kanmon martis x15,x45
 karachi volmet x15,x45
