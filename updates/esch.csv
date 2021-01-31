@@ -17732,7 +17732,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6070;0840-0900;;KRE;Voice of Korea;J;J;k;6;1712;1712
 6070;0900-1300;;KRE;Voice of Korea;J;J;k;1;;
 6070;1600-1700;;TUR;Voice of Turkey;FS;IRN;e;0;;
-6070;0900-1000;1;G;Radio Emma Toc;E;Eu;/D-r;6;3101;0102
+6070;0800-0900;1;G;Radio Emma Toc;E;Eu;/D-r;6;3101;0102
 6075;0800-0900;;ALS;KNLS New Life Station;E;FE;ap;0;;
 6075;1400-1700;;CHN;China National Radio 1;M;FE;b;1;;
 6075;2200-2400;;CHN;China National Radio 1;M;FE;x;1;;[1120]
@@ -21457,7 +21457,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9670;0100-0200;;USA;Radio Free Asia;TB;FE;/TJK;0;;
 9670;0000-0100;;USA;Voice of America;TB;FE;/THA-u;0;;
 9670;1230-1300;;VTN;Noise jammer;;SEA;;1;;[1220]
-9670;0900-1000;1;G;Radio Emma Toc;E;Eu;/D-r;6;3101;0102
+9670;1200-1300;1;G;Radio Emma Toc;E;Eu;/D-r;6;3101;0102
 9675;1800-2100;;ARS;SBA Saudi Radio Int.;TU;ME;;1;;[1220]
 9675;0600-0850;We-Mo;CHN;China National Radio 1;M;CHN;b;1;;
 9675;0850-1000;;CHN;China National Radio 1;M;CHN;b;1;;
