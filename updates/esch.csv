@@ -14689,7 +14689,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1602;2100-1540;1234567;J;NHK Radio 2;J;FE;Urakawa;1;;
 1602;2100-1540;1234567;J;NHK Radio 2;J;FE;Enbetsu;1;;
 1602;0845-1415;1234567;PAK;PBC Radio Pakistan North;GJ,HD;SAS;Abbottabad;1;;
-1602;0800-0900;6;FIN;Radio Emma Toc;E;Eu;v;6;0102;0602
+1602;0800-0900;6;G;Radio Emma Toc;E;Eu;v;6;0102;0602
 1610;0000-2400;1234567;CAN;CHHA Voces Latinas;S;CAN;Toronto, ON;1;;
 1610;0000-2400;1234567;CAN;CHRN Radio Humsafar;;CAN;Montréal, QC;1;;
 1610;0000-2400;1234567;PRU;Radio Carabamba;S;PRU;Julcan-a;1;;
@@ -18119,7 +18119,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6170;0230-0300;Fr;PHL;FEBC Manila;UR;SAs;/UAE;0;;
 6170;2130-2200;;ROU;Radio Romania Int.;E;ENA;t;0;;
 6170;0500-0530;;USA;Voice of America;HA;WAf;/ASC;0;;
-6170;0800-0900;6;FIN;Radio Emma Toc;E;Eu;v;6;0102;0602
+6170;0800-0900;6;G;Radio Emma Toc;E;Eu;v;6;0102;0602
 6173.9;1040-0300;;PRU;Radio Tawantinsuyo;S,Q;PRU;cu;1;0401;[0121]
 6175;0900-1805;;CHN;China National Radio 1;M;CHN;b;1;;[0820]
 6175;2023-2400;;CHN;China National Radio 1;M;CHN;b;1;;[0620]
@@ -22885,7 +22885,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11690;1852-1859;Mo-Fr;NZL;RNZI DIGITAL;NIU;SOc;r;0;;
 11690;1000-1100;;USA;Adventist World Radio;M;FE;/GUM-a;0;;
 11690;1100-1200;;USA;Adventist World Radio;M;FE;/GUM-a;0;;
-11690;0800-0900;6;FIN;Radio Emma Toc;E;Eu;v;6;0102;0602
+11690;0800-0900;6;G;Radio Emma Toc;E;Eu;v;6;0102;0602
 11695;0055-0900;;CHN;CNR1 DIGITAL;M;FE;d;1;;[1220]
 11695;0800-0900;;TWN;Radio Taiwan Int.;J;J;p;6;2510;0212
 11695;1330-1630;;USA;Radio Farda;FS;IRN;/D-L;0;;
