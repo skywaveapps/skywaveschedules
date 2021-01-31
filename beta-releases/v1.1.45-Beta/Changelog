@@ -1,7 +1,0 @@
-v1.1.45 Beta
-- Added 'AOKI Data Lookup' for Power/Bearing (Menu option to enable/disable)
-- Better visiblity of Target and Language boxes
-- Swapped Freq/Station in Long Tap options box
-- Consolidated transmitter names between EiBi and AOKI schedules
-- Fixed bug in Long Tap 
-- Updated internal EiBi schedules
