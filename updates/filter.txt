@@ -23,12 +23,14 @@ adelaide radio
 agadir radio
 agana guam hfdl (id16)
 air-horn channel marker
+air horn channel marker
 aktyubinskaero ambarcik
 al muharraq hfdl (id15)
 al muharraq hfdl (id2)
+alarm channel marker
 albanian government ale
 albrook hfdl (id11)
-algeria gendamerie ale
+algeria gendarmerie ale
 algerian military ale
 algiers radio
 almaty aero
@@ -63,6 +65,7 @@ bangkok volmet x10,x40
 barrow hfdl (id9)
 bdf2 shanghai fax
 beijing volmet x15,x45
+belgian navy stanag
 belfast coast guard
 ben thuy radio
 bilbao radio
@@ -124,6 +127,7 @@ chile navy ale
 chinese military ale
 chinese navy ale
 chu ottawa
+ckn aldergrove stanag
 clt habana radio
 cocesna cenamer control
 codar sweeper
@@ -222,6 +226,7 @@ fuj nouméa stanag
 fum french navy stanag
 fum tahiti stanag
 fuo french navy usb/fsk
+fuo french navy stanag
 fuo toulon stanag
 fuv djibouti stanag
 fuv french navy stanag
@@ -238,7 +243,9 @@ gander radio c
 gander radio f
 gander volmet x20,x50
 gaurdia civil ale
+guardia civil ale
 gendameria chile ale
+gendarmeria chile ale
 georgia borderguard ale
 georgia coast guard ale
 german coast guard ale
@@ -299,7 +306,7 @@ idr ny roma stanag
 illinois emergency ale
 internal ministry ale
 iraqi navy ale
-iraqi security fcs. Ale
+iraqi security fcs.Ale
 irit weather radio
 irkutsk volmet x25,x55
 isewan martis x00,x30
@@ -420,7 +427,7 @@ kurushimamartis x00,x30
 kurushimamartis x15,x45
 kvm70 fax honolulu
 kwl38 nws kodiak
-kyrgyz miltary ale
+kyrgyz military ale
 l2c buenos aires radio
 l2t mar del plata radio
 l2w comodoro rivadavia
@@ -673,7 +680,7 @@ singaporevolmet x20,x50
 singpore volmet x20,x50
 singporevolmet x20,x50
 slovak military ale
-slovian military ale
+slovenian military ale
 sochi aero shtat
 spanish navy fsk
 ssca doodah transatlnet
@@ -722,6 +729,7 @@ trenton military
 trenton volmet
 tripoli radio
 tunisian military ale
+tunisian police ale
 turk.afad emergency ale
 turkmenbashi aero
 tyumen aero
@@ -731,7 +739,7 @@ uk dhfcs stanag
 uk mil.dhfcs stanag
 uk mod dhfcs
 uk mod dhfcs stanag
-ukranian military ale
+ukrainian military ale
 ural aero
 us air force ale
 us air force mars net
