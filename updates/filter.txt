@@ -665,6 +665,7 @@ shanwick radio b
 shanwick radio c
 shanwick radio f
 shares emergency net
+shares emergeny net
 shetland coastguard wx
 singapore radio
 singapore volmet x20,x50
