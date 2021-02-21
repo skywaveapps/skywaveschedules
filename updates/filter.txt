@@ -8,6 +8,7 @@
 4ob bar radio
 4xz israeli navy haifa
 6ww dakar stanag
+6ww french navy stanag
 7ta alger radio
 7to oran radio
 9kk kuwait radio
@@ -23,19 +24,27 @@ agadir radio
 agana guam hfdl (id16)
 air-horn channel marker
 aktyubinskaero ambarcik
-al muharraq hfdl (id2)
 al muharraq hfdl (id15)
+al muharraq hfdl (id2)
+albanian government ale
 albrook hfdl (id11)
+algeria gendamerie ale
+algerian military ale
 algiers radio
 almaty aero
 als162 time signals
+amazon military ale
 amderma aero
+american red cross ale
+angolan police ale
 annaba radio
 antanan.volmet x25,x50
 aqp pakistan navy
 arecibo hf atmos.tests
 arkhangelsk aero
 armenian military net
+armor french ny usb/fsk
+armyaviation scptoc ale
 ashgabat aero
 astana aero
 astrakhanaero serioshka
@@ -43,6 +52,9 @@ auckland hfdl (id5)
 auckland radio
 auckland volmet x20,x50
 australia volmet x00,30
+australian airforce ale
+australian mhfcs ale
+austrian military ale
 baf beijing meteo fax
 bahia fildes radio
 baku aero sardina
@@ -59,14 +71,19 @@ bisan martis x15,x45
 bmf taipei meteo fax
 bodo radio
 boeing seattle
+bonneville poweradm.ale
+bosnian emergency ale
 bpc time signal
 bpl time signal
 bpm xian
+brazilian army ale
+brazilian navy ale
 brazzaville radio
 brisbane radio
 bucuresti aero
 ca mau radio
 cairns radio
+calif.emergency sce.ale
 can tho radio
 canarias hfdl (id17)
 canterbury mountain r.
@@ -103,16 +120,24 @@ channel marker w
 chelyabinsk aero
 chelyabinsk aero brazka
 chennai radio
+chile navy ale
+chinese military ale
+chinese navy ale
 chu ottawa
 clt habana radio
 cocesna cenamer control
 codar sweeper
+colombian army ale
+colombian navy ale
 colombo radio
 constanta radio
 cordoba volmet x25, x35
 córdoba volmet x25, x35
+corps of engineers ale
 coruna radio
 coruña radio
+cothen ale
+croatian nrpd ale
 cross corsen radio wx
 cross gris-nez radio wx
 cross jobourg radio wx
@@ -129,8 +154,10 @@ cwc34 punta del este
 cwc36 rio branco radio
 cwc39 montevideo radio
 cyprus radio
+d marker fazan-37
 da nang radio xvt
 dakar radio
+danish military ale
 darwin radio
 dashoguz aero
 dashoguz/tashaus aero
@@ -142,12 +169,15 @@ ddh9 dwd pinneberg rtty
 ddk2 dwd pinneberg rtty
 ddk9 dwd pinneberg rtty
 delhi radio
+dgzrs mrcc bremen
 dhaka radio
+dhfcs forest moor ale
 dhj58 marine stanag
 dhm91 german air force
 dho38 german navy
 doha radio
 dushanbe aero
+dutch military ale
 dwd 1 pinneberg rtty
 dwd 2 pinneberg rtty
 dwd pinneberg met fax
@@ -162,22 +192,40 @@ eac chipiona radio
 eao palma radio
 eba navy madrid stanag
 efr teleswitch
+egyptian ale
 ejercito del aire
 elista aero triol
 falkland fisheries dept
 falmouth coastguard wx
+fanny french ny usb/fsk
 fav22 morse training
+fed.aviation admin. ale
+fema emergency ale
+fish and wildlife ale
 fjy5 arq-e3 192bd/400hz
 forest moor ale
 forest moor stanag
+french diplo ale
+french military ale
+french navy ale
 fue brest stanag
+fue french navy stanag
+fue french navy usb/fsk
+fuf french navy stanag
 fuf martinique stanag
+fug french navy fsk
+fug french navy stanag
 fug la regine stanag
+fuj french navy stanag
 fuj noumea stanag
 fuj nouméa stanag
+fum french navy stanag
 fum tahiti stanag
+fuo french navy usb/fsk
 fuo toulon stanag
 fuv djibouti stanag
+fuv french navy stanag
+fux french navy stanag
 fux reunion stanag
 fux réunion stanag
 fux stanag
@@ -189,10 +237,20 @@ gander radio b
 gander radio c
 gander radio f
 gander volmet x20,x50
+gaurdia civil ale
+gendameria chile ale
+georgia borderguard ale
+georgia coast guard ale
+german coast guard ale
+german fed.police ale
+german red cross ale
+ghana navy ale
 gladstone radio
 goose channel marker
 gqd anthorn
+greek air force ale
 guangzhou volmet x00,30
+guardia di finanza ale
 gya northwood meteo fax
 hai phong radio xvg
 haikou radio (x20)
@@ -227,6 +285,7 @@ hsw64 bangkok meteo fax
 hue radio
 humber coastguard wx
 humpty doo stanag
+hungarian military ale
 hwu french navy
 hzh jiddah radio
 iap andenes radar 27us
@@ -237,12 +296,17 @@ idn ital.navy stanag
 idn ny napoli stanag
 idr ny roma
 idr ny roma stanag
+illinois emergency ale
+internal ministry ale
+iraqi navy ale
+iraqi security fcs. Ale
 irit weather radio
 irkutsk volmet x25,x55
 isewan martis x00,x30
 isewan martis x15,x45
 isla de pascua radio
 italcable
+italian air force ale
 italycable
 jakarta radio
 jamaica coast guard wx
@@ -321,6 +385,8 @@ jjz82 jsd net
 jjz93 jsd net
 jmh japan meteo fax
 johannesburg hfdl (id8)
+jordan address ale net
+jordan air force ale
 jwt norwaymil stanag
 jxn marine norway
 jxu ny bodo stanag
@@ -354,13 +420,16 @@ kurushimamartis x00,x30
 kurushimamartis x15,x45
 kvm70 fax honolulu
 kwl38 nws kodiak
+kyrgyz miltary ale
 l2c buenos aires radio
 l2t mar del plata radio
 l2w comodoro rivadavia
 las palmas radio
+latvian military ale
 lba norway mil stanag
 lba norwaymil stanag
 lima radio
+lithuanian navy ale
 lol buenos aires
 lyngby radio
 lzw varna radio
@@ -372,17 +441,22 @@ malin head wx
 malta radio
 manila radio
 marconi radio int.
+mauritania military ale
 mauritius radio
 melbourne radio
+mexican military ale
 minvody aero shpora
 minvody aero ubezhische
 minvody aero uzbezhische
 minvody aero uzbezische
+missouri nat.guard ale
 mkg forestmoor stanag
 mogadishu radio
-molokai hfdl (id2)
 moloka'i hfdl (id2)
+molokai hfdl (id2)
 mong cai radio xvm
+moroccan military ale
+moroccan police ale
 moscow aero
 mosdok aero assistent
 mrcc papeete
@@ -390,7 +464,8 @@ msf time from npl
 mumbai radio
 mumbai volmet x25,x55
 murmansk r. udk (mtk-2)
-ndjamena radio
+murmansk radio
+n'djamena radio
 n'djamena radio
 naa us navy cutler
 nadi radio
@@ -403,8 +478,9 @@ naryan-mar aero
 nato lisboa stanag
 nau isabela rtty
 nau us navy stanag
+navy athens stanag
 nbc port moresby
-n'djamena radio
+ndjamena radio
 netherlands coastgd wx
 new york radio
 new york radio a
@@ -415,6 +491,7 @@ new york radio ldoc
 new york volmet x00,x30
 nha trang radio xvn
 niamey radio
+nigerian police ale
 nlk us navy jim creek
 nmc fax pt reyes ca
 nmc navtex pt reyes ca
@@ -426,24 +503,28 @@ nmg uscg new orleans
 nml us navy
 nmn uscg chesapeake
 nmn uscg chesapeake ale
-npm us navy
 nmo navtex honolulu
 nmo uscg honolulu
 noj fax kodiak
 noj uscg kodiak
 noj uscg kodiak digital
 northland radio zmh292
+norway navy stanag
 nouakchott radio
 novosib. aero katyusha
 novosibir volmet x10,40
 novosibirsk aero
 npg us navy stanag
+npm us navy
+npm us navy rtty/stanag
+npn guam stanag
 npn stanag
 nrv navtex guam
 nrv uscg guam
 nss us navy rtty
 nss us navy rtty/stanag
 nsy sicily
+nta emergency ale net
 nukus aero
 nwc us/australian navy
 oceansseglingsklubben
@@ -492,6 +573,7 @@ pointe noire radio
 port hedland radio
 ppe observatorio nac.
 ppo olinda radio fax
+protection civile ale
 punta carretas radio wx
 pwz33 rio d.j.naval wx
 pwz33 rio dj meteo fax
@@ -508,9 +590,12 @@ rbu time signal
 rbw murmansk meteo fax
 rcc ny petropavlovsk
 rcv russian navy
+red crescent ale
 reykjavik hfdl (id3)
+rfid devices
 rit russian navy
 riverhead hfdl (id4)
+rjd russian navy
 rjh63 krasnodar
 rjh66 bishkek
 rjh69 molodechno
@@ -518,6 +603,7 @@ rjh77 arkhangelsk
 rjh99 nizhni novgorod
 rlo russian navy
 rmp russian navy
+romanian police ale
 romaradio iar
 rostov aero
 rostov aero shpora
@@ -553,8 +639,10 @@ santa maria radio e
 santa maria radio h
 saratov aero
 search and rescue coord
-seoul radio
+secure emergency net
+secure emergeny net
 seoul muan hfdl (id10)
+seoul radio
 seychelles marine wx
 seychelles radio
 shandong maritime meteo
@@ -576,12 +664,15 @@ shanwick radio a
 shanwick radio b
 shanwick radio c
 shanwick radio f
+shares emergency net
 shetland coastguard wx
 singapore radio
 singapore volmet x20,x50
 singaporevolmet x20,x50
 singpore volmet x20,x50
 singporevolmet x20,x50
+slovak military ale
+slovian military ale
 sochi aero shtat
 spanish navy fsk
 ssca doodah transatlnet
@@ -593,6 +684,7 @@ stpeterbg volmet x05,35
 svj4 athens meteo fax
 svo olimpia radio
 swa18 athens meteo fax
+swedish military ale
 swedish navy msk 200/79
 sxv ny spata att.stanag
 sydney radio
@@ -610,12 +702,13 @@ tashkent volmet x10,x40
 tashkent volmet x20,x50
 tbb ny ankara stanag
 tbb turk.navy stanag
+telenor kystradio
 telenor maritim radio
 telnor kystradio
-telenor kystradio
 texas dot net
 tfk grindavik
 the buzzer
+the pip (kaplya) rostov
 the pip, rostov
 the squeaky wheel
 tokyo martis x00-x30
@@ -627,14 +720,25 @@ tokyo volmet x10,x40
 trenton military
 trenton volmet
 tripoli radio
+tunisian military ale
+turk.afad emergency ale
 turkmenbashi aero
 tyumen aero
 uce2 arkhangelsk radio
 ufa aero
+uk dhfcs stanag
 uk mil.dhfcs stanag
+uk mod dhfcs
+uk mod dhfcs stanag
+ukranian military ale
 ural aero
+us air force ale
 us air force mars net
 us air force messages
+us army mars ale
+us army mars net
+us embassies ale
+us national guard ale
 us navy rtty/stanag
 v07 russian spy numbers
 v15 spy numbers
@@ -651,7 +755,9 @@ vco sydney meteo fax
 vco sydney radio ns
 vcp placentia nl
 vcs halifax radio
+vega military messages
 venezuela navy
+veterans health adm.ale
 vff iqaluit meteo
 vff iqaluit meteo fax
 vff iqaluit radio
@@ -673,6 +779,7 @@ vtp4 indian navy wx
 vtx indian navy
 vung tau radio
 wa1zms fessenden px
+washington gaslight ale
 wcy marine weather ctr
 whl st augustine, fl
 witowo radio
