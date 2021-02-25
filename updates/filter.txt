@@ -464,6 +464,7 @@ kyrgyz military ale
 l2c buenos aires radio
 l2t mar del plata radio
 l2w comodoro rivadavia
+lae aero
 las palmas radio
 latvian military ale
 lba norway mil stanag
