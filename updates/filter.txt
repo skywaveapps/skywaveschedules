@@ -57,6 +57,8 @@ australia volmet x00,30
 australian airforce ale
 australian mhfcs ale
 austrian military ale
+australian police ale
+azeri emergency ale
 baf beijing meteo fax
 bahia fildes radio
 baku aero sardina
@@ -65,6 +67,7 @@ bangkok volmet x10,x40
 barrow hfdl (id9)
 bdf2 shanghai fax
 beijing volmet x15,x45
+beijing ale
 belgian navy stanag
 belfast coast guard
 ben thuy radio
@@ -84,6 +87,7 @@ brazilian navy ale
 brazzaville radio
 brisbane radio
 bucuresti aero
+bulgaria diplo
 ca mau radio
 cairns radio
 calif.emergency sce.ale
@@ -108,18 +112,31 @@ central weather bureau
 cfh halifax meteo fax
 cfh halifax stanag
 channel marker a
+channel marker b
 channel marker c
 channel marker d
+channel marker e
 channel marker f
+channel marker g
+channel marker h
+channel marker i
+channel marker j
 channel marker k
 channel marker l
 channel marker m
+channel marker n
+channel marker o
 channel marker p
+channel marker q
 channel marker r
 channel marker s
 channel marker t
+channel marker u
 channel marker v
 channel marker w
+channel marker x
+channel marker y
+channel marker z
 chelyabinsk aero
 chelyabinsk aero brazka
 chennai radio
@@ -176,6 +193,7 @@ delhi radio
 dgzrs mrcc bremen
 dhaka radio
 dhfcs forest moor ale
+dhj58 marine
 dhj58 marine stanag
 dhm91 german air force
 dho38 german navy
@@ -188,6 +206,8 @@ dwd pinneberg met fax
 dwd polarstern fax/rtty
 dzs4 manila radio
 e06 russian spy numbers
+e07 russian spy numbers
+e07a russian spy numbers
 e11 polish spy numbers
 e17z spy numbers
 e25 egypt spy numbers
@@ -199,6 +219,13 @@ efr teleswitch
 egyptian ale
 ejercito del aire
 elista aero triol
+f01 russian spy numbers
+f03f polish spy numbers
+f03i polish spy numbers
+f03j polish spy numbers
+f03l polish spy numbers
+f06 russian spy numbers
+f06a russian spy numbers
 falkland fisheries dept
 falmouth coastguard wx
 fanny french ny usb/fsk
@@ -209,6 +236,10 @@ fish and wildlife ale
 fjy5 arq-e3 192bd/400hz
 forest moor ale
 forest moor stanag
+fr.air force e-3f ale
+fr.air force capitole
+french air force circus
+french air force e-3f
 french diplo ale
 french military ale
 french navy ale
@@ -313,6 +344,7 @@ irkutsk volmet x25,x55
 isewan martis x00,x30
 isewan martis x15,x45
 isla de pascua radio
+israeli air force ale
 italcable
 italian air force ale
 italycable
@@ -436,11 +468,17 @@ las palmas radio
 latvian military ale
 lba norway mil stanag
 lba norwaymil stanag
+lbj norway navy
 lima radio
 lithuanian navy ale
 lol buenos aires
 lyngby radio
 lzw varna radio
+m01 spy numbers 025
+m01 spy numbers 197
+m01 spy numbers 463
+m12 spy numbers
+m14 spy numbers 617
 madrid radio
 magadan radio
 maikop aero atlantida3
@@ -555,6 +593,14 @@ osu oostende radio
 oxj torshavn radio
 oxj tórshavn radio
 oyr aasiaat radio
+p03e polish spy numbers
+p03f polish spy numbers
+p03g polish spy numbers
+p03h polish spy numbers
+p03i polish spy numbers
+p03j polish spy numbers
+p03k polish spy numbers
+p03l polish spy numbers
 p50 belawan radio met
 p5o indonesian navy
 pacific maritime radio
@@ -578,6 +624,7 @@ phan tiet radio
 phu yen radio
 piarco radio car-b
 pointe noire radio
+polish army ale
 port hedland radio
 ppe observatorio nac.
 ppo olinda radio fax
@@ -594,10 +641,13 @@ radionaval n.ribeiro
 radionaval porto santo
 raf volmet
 raf volmet military 1
+ral2 ru.navy caspiansea
 rbu time signal
 rbw murmansk meteo fax
 rcc ny petropavlovsk
 rcv russian navy
+rdl russian navy
+rea4 airforce meteo x40
 red crescent ale
 reykjavik hfdl (id3)
 rfid devices
@@ -741,6 +791,7 @@ uk mil.dhfcs stanag
 uk mod dhfcs
 uk mod dhfcs stanag
 ukrainian military ale
+un minusma ale
 ural aero
 us air force ale
 us air force mars net
@@ -801,6 +852,9 @@ wwvh hawaii (f.ann.)
 xfl mazatlan radio
 xfn progreso radio
 xiamen radio
+xpa russian spy numbers
+xpa2 russian spy numbers
+xpb russian spy numbers
 xsg shanghai r.
 xsg shanghai r. telex
 xsg shanghai radio
