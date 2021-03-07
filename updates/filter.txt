@@ -82,6 +82,7 @@ bosnian emergency ale
 bpc time signal
 bpl time signal
 bpm xian
+brazilian navy
 brazilian army ale
 brazilian navy ale
 brazzaville radio
@@ -179,6 +180,7 @@ d marker fazan-37
 da nang radio xvt
 dakar radio
 danish military ale
+danish navy ale
 darwin radio
 dashoguz aero
 dashoguz/tashaus aero
@@ -200,6 +202,7 @@ dho38 german navy
 doha radio
 dushanbe aero
 dutch military ale
+dutch navy ale
 dwd 1 pinneberg rtty
 dwd 2 pinneberg rtty
 dwd pinneberg met fax
@@ -448,6 +451,7 @@ keflavik radio b
 keflavik radio c
 kfs point reyes, ca
 kfs point reyes,ca
+khantym aero
 khartoum radio
 kien giang radio
 kinshasa radio
@@ -492,6 +496,7 @@ manila radio
 marconi radio int.
 mauritania military ale
 mauritius radio
+maykop aero atlantida3
 melbourne radio
 mexican military ale
 minvody aero shpora
@@ -508,6 +513,7 @@ moroccan military ale
 moroccan police ale
 moscow aero
 mosdok aero assistent
+mozdok aero assistent
 mrcc papeete
 msf time from npl
 mumbai radio
@@ -541,6 +547,7 @@ new york volmet x00,x30
 nha trang radio xvn
 niamey radio
 nigerian police ale
+nizhnevartovsk aero
 nlk us navy jim creek
 nmc fax pt reyes ca
 nmc navtex pt reyes ca
@@ -560,6 +567,7 @@ noj uscg kodiak digital
 northland radio zmh292
 norway navy stanag
 nouakchott radio
+novy urengoy aero
 novosib. aero katyusha
 novosibir volmet x10,40
 novosibirsk aero
@@ -575,6 +583,7 @@ nss us navy rtty/stanag
 nsy sicily
 nta emergency ale net
 nukus aero
+nursultan/astana aero
 nwc us/australian navy
 oceansseglingsklubben
 odessa radio
@@ -679,6 +688,7 @@ s11 polish spy numbers
 s11a polish spy numbers
 safi radio
 sal radio
+salekhard aero
 samara aero
 samara aero amba
 samara volmet x15,45
@@ -759,11 +769,13 @@ tahiti radio
 tallinn radio
 tallinn volmet
 tarifa radio
+tarko-sale aero
 tashkent aero
 tashkent volmet x10,x40
 tashkent volmet x20,x50
 tbb ny ankara stanag
 tbb turk.navy stanag
+tbo turk.navy stanag
 telenor kystradio
 telenor maritim radio
 telnor kystradio
@@ -836,6 +848,7 @@ vmw wiluna wa
 voj port aux basques nl
 vok goose bay nl
 volgograd aero avrora
+vologda aero
 vorkuta aero
 vrc marine rescue radio
 vtg6 indian navy wx
