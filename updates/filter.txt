@@ -150,6 +150,7 @@ chilung keelung radio dsc
 china military ale
 chinese military ale
 chinese navy ale
+chu canada
 chu ottawa
 ckn aldergrove stanag
 clt habana radio
@@ -178,6 +179,7 @@ crossru la réunion
 cruiseemail
 cta nato stanag
 cuban babbler numbers
+cuban spy numers
 cuban spy numbers
 cwc30 la paloma radio
 cwc34 punta del este
@@ -320,6 +322,7 @@ hlg seoul radio
 hlj seoul radio
 hlk gangneung radio
 hll seoul meteo
+hll seoul meteorological radio
 hll seoul meteo fax
 hll seoul meteo x00-x05
 hll seoul meteo x00-x10
@@ -448,6 +451,7 @@ jjz60 jsd net
 jjz71 jsd net
 jjz82 jsd net
 jjz93 jsd net
+jmh
 jmh japan meteo fax
 johannesburg hfdl (id8)
 jordan address ale net
@@ -614,6 +618,15 @@ nss us navy rtty/stanag
 nsy sicily
 nta emergency ale net
 nukus aero
+numbers station 1
+numbers station 2
+numbers station 3
+numbers station 4
+numbers station 5
+numbers station 6
+numbers station 7
+numbers station 8
+numbers station 9
 nursultan/astana aero
 nwc us/australian navy
 oceansseglingsklubben
@@ -785,6 +798,7 @@ singapore volmet x20,x50
 singaporevolmet x20,x50
 singpore volmet x20,x50
 singporevolmet x20,x50
+slot machine
 slovak military ale
 slovenian military ale
 sochi aero shtat
@@ -795,6 +809,7 @@ stavropol aero tom
 stockholm radio
 stornoway coastguard wx
 stpeterbg volmet x05,35
+ssb meteorogical broadcasting
 surgut aero tsadik-dva
 svj4 athens meteo fax
 svo olimpia radio
@@ -830,6 +845,7 @@ the buzzer
 the pip (kaplya) rostov
 the pip, rostov
 the squeaky wheel
+time signal
 tokyo martis x00-x30
 tokyo martis x00,x30
 tokyo martis x15
@@ -910,8 +926,11 @@ whl st augustine, fl
 witowo radio
 wlo mobile radio
 wlo mobile radio rtty
+wwv
 wwv colorado (m.ann.)
+wwvb
 wwvb colorado
+wwvh
 wwvh hawaii (f.ann.)
 xfl mazatlan radio
 xfn progreso radio
