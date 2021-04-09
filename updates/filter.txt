@@ -314,6 +314,7 @@ haikou radio (x20)
 haldia radio dsc
 hat yai hfdl (id6)
 heb bern radio
+hfd radio station
 hla taedok
 hlc incheon radio
 hle jeju radio
@@ -525,6 +526,7 @@ malta radio
 malta radio dsc
 manila radio
 mar del plata
+mar del plata dsc
 marconi radio int.
 mauritania military ale
 mauritius radio
@@ -663,6 +665,7 @@ p50 belawan radio met
 p5o indonesian navy
 pacific maritime radio
 palermo radio
+palermo radio dsc
 pbb dutch navy stanag
 pbb navy den helder
 pbb ny denhelder
