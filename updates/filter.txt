@@ -634,8 +634,13 @@ nwc us/australian navy
 oceansseglingsklubben
 odessa radio
 ok0epb pendulum
+okdl iap cas beacon
 okhotsk radio
 okinawa fishery radio
+okpr iap cas beacon
+okpv iap cas beacon
+oktr iap cas beacon
+okva iap cas beacon
 olimpia radio
 olimpia radio dsc
 omsk aero kapel
