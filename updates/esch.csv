@@ -564,7 +564,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 560;0000-2400;1234567;USA;WHYN NewsRadio 560;E;USA;Springfield, MA;1;;
 560;0000-2400;1234567;USA;WIND AM 560 The Answer;E;USA;Chicago, IL;1;;
 560;0000-2400;1234567;USA;The Ball WOOF 560;E;USA;Dothan, AL;1;;
-560;0000-2400;1234567;USA;WQAM 560 The Joe;E;USA;Miami, FL;1;;
+560;0000-2400;1234567;USA;WQAM AM 560 Sports;E;USA;Miami, FL;1;;
 560;0000-2400;1234567;USA;News Radio 560 WVOC;E;USA;Columbia, SC;1;;
 560;0000-2400;1234567;USA;WJLS News Network;E;USA;Beckley, WV;1;;
 560;0000-2400;1234567;USA;WNSR Sports Radio 560 / 95.5;E;USA;Brentwood, TN;1;;
@@ -1411,9 +1411,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 621;0000-2400;1234567;TUV;T2U2 Radio Tuvalu;E;Oc;Funafuti;1;;
 621;0000-2400;1234567;TWN;Taiwan Guangbo Gongsi;M,TW;FE;Daxi/Ta-Hsi;1;;
 621;0000-2400;1234567;AUS;Triple M 102.9 Broome;E;AUS;Bunbury/Wireless Road;1;;
-621;0100-0400;1234567;AFG;VOA Deewa Radio (Tentative);PS;ME;Tani-Khost;1;;
-621;1300-1900;1234567;AFG;VOA Deewa Radio (Tentative);PS;ME;Tani-Khost;1;;
-621;0400-1300;1234567;AFG;Radio Free Europe (Tentative);;ME;Tani-Khost;1;;
+621;0100-0400;1234567;AFG;VOA Deewa Radio;PS;ME;Tani-Khost;1;;
+621;1300-1900;1234567;AFG;VOA Deewa Radio;PS;ME;Tani-Khost;1;;
+621;0400-1300;1234567;AFG;Radio Free Europe;;ME;Tani-Khost;1;;
 621;0700-1250;1234567;KRE;Voice of Korea;J;FE;Ch'ongjin;1;;
 621;2100-2350;1234567;KRE;Voice of Korea;J;FE;Ch'ongjin;1;;
 621;2225-1600;1234567;CHN;Voice of Wumeng;M;FE;Zhaotong/YNTS697;1;;
@@ -3802,6 +3802,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 810;0000-2400;7;MOZ;Emissão Provincial de Gaza;P;MOZ;Xai-Xai;1;;
 810;0250-2210;1234;MOZ;Emissão Provincial de Gaza;P;MOZ;Xai-Xai;1;;
 810;0250-2400;5;MOZ;Emissão Provincial de Gaza;P;MOZ;Xai-Xai;1;;
+810;0000-2400;1234567;MKD;Radio Makedonia;;MKD;Ovce Pole;1;;
+810;0000-2400;1234567;UKR;Armiia FM;;UKR;Hirnyk ;1;;
 810;0000-2400;1234567;B;ZYH528 Rádio Nossa Senhora de Guadalupe;P;B;Riacho de Santana;1;;
 810;0000-2400;1234567;B;ZYH767 Rádio Alvorada;P;B;Rialma;1;;
 810;0000-2400;1234567;PRU;RPP Juliaca;S;PRU;Juliaca-b;1;;
@@ -4125,6 +4127,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 846;0200-2100;1234567;IRN;IRIB Voice of I.R.Iran;;ME;Mianeh;1;;
 846;0200-1900;1234567;UAE;Umm al-Quwain;;ME;Umm al-Quwain;1;;
 846;0600-1800;1234567;HOL;Album AM;NL;HOL;Uden;1;;
+846;0000-2400;1234567;HOL;Groeistad Studio 675;NL;HOL;Terneuzen;1;;
 846;0000-2400;1234567;AUS;2RN ABC Radio National;E;AUS;Canberra/Gungahlin;1;;
 846;0000-2400;1234567;NZL;2ZD Newstalk ZB;E;Oc;Masterton/Waingawa;1;;
 846;0000-2400;1234567;AUS;4EL 4CA Classic Hits;E;AUS;Cairns/Bessie Point;1;;
@@ -4167,7 +4170,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 850;0000-2400;1234567;PNR;La Exitosa (Colon);S;PNR;Colon;1;;
 850;0000-2400;1234567;PTR;WABA La Grande;S;PTR;Aguadilla;1;;
 850;0000-2400;1234567;USA;KOA The Voice of Colorado;E;USA;Denver, CO;1;;
-850;0000-2400;1234567;USA;ESPN on WEEI;E;USA;Boston/Starr Ridge, MA;1;;
+850;0000-2400;1234567;USA;WEEI BetQL Network The Bet;E;USA;Boston/Starr Ridge, MA;1;;
 850;0000-2400;1234567;USA;850 WFTL;E;USA;West Palm Beach, FL;1;;
 850;0000-2400;1234567;USA;ESPN 850 WKNR;E;USA;Cleveland/North Royalton, OH;1;;
 850;0000-2400;1234567;USA;WKVL Rocky Top Sports Radio;E;USA;Knoxville, TN;1;;
@@ -4623,7 +4626,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 882;0600-2400;1234567;G;BBC Radio Wales;E;G;Forden;1;;
 882;0200-2059;1234567;IRN;IRIB Voice of I.R.Iran;FS;ME;Mahabad;1;;
 882;0000-2400;1234567;AUS;3RPH Vision Australia;E;AUS;Warrnambool/Purnim;1;;
-882;0000-2400;1234567;AUS;4BH;E;AUS;Brisbane/Wynnum West;1;;
 882;0000-2400;1234567;AUS;6PR News Talk;E;AUS;Perth/Ascot Waters;1;;
 882;0000-2400;1234567;CHN;Fujian Xinwen Zonghe Guangbo;;FE;Zhangzhou/FJTS501;1;;
 882;0000-2400;1234567;CHN;Fujian Xinwen Zonghe Guangbo;;FE;Jinjiang/FJTS402;1;;
@@ -5318,7 +5320,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 940;0000-2400;1234567;MEX;XERKS Romántica;S;MEX;Reynosa;1;;
 940;0000-2400;1234567;PTR;WIPR Máxima 940 AM;S;PTR;San Juan;1;;
 940;0000-2400;1234567;USA;KYNO;E;USA;Fresno, CA;1;;
-940;0000-2400;1234567;USA;940 WINZ;E;USA;Miami, FL;1;;
+940;0000-2400;1234567;USA;WINZ Fox Sports 940 Miami;E;USA;Miami, FL;1;;
 940;0000-2400;1234567;USA;News Talk 940 WMAC;E;USA;Macon, GA;1;;
 940;0000-2400;1234567;USA;WCPC Truth Radio 940 AM;E;USA;Houston, MS;1;;
 940;0000-2400;1234567;USA;KPSZ Praise 940;E;USA;Des Moines, IA;1;;
@@ -6066,6 +6068,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 999;2300-1800;1234567;CHN;Xinjiang Qi Ba San Zonghe Guangbo;M;FE;Zhaosu/XJTS8113;1;;
 999;2300-1800;1234567;CHN;Xinjiang Qi Ba San Zonghe Guangbo;M;FE;Xinyuan/Künes/XJTS8117;1;;
 999;2300-1800;1234567;CHN;Xinjiang Qi Ba San Zonghe Guangbo;M;FE;Bortala/Bole/XJTS762;1;;
+999;0000-2400;1234567;THA;Phon Nueng Ror Or (Royal Guard Radio Station Bangkok);T;SEA;Kamphaeng Phet;1;;
 1000;0000-2400;1234567;CTR;TIMIL Radio 2 Rock;S;CTR;San José;1;;
 1000;0000-2400;1234567;CUB;Radio Artemisa;S;CUB;Artemisa;1;;
 1000;0000-2400;1234567;CUB;Radio Granma;S;CUB;Media Luna;1;;
@@ -6487,7 +6490,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1035;0400-0600;1234567;ETH;Radio Oromia;;ETH;Adama/Nazret;1;;
 1035;0900-1100;1234567;ETH;Radio Oromia;;ETH;Adama/Nazret;1;;
 1035;1600-1800;1234567;ETH;Radio Oromia;;ETH;Adama/Nazret;1;;
-1035;0000-2400;1234567;G;Lyca Dilse Radio 1035 (Lycra Gold);E;G;Crystal Palace;1;;
+1035;0000-2400;1234567;G;Lyca Gold;E;G;Crystal Palace;1;;
 1035;0000-2400;1234567;G;West Sound AM;E;G;Symington (Ayr);1;;
 1035;1000-1200;6;HOL;Neverland AM;NL;HOL;Venlo;1;;
 1035;0000-2400;1234567;AUS;2EA SBS Radio 2;E;AUS;Wollongong/Windang;1;;
@@ -7017,6 +7020,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1071;0000-2400;1234567;INS;RSP-Radio Swara Pacitan;IN;SEA;Pacitan;1;;
 1071;2350-1550;1234567;CHN;Ürümqi Uyghurche Radiyo;UI;FE;Ürümqi;1;;
 1071;0000-2400;1234567;NZL;SEN;E;Oc;Ashburton;1;;
+1071;0000-2400;1234567;VTN;Voice of Vietnam 1;VN;SEA;Phuoc Dinh;1;;
 1080;1130-1230;;CHN;China Radio Int.;T;SEA;xw;1;;
 1080;1330-1430;;CHN;China Radio Int.;T;SEA;xw;1;;
 1080;1430-1530;;CHN;China Radio Int.;LAO;SEA;xw;1;;
@@ -7370,6 +7374,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1100;0000-2400;1234567;CLM;Transmisora Surandes;S;CLM;Andes;1;;
 1100;0000-2400;1234567;CLM;Emisora José Antonio Galán - La Voz de Colombia;S;CLM;Socorro-b;1;;
 1100;0000-2400;1234567;CLM;Emisora Ideal;S;CLM;Planeta Rica;1;;
+1107;0100-1830;;AFG;Radio Afghanistan;AFG;As;k;1;;[1118]
 1107;0000-2400;1234567;E;RNE Radio 5;S;E;Logroño/La Grajera;1;;
 1107;0000-2400;1234567;E;RNE Radio 5;S;E;Cáceres/Aldea del Cano;1;;
 1107;0000-2400;1234567;E;RNE Radio 5;S;E;Santander/Rostrío;1;;
@@ -7551,7 +7556,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1116;0353-2005;67;HNG;Dankó Rádió;HU;HNG;Mosonmagyaróvár;1;;
 1116;0500-2300;1234567;I;RAI Radio1 Sicilia;I;I;Palermo/Monte Pellegrino, PA;1;;
 1116;0400-2100;1234567;IRQ;Radio Dar as-Salam;;ME;Baghdad;1;;
-1116;0000-2400;1234567;AUS;4BC News Talk 1116;E;AUS;Brisbane/Nudgee;1;;
 1116;0000-2400;1234567;AUS;6MM 1116 AM;E;AUS;Mandurah/West Pinjarra;1;;
 1116;2100-1602;1234567;CHN;CNR 2 Jingji zhi Sheng;M;FE;Harbin/HLTS904;1;;
 1116;2055-1705;1234567;CHN;CNR 5 Zhonghua zhi Sheng;;FE;Shaowu/NRTA751;1;;
@@ -7559,6 +7563,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1116;0000-2400;1234567;INS;PM7CLX Radio DBS;IN;SEA;Prabumulih Barat;1;;
 1116;0000-2400;1234567;NZL;RNZ National;E;Oc;Nelson/Stoke;1;;
 1116;0000-2400;1234567;AUS;SEN 1116;E;AUS;Melbourne/Lower Plenty;1;;
+1116;0000-2400;1234567;AUS;4BC News Talk 1116;E;AUS;Brisbane/Nudgee;1;;
+1116;0000-2400;1234567;AUS;4BH;E;AUS;Brisbane/Wynnum West;1;;
 1117;2355-1700;1234567;INS;Radio Carolina Arjuno;IN,JV;SEA;Surabaya;1;;
 1120;1030-0300;1234567;CTR;TIHT Radio Alajuela;S;CTR;Alajuela;1;;
 1120;0000-2400;1234567;GTM;TGC Radio Uno 120 AM;S;GTM;Ciudad de Guatemala;1;;
@@ -8136,7 +8142,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1160;0000-2400;1234567;USA;WODY Joy FM;E;USA;Fieldale, VA;1;;
 1160;0000-2400;1234567;USA;WPIE ESPN Ithaca 1160/107.1;E;USA;Trumansburg, NY;1;;
 1160;0000-2400;1234567;USA;WYDU 1160 AM;E;USA;Red Springs, NC;1;;
-1160;0000-2400;1234567;USA;WBYN LV Fox Sports;E;USA;Lehighton, PA;1;;
 1160;0000-2400;1234567;USA;Country Classics WBIO 94.7;E;USA;Hawesville, KY;1;;
 1160;0000-2400;1234567;USA;WRLZ Radio Luz 1160 AM;S;USA;St. Cloud, FL;1;;
 1160;0000-2400;1234567;USA;WCXI 1160 AM;E;USA;Fenton, MI;1;;
@@ -8851,13 +8856,13 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1224;0000-2400;1234567;E;COPE;S;E;Lleida/Lérida;1;;
 1224;0000-2400;1234567;E;COPE;S;E;Almería;1;;
 1224;0000-2400;1234567;E;COPE;S;E;Lugo;1;;
-1224;0600-1800;1234567;HOL;Amplivier Radio;NL;HOL;Damwâld;1;;
 1224;0700-2300;1234567;HOL;Radio 1224;NL;HOL;Lunteren;1;;
 1224;0000-2400;1234567;HOL;De Rode Adelaar;;HOL;Waalwijk;1;;
 1224;0900-1200;1234567;IRN;Neda al-Bahrain;A;ME;Kish;1;;
 1224;0400-2204;1234567;MOZ;Em Prov de Cabo Delgado;;MOZ;Pemba;1;;
 1224;0500-2300;1234567;NIG;Radio Plateau 1;;NIG;Jos;1;;
-1224;0000-2400;1234567;HOL;Radio Turkiyem;;NL;Voorburg;1;;
+1224;0000-2400;1234567;HOL;Radio Turkiyem;;HOL;Voorburg;1;;
+1224;0000-2400;1234567;HOL;Radio Emmeloord (LPAM);NL;HOL;Arum;1;;
 1224;0000-2400;1234567;AUS;2RPH;E;AUS;Sydney/Prospect;1;;
 1224;0000-2400;1234567;AUS;3EA SBS Radio 2;E;AUS;Melbourne/Graigieburn;1;;
 1224;0000-2400;1234567;TWN;BCC Country Network;AM;FE;Kaohsiung;1;;
@@ -8959,7 +8964,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1230;0000-2400;1234567;USA;WCWA Fox Sports 1230 Toledo;E;USA;Toledo, OH;1;;
 1230;0000-2400;1234567;USA;WDBZ The Buzz Cincy;E;USA;Cincinnati, OH;1;;
 1230;0000-2400;1234567;USA;WDWR - Divine Word Radio;E;USA;Pensacola, FL;1;;
-1230;0000-2400;1234567;USA;WECK Weck Radio 100.5 - 102.9 - 1230;E;USA;Cheektowaga, NY;1;;
+1230;0000-2400;1234567;USA;WECK Oldies 1230;E;USA;Cheektowaga, NY;1;;
 1230;0000-2400;1234567;USA;WENY News Radio 1230;E;USA;Elmira, NY;1;;
 1230;0000-2400;1234567;USA;WEZO 1230 The Blaze;E;USA;Augusta, GA;1;;
 1230;0000-2400;1234567;USA;AM 1230 Digital;E;USA;White Plains, NY;1;;
@@ -9312,6 +9317,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1242;1430-1500;1234567;VTN;Voice of Vietnam;T;SEA;Cần Thơ/Thới Long (Station VN2);1;;
 1242;1500-1600;1234567;VTN;Voice of Vietnam;VN;SEA;Cần Thơ/Thới Long (Station VN2);1;;
 1242;1600-1630;1234567;VTN;Voice of Vietnam;KH;SEA;Cần Thơ/Thới Long (Station VN2);1;;
+1242;0000-2400;1234567;THA;R Thailand Education Radio;T;SEA;Surat Thani;1;;
 1242;0000-2400;1234567;NZL;SEN;E;Oc;Timaru/Fairview;1;;
 1250;0000-2400;1234567;CAN;CHSM AM 1250;E;CAN;Steinbach, MB;1;;
 1250;0000-2400;1234567;CAN;CJYE Joy 1250;E;CAN;Oakville, ON;1;;
@@ -9701,6 +9707,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1278;0100-2145;1234567;OMA;Radio Sultanate of Oman;A;ME;Bahla;1;;
 1278;0000-2400;1234567;G;Radio Royal (LPAM);E;G;Falkirk;1;;
 1278;0000-2400;1234567;G;Highways Agency Radio (RSL);E;G;Swanley M25;1;;
+1278;0000-2400;1234567;I;Media Veneta Radio;I;I;;1;;
 1278;0000-2400;1234567;NZL;2ZC Newstalk ZB;E;Oc;Napier/Pakowhai;1;;
 1278;0000-2400;1234567;AUS;3EE;E;AUS;Melbourne/Lower Plenty;1;;
 1278;0025-0400;1234567;IND;AIR West DRM;E,HI;SAS;Panaji A;1;;
@@ -9928,7 +9935,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1290;0000-2400;1234567;ARG;Radio Murialdo;S;ARG;Villa Nueva de Guaymallén;1;;
 1290;0000-2400;1234567;ARG;Radio Interactiva AM;S;ARG;Ciudad Madero-b;1;;
 1290;0000-2400;1234567;ARG;Radio Provincia;S;ARG;Mariano Acosta-b;1;;
-1290;1000-0300;1234567;URG;RNU Emisora del Sur;S;URG;Santiago Vázquez-g;1;;
+1290;1000-0300;1234567;URG;CX38 R Cultura;S;URG;Santiago Vázquez-g;1;;
 1290;0000-2400;1234567;CHL;CD129 Radio Mulchen;S;CHL;Mulchén-a;1;;
 1290;0000-2400;1234567;B;ZYJ619 Rádio Caicó;P;B;Caicó-a;1;;
 1290;0000-2400;1234567;PRU;Radio Estelar;S;PRU;Chota-f;1;;
@@ -9971,25 +9978,26 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1296;0000-2400;1234567;E;COPE;S;E;València/Castellar;1;;
 1296;0000-2400;1234567;G;Radio XL 1296 AM;E;G;Birmingham/Langley Mill-B;1;;
 1296;0430-1230;1234567;IRN;IRIB Sedaye Sistan va Baluchestan;;ME;Zabol;1;;
+1296;0500-2400;1234567;GEO;Apsua/Abkhaz Radio;AB;GE;;1;;
 1296;0000-2400;1234567;NZL;1ZH Newstalk ZB;E;Oc;Hamilton/Eureka;1;;
 1296;0000-2400;1234567;AUS;4RPH;E;AUS;Brisbane/Tingalpa;1;;
 1296;0000-2400;1234567;AUS;6RN ABC Radio National;E;AUS;Wagin/Arthur River Road;1;;
-1296;0230-0330;1234567;AFG;Radio Free Afghanistan (Tentative);PS;ME;Kabul/Pol-e Charkhi;1;;
-1296;0330-0430;1234567;AFG;Radio Free Afghanistan (Tentative);DR;ME;Kabul/Pol-e Charkhi;1;;
-1296;0430-0530;1234567;AFG;Radio Free Afghanistan (Tentative);PS;ME;Kabul/Pol-e Charkhi;1;;
-1296;0530-0630;1234567;AFG;Radio Free Afghanistan (Tentative);DR;ME;Kabul/Pol-e Charkhi;1;;
-1296;0630-0730;1234567;AFG;Radio Free Afghanistan (Tentative);PS;ME;Kabul/Pol-e Charkhi;1;;
-1296;0730-0830;1234567;AFG;Radio Free Afghanistan (Tentative);DR;ME;Kabul/Pol-e Charkhi;1;;
-1296;0830-0930;1234567;AFG;Radio Free Afghanistan (Tentative);PS;ME;Kabul/Pol-e Charkhi;1;;
-1296;0930-1030;1234567;AFG;Radio Free Afghanistan (Tentative);DR;ME;Kabul/Pol-e Charkhi;1;;
-1296;1030-1130;1234567;AFG;Radio Free Afghanistan (Tentative);PS;ME;Kabul/Pol-e Charkhi;1;;
-1296;1130-1230;1234567;AFG;Radio Free Afghanistan (Tentative);DR;ME;Kabul/Pol-e Charkhi;1;;
-1296;1230-1330;1234567;AFG;Radio Free Afghanistan (Tentative);PS;ME;Kabul/Pol-e Charkhi;1;;
-1296;1330-1430;1234567;AFG;Radio Free Afghanistan (Tentative);DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;0230-0330;1234567;AFG;Radio Free Afghanistan;PS;ME;Kabul/Pol-e Charkhi;1;;
+1296;0330-0430;1234567;AFG;Radio Free Afghanistan;DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;0430-0530;1234567;AFG;Radio Free Afghanistan;PS;ME;Kabul/Pol-e Charkhi;1;;
+1296;0530-0630;1234567;AFG;Radio Free Afghanistan;DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;0630-0730;1234567;AFG;Radio Free Afghanistan;PS;ME;Kabul/Pol-e Charkhi;1;;
+1296;0730-0830;1234567;AFG;Radio Free Afghanistan;DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;0830-0930;1234567;AFG;Radio Free Afghanistan;PS;ME;Kabul/Pol-e Charkhi;1;;
+1296;0930-1030;1234567;AFG;Radio Free Afghanistan;DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;1030-1130;1234567;AFG;Radio Free Afghanistan;PS;ME;Kabul/Pol-e Charkhi;1;;
+1296;1130-1230;1234567;AFG;Radio Free Afghanistan;DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;1230-1330;1234567;AFG;Radio Free Afghanistan;PS;ME;Kabul/Pol-e Charkhi;1;;
+1296;1330-1430;1234567;AFG;Radio Free Afghanistan;DR;ME;Kabul/Pol-e Charkhi;1;;
 1296;0000-2400;1234567;INS;RKM-Radio Kawula Muda;IN;SEA;Jakarta area;1;;
-1296;0030-0230;1234567;AFG;VOA Radio Ashna (Tentative);PS,DR;ME;Kabul/Pol-e Charkhi;1;;
-1296;1430-1730;1234567;AFG;VOA Radio Ashna (Tentative);PS,DR;ME;Kabul/Pol-e Charkhi;1;;
-1296;0230-1430;1234567;AFG;Radio Free Europe (Tentative);PS,DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;0030-0230;1234567;AFG;VOA Radio Ashna;PS,DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;1430-1730;1234567;AFG;VOA Radio Ashna;PS,DR;ME;Kabul/Pol-e Charkhi;1;;
+1296;0230-1430;1234567;AFG;Radio Free Europe;PS,DR;ME;Kabul/Pol-e Charkhi;1;;
 1296;2030-0030;1234567;AFG;Voice of America;E;ME;Kabul/Pol-e Charkhi;1;;
 1300;0000-2400;1234567;USA;KVET AM 1300 The Zone;E;USA;Austin, TX;1;;
 1300;0500-1300;1234567;CTR;TILC La Fuente Musical;S;CTR;Cartago-b;1;;
@@ -10132,8 +10140,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1305;0000-2400;1234567;NZL;4XD Radio Dunedin;E;Oc;Dunedin/Highcliff;1;;
 1305;0000-2400;1234567;AUS;5RN ABC Radio National;E;AUS;Renmark/Loxton (Berri);1;;
 1305;0055-1700;1234567;INS;Radio Syaibah;IN;SEA;Tangerang;1;;
-1305;0230-0430;1234567;AFG;RTA Radio Kandahar;D,PS;ME;Kandahar;1;;
-1305;1130-1730;1234567;AFG;RTA Radio Kandahar;D,PS;ME;Kandahar;1;;
+1305;0230-0430;1234567;AFG;Radio Voice of Sharia;D,PS;ME;Kandahar;1;;
+1305;1130-1730;1234567;AFG;Radio Voice of Sharia;D,PS;ME;Kandahar;1;;
 1310;0000-2400;1234567;B;ZYH426 Rádio Mazagão;P;B;Mazagão;1;;
 1310;0000-2400;1234567;B;ZYH501 Rádio Jaraguar;P;B;Jacobina-a;1;;
 1310;0000-2400;1234567;B;ZYH454 Rádio Bahiana;P;B;Ilhéus-c;1;;
@@ -11886,6 +11894,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1422;0000-2400;1234567;AUS;4AM Radio 4AM;E;AUS;Port Douglas;1;;
 1422;0000-2400;1234567;AUS;6GS Radio Great Southern;E;AUS;Wagin/Brockman Road;1;;
 1422;0000-2400;1234567;CHR;ABC Radio National;E;CHR;Phosphate Hill (VLU2);1;;
+1422;0000-2400;1234567;THA;Phon Nueng Ror Or (Royal Guard Radio Station Bangkok);T;SEA;Akkharayothin Camp military base;1;;
 1430;0000-2400;;B;Rádio Evangelizar;P;B;c2;1;;
 1430;0000-2400;1234567;ALS;KVHZ K Hitz 107 FM;E;ALS;Wasilla;1;;
 1430;0000-2400;1234567;CAN;CHKT Fairchild Radio;E;CAN;Toronto Island, ON;1;;
@@ -11961,6 +11970,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1430;0000-2400;1234567;USA;WCLT Kate 98.7;E;USA;Newark, OH;1;;
 1430;0000-2400;1234567;USA;WCMY 1430;E;USA;Ottawa, IL;1;;
 1430;0000-2400;1234567;USA;WNFO La Ke Buena 1430 AM;S;USA;Sun City Hilton Head, SC;1;;
+1430;0000-2400;1234567;USA;KAMP BetQL Network;E;USA;Denver, CO;1;;
 1430;0000-2400;1234567;EQA;Radio Futura;S;EQA;Quito-l;1;;
 1430;0000-2400;1234567;PRU;Radio Picaflor;S;PRU;El Tambo-d;1;;
 1430;0000-2400;1234567;PRU;RPP Cusco;S;PRU;Cusco-d;1;;
@@ -12255,7 +12265,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1450;0000-2400;1234567;USA;WCEV 1450 AM;E;USA;Cicero, IL;1;;
 1450;0000-2400;1234567;USA;WCON 107.7 The Breeze;E;USA;Cornelia, GA;1;;
 1450;0000-2400;1234567;USA;WCRS Radio;E;USA;Greenwood, SC;1;;
-1450;0000-2400;1234567;USA;1450 Talk Radio WCTC;E;USA;New Brunswick, NJ;1;;
+1450;0000-2400;1234567;USA;WCTC Fox Sports New Jersey;E;USA;New Brunswick, NJ;1;;
 1450;0000-2400;1234567;USA;WCUM Radio Cumbre 1450 AM;S;USA;Bridgeport, CT;1;;
 1450;0000-2400;1234567;USA;1450 WDAD Classic Hits;E;USA;Indiana, PA;1;;
 1450;0000-2400;1234567;USA;All Oldies WDIG 1450;E;USA;Dothan, AL;1;;
@@ -13647,7 +13657,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1540;0000-2400;1234567;USA;WBIN The Light;E;USA;Benton, TN;1;;
 1540;1300-0100;1234567;USA;WGRK K-Country 105.7;E;USA;Greensburg, KY;1;;
 1540;0000-2400;1234567;USA;WJJT 1540 AM;E;USA;Jellico, TN;1;;
-1540;0000-2400;1234567;USA;WKXG Gospel 1540 AM;E;USA;Greenwood, MS;1;;
 1540;0000-2400;1234567;USA;WSIV Inspirational AM 1540;E;USA;East Syracuse, NY;1;;
 1540;0000-2400;1234567;USA;WSMI AM 1540;E;USA;Litchfield, IL;1;;
 1540;0000-2400;1234567;USA;WTXY Kool 103.9;E;USA;Whiteville, NC;1;;
@@ -13923,6 +13932,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1560;0000-2400;1234567;USA;1560 AM / 93.7 FM WBYS;E;USA;Canton, IL;1;;
 1560;0000-2400;1234567;USA;1560 WSEZ;E;USA;Paoli, IN;1;;
 1560;0000-2400;1234567;USA;1560 WGLB;E;USA;Elm Grove, WI;1;;
+1560;0000-2400;1234567;USA;1560 WFME;E;USA;West Orange, NJ;1;;
 1560;0000-2400;1234567;EQA;HCZD1 Radio Ecos Culturales de Urcuquí;S;EQA;Urcuqui;1;;
 1560;0000-2400;1234567;B;ZYH526 Rádio Povo;P;B;Ribeira do Pombal;1;;
 1560;0000-2400;1234567;PRU;OAZ7N Radio María;S;PRU;Wanchaq-d;1;;
@@ -14205,7 +14215,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1580;0000-2400;1234567;USA;WGYM Domestic Church Radio;E;USA;Hammonton, NJ;1;;
 1580;0000-2400;1234567;USA;WHLY La Raza;S;USA;South Bend, IN;1;;
 1580;0000-2400;1234567;USA;WORV 1580 AM;E;USA;Hattiesburg, MS;1;;
-1580;0000-2400;1234567;USA;Joy Radio WPJK 1580 AM;E;USA;Orangeburg, SC;1;;
+1580;0000-2400;1234567;USA;WPJK ESPN Orangeburg;E;USA;Orangeburg, SC;1;;
 1580;0000-2400;1234567;USA;WWDN 104.5 The Dan;E;USA;Danville, VA;1;;
 1580;0000-2400;1234567;USA;WWSJ Joy 1580 & 100.3;E;USA;St. Johns, MI;1;;
 1580;0000-2400;1234567;USA;WZKY Magic 103.3;E;USA;Albemarle, NC;1;;
@@ -14263,7 +14273,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1580;0000-2400;1234567;ARG;La Morena de Itati;S;ARG;Grand Bourg;1;;
 1580;0000-2400;1234567;B;Rádio Grande Vale;P;B;Paraibuna;1;;
 1580;0000-2400;1234567;CLM;Radio María Colombia;S;CLM;Barranquilla-s;1;;
-1580;0000-2400;1234567;CLM;Candela 850 AM;S;CLM;Bogotá D. C.;1;;
+1580;0000-2400;1234567;CLM;HJQT UniMinuto Radio;S;CLM;Bogotá D. C.;1;;
 1580;0000-2400;1234567;CLM;Sistema Cardenal;S;CLM;Sincelejo-h;1;;
 1584;0000-2400;1234567;I;Radio Studio X;I;I;;1;;
 1584;0300-2100;1234567;BHR;BRTC Radio Bahrain;E;ME;Hamala;1;;
@@ -14638,7 +14648,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1602;2100-1540;1234567;J;NHK Radio 2;J;FE;Urakawa;1;;
 1602;2100-1540;1234567;J;NHK Radio 2;J;FE;Enbetsu;1;;
 1602;0845-1415;1234567;PAK;PBC Radio Pakistan North;GJ,HD;SAS;Abbottabad;1;;
-1610;0000-2400;1234567;CAN;CHHA Voces Latinas;S;CAN;Toronto, ON;1;;
+1610;0000-2400;1234567;CAN;CHHA Radio Voces Latinas;S;CAN;Toronto, ON;1;;
 1610;0000-2400;1234567;CAN;CHRN Radio Humsafar;;CAN;Montréal, QC;1;;
 1610;0000-2400;1234567;PRU;Radio Carabamba;S;PRU;Julcan-a;1;;
 1610;0000-2400;1234567;PRU;Radio Inka;S;PRU;Puno-g;1;;
@@ -14650,7 +14660,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1610;0000-2400;1234567;ARG;Radio Guayviyú;S;ARG;Gregorio de Laferrere-b;1;;
 1610;0000-2400;1234567;ARG;Radio Luz del Mundo;S;ARG;Rafael Calzada-b;1;;
 1610;0000-2400;1234567;PRU;Radio San Juan;S;PRU;El Tambo, Bambamarca;1;;
-1610;0000-2400;1234567;ARG;Radio Sentires;S;ARG;Merlo;1;;
 1611;2100-2300;1234567;NOR;Radio Northern Star;NO;NOR;Erdal;1;;
 1611;0000-2400;1234567;AUS;2RF Rete Italia;I;AUS;Griffith/44-46 Altin Street;1;;
 1611;0000-2400;1234567;AUS;4KZ;E;AUS;Karumba;1;;
@@ -14674,6 +14683,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1611;0000-2400;1234567;AUS;Vision Christian Radio;E;AUS;Melbourne/Hoppers Crossing;1;;
 1611;0000-2400;1234567;AUS;Willetton State Senior High School;E;AUS;Willetton;1;;
 1611;0000-2400;1234567;AUS;AFL Nation;E;AUS;Launceston/Abels Hill;1;;
+1611;0000-2400;1234567;AUS;1611 SEN Top End;E;AUS;Northern Territory;1;;
 1620;0000-2400;;CUB;Radio Rebelde;S;Car;;1;;[0119]
 1620;0000-2400;1234567;CUB;Radio Rebelde;S;CUB;Guanabacoa/CTOM2;1;;
 1620;0000-2400;1234567;CUB;CMNL Radio Bayamo;S;CUB;Bayamo;1;;
@@ -14683,11 +14693,15 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1620;0000-2400;1234567;USA;KYIZ The Z Twins;E;USA;Renton, WA;1;;
 1620;0000-2400;1234567;USA;WNRP NewsRadio 92.3 FM/1620 AM;E;USA;Gulf Breeze, FL;1;;
 1620;0000-2400;1234567;USA;WTAW NewsTalk 1620;E;USA;College Station, TX;1;;
+1620;0000-2400;1234567;VIR;WDHP 1620 The Reef;E;VIR;Frederiksted;1;;
 1620;0000-2400;1234567;GRC;Radio Ouranio Toxo;GR;GRC;Larissa;1;;
+1620;0000-2400;1234567;ARG;Radio Sentires;S;ARG;Merlo;1;;
 1620;0000-2400;1234567;PRU;Radio Choquechamaca;S;PRU;Chamaca;1;;
 1620;0000-2400;1234567;ARG;Radio Italia;S;ARG;Villa Martelli;1;;
 1620;0000-2400;1234567;ARG;AM 1620 La Radio;S;ARG;Mar del Plata-b;1;;
 1620;0000-2400;1234567;ARG;Radio Mitre 1620 AM;S;ARG;Cañada de Gómez;1;;
+1620;0000-2400;1234567;MEX;XECSGU Creo Radio;S;MEX;Guachochi;1;;
+1620;0000-2400;1234567;PRU;Radio Choque Chamaca;S;PRU;Chamaca;1;;
 1620;0000-2400;1234567;AUS;2MORO Sawt el Ghad;E;AUS;Sydney/Homebush Bay;1;;
 1620;0000-2400;1234567;AUS;3CW Australian Chinese Radio Cantonese Channel;CA;AUS;Melbourne/Bayswater;1;;
 1620;0000-2400;1234567;AUS;Radio Two;E;AUS;Perth/Mundaring;1;;
@@ -14712,8 +14726,9 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1630;1400-0600;1234567;MEX;XEUT UABC Radio;S;MEX;Tijuana;1;;
 1630;0000-2400;1234567;SLV;Radio Elohim;S;SLV;San Salvador;1;;
 1630;0000-2400;1234567;USA;The Mighty 1630 KCJJ;E;USA;Iowa City, IA;1;;
-1630;0000-2400;1234567;USA;KKGM Hope 1630;E;USA;Fort Worth, TX;1;;
+1630;0000-2400;1234567;USA;KKGM Black Information Network;E;USA;Fort Worth, TX;1;;
 1630;0000-2400;1234567;USA;KRND La Jota Mexicana;S;USA;Cheyenne/Fox Farm, WY;1;;
+1630;0000-2400;1234567;USA;KVAM Your Network of Praise;S;USA;Cheyenne/Fox Farm, WY;1;;
 1630;0000-2400;1234567;GRC;Radio Asteras;GR;GRC;Kilkis;1;;
 1630;0000-2400;1234567;ARG;LRI234 Radio América;S;ARG;San José-a;1;;
 1630;0000-2400;1234567;ARG;Radio Diagonal 1630;S;ARG;La Plata-b;1;;
@@ -14731,12 +14746,12 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1638;0000-2400;1234567;AUS;CRI Easy FM;E;AUS;Brisbane/Long Pocket;1;;
 1638;0000-2400;1234567;AUS;Vision Christian Radio;E;AUS;Armidale;1;;
 1640;0000-2400;1234567;DOM;Radio Juventus Don Bosco;S;DOM;Santo Domingo-a;1;;
-1640;0000-2400;1234567;USA;K-Talk 1640 KBJA;E;USA;Sandy, UT;1;;
-1640;0000-2400;1234567;USA;KDIA 1640 AM;E;USA;Vallejo, CA;1;;
-1640;0000-2400;1234567;USA;KDZR AM 1640 The Patriot;E;USA;Lake Oswego, OR;1;;
+1640;0000-2400;1234567;USA;KBJA K-Talk 1640;E;USA;Sandy, UT;1;;
+1640;0000-2400;1234567;USA;KDIA The Light at the Top of the Dial;E;USA;Vallejo, CA;1;;
+1640;0000-2400;1234567;USA;KDZR La Patrona 1640;S;USA;Lake Oswego, OR;1;;
 1640;0000-2400;1234567;USA;KZLS The Eagle 1640;E;USA;Enid, OK;1;;
 1640;0000-2400;1234567;USA;WSJP Relevant Radio;E;USA;Sussex, WI;1;;
-1640;0000-2400;1234567;USA;WTNI 103.5 The Possum;E;USA;Biloxi (Gulfport), MS;1;;
+1640;0000-2400;1234567;USA;WTNI 106.3 Casino Radio;E;USA;Biloxi (Gulfport), MS;1;;
 1640;0000-2400;1234567;ARG;Radio Boanerges;S;ARG;Posadas-a;1;;
 1640;0000-2400;1234567;ARG;Radio Hosanna;S;ARG;Isidro Casanova-b;1;;
 1641;0020-0040;;FRO;OXJ Tórshavn Radio;E;NEu;t;1;;
@@ -14764,14 +14779,14 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1650;0000-2400;;J;KurushimaMartis x15,x45;J;FE;io;1;;
 1650;0000-2400;;J;Osaka Martis x15,x45;J;FE;es;1;;
 1650;0000-2400;1234567;CAN;CINA 1650;HI,UR;CAN;Mississauga, ON;1;;
-1650;0000-2400;1234567;CAN;CKZW La Radio Gospel;F,E;CAN;Montréal, QC;1;;
+1650;0000-2400;1234567;CAN;CKZW Radio Shalom;F,E;CAN;Montréal, QC;1;;
 1650;0000-2400;1234567;MEX;XEARZ ZER Radio 16-50;S;MEX;México D.F.;1;;
 1650;0000-2400;1234567;USA;KBJD 1650 Radio Luz;S;USA;Denver, CO;1;;
 1650;0000-2400;1234567;USA;KCNZ 1650 The Fan;E;USA;Cedar Falls, IA;1;;
 1650;0000-2400;1234567;USA;KFOX Radio Seoul;K;USA;Torrance, CA;1;;
 1650;0000-2400;1234567;USA;KFSW The Cross 98.7;E;USA;Fort Smith, AR;1;;
 1650;0000-2400;1234567;USA;WHKT Praise 104.9;E;USA;Portsmouth, VA;1;;
-1650;0000-2400;1234567;USA;KSVE José 1650 AM;S;USA;El Paso, TX;1;;
+1650;0000-2400;1234567;USA;KSVE La Suavecita 93.9;S;USA;El Paso, TX;1;;
 1650;0000-2400;1234567;ARG;Radio Regional AM;S;ARG;Laboulaye-b;1;;
 1650;0000-2400;1234567;ARG;Radio A;S;ARG;Adrogue;1;;
 1650;0000-2400;1234567;ARG;Antares AM;S;ARG;Pilar-b;1;;
@@ -14794,13 +14809,14 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1659;1833-1848;;NOR;Telenor Kystradio;NO;NEu;at;1;;
 1659;2233-2248;;NOR;Telenor Kystradio;NO;NEu;at;1;;
 1659;2303-2318;;NOR;Telenor Kystradio;E;NEu;at;1;;
+1660;0000-2400;1234567;USA;WCNZ  Relevant Radio;E;USA;Marco Island, FL;1;;
 1660;0000-2400;1234567;PTR;WGIT Faro de Santidad;S;PTR;Canóvanas;1;;
 1660;0000-2400;1234567;USA;KBRE 105.7 The Bear;E;USA;Merced, CA;1;;
 1660;0000-2400;1234567;USA;KQWB Bison 1660;E;USA;West Fargo, ND;1;;
 1660;0000-2400;1234567;USA;KRZI ESPN Central Texas;E;USA;Waco, TX;1;;
-1660;0000-2400;1234567;USA;KWOD 1660 The Score;E;USA;Kansas City, KS;1;;
+1660;0000-2400;1234567;USA;KWOD 1660 The Bet;E;USA;Kansas City, KS;1;;
 1660;0000-2400;1234567;USA;WBCN Fox Sports Radio Charlotte;E;USA;Charlotte, NC;1;;
-1660;0000-2400;1234567;USA;WQLR Kalamazoos 1660 The Fan;E;USA;Kalamazoo, MI;1;;
+1660;0000-2400;1234567;USA;WTOU 95.5 The Touch;E;USA;Kalamazoo, MI;1;;
 1660;0000-2400;1234567;USA;WWRU K-RADIO AM 1660;E;USA;Jersey City/Carlstadt, NJ;1;;
 1660;0000-2400;1234567;ARG;Radio Revivir;S;ARG;Isidro Casanova/Gregorio de Laferrère;1;;
 1660;0000-2400;1234567;ARG;LRI232 Radio Ciudad of Nogoyá;S;ARG;Nogoyá;1;;
@@ -14819,11 +14835,11 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1665;0000-2400;1234567;AUS;Radio Rhythm;E;AUS;Brisbane/Bald Hills;1;;
 1665;0000-2400;1234567;AUS;Vision Christian Radio;E;AUS;Melbourne/Vermont;1;;
 1670;0000-2400;1234567;CAN;CJEU Radio Jeunesse;F;CAN;Gatineau, QC;1;;
-1670;0000-2400;1234567;DOM;La Voz del Yuna;S;DOM;Bonao;1;;
+1670;0000-2400;1234567;DOM;HIC81 La Voz del Yuna;S;DOM;Bonao;1;;
 1670;0000-2400;1234567;MEX;XEANAH Radio Anáhuac;S;MEX;Huixquilucan;1;;
 1670;0000-2400;1234567;USA;KHPY ESNE Radio;S;USA;Moreno Valley, CA;1;;
-1670;0000-2400;1234567;USA;News Talk Superstation KQMS;E;USA;Redding, CA;1;;
-1670;0000-2400;1234567;USA;WMGE Fox Sports 1670;E;USA;Dry Branch, GA;1;;
+1670;0000-2400;1234567;USA;KQMS News Talk Superstation;E;USA;Redding, CA;1;;
+1670;0000-2400;1234567;USA;WMGE Black Information Network;E;USA;Dry Branch, GA;1;;
 1670;0000-2400;1234567;USA;WOZN 106.7FM/1670AM The Zone;E;USA;Madison, WI;1;;
 1670;0000-2400;1234567;ARG;Radio Rubi;S;ARG;Rafael Castillo-a;1;;
 1670;0000-2400;1234567;ARG;Radio Gratitud;S;ARG;Glew-a;1;;
@@ -14855,23 +14871,26 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1680;2233-2248;;NOR;Telenor Kystradio;NO;NEu;f;1;;
 1680;2315-2330;;NOR;Telenor Kystradio;E;NEu;f;1;;
 1680;0000-2400;1234567;DOM;Radio Senda;S;DOM;San Pedro de Macorís;1;;
-1680;0000-2400;1234567;USA;TalkRadio 1680 KGED;E;USA;Fresno, CA;1;;
-1680;0000-2400;1234567;USA;KNTS Radio Luz;S;USA;Seattle, WA;1;;
-1680;0000-2400;1234567;USA;KRJO 99.7 My FM;E;USA;Monroe, LA;1;;
+1680;0000-2400;1234567;USA;KGED Bendita Eucaristia Radio;E;USA;Fresno, CA;1;;
+1680;0000-2400;1234567;USA;KNTS La Patrona 1680 AM;S;USA;Seattle, WA;1;;
+1680;0000-2400;1234567;USA;KRJO 99.7 The Legend;E;USA;Monroe, LA;1;;
 1680;0000-2400;1234567;USA;WOKB 1680 AM;E;USA;Winter Garden, FL;1;;
-1680;0000-2400;1234567;USA;WPRR Public Reality Radio;E;USA;Ada, MI;1;;
-1680;0000-2400;1234567;USA;La Unika WTTM 1680 AM;S;USA;Lindenwold, NJ;1;;
+1680;0000-2400;1234567;USA;WPRR 102.5 The Ride;E;USA;Ada, MI;1;;
+1680;0000-2400;1234567;USA;WTTM La Unika 1680 AM;S;USA;Lindenwold, NJ;1;;
+1680;0000-2400;1234567;ARG;Universidad Tecnológica Nacional ;S;ARG;;1;;
 1683;0000-2400;1234567;AUS;Greek Radio;GR;AUS;Sydney/Lakemba (27 Leslie St);1;;
 1683;0000-2400;1234567;AUS;Greek Radio;GR;AUS;Melbourne;1;;
 1689;0803-0818;;CNR;Las Palmas Radio;S;SEu;lm;1;;
 1689;1233-1248;;CNR;Las Palmas Radio;S;SEu;lm;1;;
 1689;1903-1918;;CNR;Las Palmas Radio;S;SEu;lm;1;;
-1690;0000-2400;1234567;CAN;CHTO AM 1690;GR;CAN;Toronto/Scarborough, ON;1;;
-1690;0000-2400;1234567;CAN;CJLO Underground Radio;E;CAN;Montréal, QC;1;;
+1690;0000-2400;1234567;CAN;CHTO Toronto’s Multicultural Radio;GR;CAN;Toronto/Scarborough, ON;1;;
+1690;0000-2400;1234567;CAN;CJLO Concordia University Radio;E;CAN;Montréal, QC;1;;
 1690;0000-2400;1234567;USA;KDMT Relevant Radio;E;USA;Arvada, CO;1;;
 1690;0000-2400;1234567;USA;KFSG Radio Poder;S;USA;Roseville, CA;1;;
-1690;0000-2400;1234567;USA;1690 AM WPTX;E;USA;Lexington Park, MD;1;;
-1690;0000-2400;1234567;USA;AM 1690 WVON;E;USA;Berwyn, IL;1;;
+1690;0000-2400;1234567;USA;WPTX Songs of Your Life;E;USA;Lexington Park, MD;1;;
+1690;0000-2400;1234567;USA;WVON Black Information Network;E;USA;Berwyn, IL;1;;
+1690;0000-2400;1234567;USA;WMLB Freedom 1690;E;USA;Avondale Estates, GA;1;;
+1690;0000-2400;1234567;VIR;WGOD Radio 97.9FM;E;VIR;Charlotte Amalie, USVI;1;;
 1690;0000-2400;1234567;ARG;Radio Apocalipsis II;S;ARG;San Justo-c;1;;
 1692;0233-0248;;NOR;Telenor Kystradio;NO;NEu;ro;1;;
 1692;0633-0648;;NOR;Telenor Kystradio;NO;NEu;ro;1;;
@@ -14911,13 +14930,13 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1698;1303-1318;;E;Coruña Radio;S;SEu;c;1;;
 1698;1903-1918;;E;Coruña Radio;S;SEu;c;1;;
 1700;0000-2400;1234567;CAN;AIR Algonquin;E;CAN;Ottawa/Algonquin College, ON;1;;
-1700;0000-2400;1234567;MEX;XEPE La Tremenda;S;MEX;Tijuana;1;;
+1700;0000-2400;1234567;MEX;XEPE Heraldo Radio;S;MEX;Tecate;1;;
 1700;0000-2400;1234567;USA;KBGG 1700 The Champ;E;USA;Des Moines, IA;1;;
-1700;0000-2400;1234567;USA;WEUP 1700 AM;E;USA;Huntsville, AL;1;;
+1700;0000-2400;1234567;USA;WEUP Huntsville’s Heritage Station;E;USA;Huntsville, AL;1;;
 1700;0000-2400;1234567;USA;WJCC Radio Mega 1700 AM;E;USA;Miami Springs, FL;1;;
 1700;0000-2400;1234567;USA;WRCR AM 1700;E;USA;Ramapo, NY;1;;
 1700;0000-2400;1234567;USA;KVNS Fox Sports Radio 1700;E;USA;Brownsville (Villa Nueva), TX;1;;
-1700;0000-2400;1234567;USA;KKLF Banda 13 Radio;S;USA;Richardson, TX;1;;
+1700;0000-2400;1234567;USA;KKLF Jalapeño Radio Network;S;USA;Richardson, TX;1;;
 1700;0000-2400;1234567;ARG;Radio City;S;ARG;Almirante Brown;1;;
 1701;0000-2400;1234567;AUS;Islamic Voice Radio;A,E;AUS;Melbourne/223-224 Union Road;1;;
 1701;0000-2400;1234567;AUS;Radio Brisvaani;PJ,HI;AUS;Brisbane/Seventeen Mile Rocks;1;;
@@ -16112,19 +16131,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 3955;2200-0459;;USA;Brother Stair;E;Eu;/D-r;1;1608;
 3959;1950-1800;;KRE;KCBS Pyongyang;K;KRE;k;1;;[0621]
 3965;0000-2400;;F;Radio France DIGITAL;F;Eu;;1;;
-3975;0600-0700;13456;D;Shortwave Radio;E;WEu;wa;6;2803;2505
-3975;0600-0700;Tu,Su;D;Shortwave Radio;I;WEu;wa;6;2803;2505
-3975;0700-1500;;D;Shortwave Radio;E;WEu;wa;6;2803;2505
-3975;0800-0900;Su;D;Shortwave Radio;I;WEu;wa;6;2803;2505
-3975;1400-1500;SaSu;D;Shortwave Radio;I;WEu;wa;6;2803;2505
-3975;1500-2200;;D;Shortwave Radio;E;WEu;wa;6;2803;2505
-3975;1800-1900;2367;D;Shortwave Radio;I;WEu;wa;6;2803;2505[0321]
-3975;2000-2100;Mo;D;Shortwave Radio;I;WEu;wa;6;2803;2505
-3975;2100-2200;Sa;D;Shortwave Radio;I;WEu;wa;6;2803;2505
-3975;1500-1600;;D;Shortwave Radio;E;WEu;wa;6;2605;3107
-3975;1600-1800;;D;Shortwave Radio;E;WEu;wa;6;2605;3107
-3975;1800-2200;;D;Shortwave Radio;E;WEu;wa;6;2605;3107
-3975;1800-2200;;D;Shortwave Gold;E;WEu;wa;2;0108;
+3975;1600-2200;1234567;D;Shortwave Radio;E,D;WEu;wa;6;;[1021]
 3980;0500-0800;;CLA;Echo of Hope VOH;K;KRE;/KOR-o;1;;
 3980;0800-0100;;CLA;Echo of Hope VOH;K;KRE;/KOR-o;1;;[0421]
 3980;0930-0950;;CLA;Echo of Hope VOH;E;KRE;/KOR-o;1;;
@@ -17953,8 +17960,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5950;0030-0100;Su;USA;World of Radio;E;ENA;o;1;0107;[0821]
 5950;0000-0400;;USA;WRMI Radio Miami Int.;E;ENA;o;1;;
 5950;2100-2400;;USA;WRMI Radio Miami Int.;E;ENA;o;1;;
-5950;0100-0130;1;G;Radio Emma Toc;E;NAm;/USA-o;6;;
-5950;2200-2230;2;G;Radio Emma Toc;E;NAm;/USA-o;6;;
 5952.4;0100-0200;Su;BOL;Emisora Pio XII;AY;BOL;;1;;
 5952.4;0200-0237;Su;BOL;Emisora Pio XII;S,Q;BOL;;1;;[0220]
 5952.4;0237-0500;1Jan;BOL;Emisora Pio XII;S,Q;BOL;;1;2512;0101[0119]
@@ -18693,6 +18698,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6160;0300-0500;Sa;USA;WBCQ The Planet;E;NAm;q;2;;[1120]
 6160;2300-2400;Th-Sa;USA;WBCQ The Planet;E;NAm;q;5;;
 6160;2200-2230;Su;USA;World of Radio;E;NAm;q;2;;[0621]
+6160;0800-1600;1234567;D;Shortwave Radio;E,D;WEu;wa;6;;[1021]
 6160.1;0900-1400;;B;Rádio Rio Mar;P;SAm;mr;1;;[0620]
 6160.3;1015-1040;irr;B;R.Boa Vontade, P.Alegre;P;B;E;1;;[0620]
 6160.3;1040-2300;;B;R.Boa Vontade, P.Alegre;P;B;E;1;;[0821]
@@ -23720,8 +23726,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9955;2300-2330;Su;USA;WRMI Radio Miami Int.;S;LAm;o;5;;
 9955;2300-2400;Sa;USA;WRMI Radio Miami Int.;E;LAm;o;5;;
 9955;2330-2400;Su;USA;WRMI Radio Miami Int.;E;LAm;o;5;;
-9955;2200-2230;2;G;Radio Emma Toc;E;NAm;/USA-o;6;;
-9955;0000-0030;4;G;Radio Emma Toc;E;NAm;/USA-o;6;;
 9959;0000-2400;;F;French Navy ALE;;F;;1;;
 9960;1730-1930;;PHL;Radyo Pilipinas;TAG;ME;t;0;;
 9960;1230-1330;;USA;Radio Free Asia;KH;SEA;/MRA-t;6;2107;3110
@@ -30595,7 +30599,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 25775;1500-1600;;F;Radio France Int.;SWA;EAf;;6;0509;3010
 25800;0000-2400;;DNK;World Music Radio;E;Eu;a;1;1406;[0721]
 25930;0000-2400;;I;Guardia di Finanza ALE;;I;;1;;
-26060;0000-2400;;HNG;Budapest University Tech;HU;HNG;b;6;2803;3105[0521]
+26060;0000-2400;;HNG;Budapest UniversityTech DIGITAL;HU;HNG;b;6;2803;3105[0521]
 26163;0000-2400;;GRC;SVO Olimpia Radio;-TY;SEu;o;1;;[0817]
 26172;0000-2400;;I;Romaradio IAR;I;SEu;r;1;;
 26871.6;0000-2400;;USA;Veterans Health Adm.ALE;;USA;;1;;
