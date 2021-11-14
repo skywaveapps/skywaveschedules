@@ -634,6 +634,11 @@ nwc us/australian navy
 oceansseglingsklubben
 odessa radio
 ok0epb pendulum
+ok0eu beacon d
+ok0eu beacon h
+ok0eu beacon m
+ok0eu beacon r
+ok0eu beacon u
 okdl iap cas beacon
 okhotsk radio
 okinawa fishery radio
@@ -812,6 +817,7 @@ slovak military ale
 slovenian military ale
 sochi aero shtat
 spanish navy fsk
+spl polish rescue r.
 ssca doodah transatlnet
 ssca radio service net
 stavropol aero tom
