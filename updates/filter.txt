@@ -724,6 +724,7 @@ rdl russian navy
 rea4 airforce meteo x40
 red crescent ale
 reykjavik hfdl (id3)
+reykjavik radio
 rfid devices
 riga rescue radio dsc
 rio de janeiro radio dsc
