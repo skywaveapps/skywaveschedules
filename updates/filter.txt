@@ -11,6 +11,7 @@
 6ww french navy stanag
 7ta alger radio
 7to oran radio
+8bb35 jakarta bmg meteo
 9kk kuwait radio
 9mb malaysia navy lumut
 9vf kyodo news agcy fax
@@ -19,6 +20,7 @@
 a3a nukualofa radio
 aberdeen coastguard wx
 abidjan radio
+abu dhabi onshore oil
 adelaide radio
 agadir radio
 agana guam hfdl (id16)
@@ -27,6 +29,7 @@ air-horn channel marker
 aktyubinskaero ambarcik
 al muharraq hfdl (id15)
 al muharraq hfdl (id2)
+al mutawa marine works
 alarm channel marker
 albanian government ale
 albrook hfdl (id11)
@@ -35,21 +38,27 @@ algerian military ale
 algiers radio
 almaty aero
 als162 time signals
+amamapare radio
 amazon military ale
 amderma aero
 american red cross ale
+anadyr radio
 angolan police ale
 annaba radio
 antanan.volmet x25,x50
+apsua radio
 aqaba radio dsc
 aqp pakistan navy
+archirodon constr.co.
 arecibo hf atmos.tests
 arkhangelsk aero
 armenian military net
 armor french ny usb/fsk
 armyaviation scptoc ale
+arrecife radio
 ashgabat aero
 astana aero
+astrakhan radio
 astrakhanaero serioshka
 auckland hfdl (id5)
 auckland radio
@@ -66,10 +75,13 @@ baku aero sardina
 bangkok meterolog.radio
 bangkok radio dsc
 bangkok volmet x10,x40
+bari radio ipb
 barrow hfdl (id9)
+basuo radio
 bdf2 shanghai fax
 beijing ale
 beijing volmet x15,x45
+belaya gora radio
 belfast coast guard
 belgian navy stanag
 ben thuy radio
@@ -92,8 +104,11 @@ brisbane radio
 bucuresti aero
 bulgaria diplo
 ca mau radio
+cabo de gata radio
+cabo la nao radio
 cairns radio
 calif.emergency sce.ale
+cam ranh radio
 can tho radio
 canarias hfdl (id17)
 canterbury mountain r.
@@ -115,6 +130,7 @@ cbx bahia felix radio
 ce.north isl.mountain.r
 central weather bureau
 cfh halifax meteo fax
+cfh halifax radio
 cfh halifax stanag
 channel marker a
 channel marker b
@@ -145,6 +161,7 @@ channel marker z
 chelyabinsk aero
 chelyabinsk aero brazka
 chennai radio
+cherskiy radio
 chile navy ale
 chilung keelung radio dsc
 china military ale
@@ -152,6 +169,7 @@ chinese military ale
 chinese navy ale
 chu canada
 chu ottawa
+civitavecchia radio ipd
 ckn aldergrove stanag
 clt habana radio
 cocesna cenamer control
@@ -159,6 +177,7 @@ codar sweeper
 colombian army ale
 colombian navy ale
 colombo radio
+columbia coastguard
 commsta portsmouth va dsc
 constanta radio
 cordoba volmet x25, x35
@@ -178,9 +197,10 @@ crossru la reunion
 crossru la réunion
 cruiseemail
 cta nato stanag
+cua ong radio
 cuban babbler numbers
-cuban spy numers
 cuban spy numbers
+cuban spy numers
 cwc30 la paloma radio
 cwc34 punta del este
 cwc36 rio branco radio
@@ -211,6 +231,7 @@ dhj58 marine
 dhj58 marine stanag
 dhm91 german air force
 dho38 german navy
+dikson radio
 doha radio
 dushanbe aero
 dutch military ale
@@ -234,6 +255,7 @@ efr teleswitch
 egyptian ale
 ejercito del aire
 elista aero triol
+eqi abbas radio
 f01 russian spy numbers
 f03f polish spy numbers
 f03i polish spy numbers
@@ -248,6 +270,7 @@ fanny french ny usb/fsk
 fav22 morse training
 fed.aviation admin. ale
 fema emergency ale
+finisterre radio
 fish and wildlife ale
 fjy5 arq-e3 192bd/400hz
 forest moor ale
@@ -292,8 +315,10 @@ gander radio c
 gander radio f
 gander volmet x20,x50
 gaurdia civil ale
+gazprom nogliki radio
 gendameria chile ale
 gendarmeria chile ale
+genova radio icb
 georgia borderguard ale
 georgia coast guard ale
 german coast guard ale
@@ -323,7 +348,6 @@ hlg seoul radio
 hlj seoul radio
 hlk gangneung radio
 hll seoul meteo
-hll seoul meteorological radio
 hll seoul meteo fax
 hll seoul meteo x00-x05
 hll seoul meteo x00-x10
@@ -333,6 +357,7 @@ hll seoul meteo x12-x20
 hll seoul meteo x20-x30
 hll seoul meteo x20-x37
 hll seoul meteo x37-x40
+hll seoul meteorological radio
 hln gunsan radio
 hlo seoul radio
 hlw seoul radio
@@ -340,8 +365,10 @@ hma pyongyang meteo
 ho chi minh city r.xvs
 ho chi minh ville radio dsc
 hon gai radio
+hong kong observatory
 hongkong volmet x15,x45
 honolulu volmet x25,x55
+hornafjördur radio tft
 hsw64 bangkok meteo fax
 hue radio
 humber coastguard dsc
@@ -369,6 +396,7 @@ iraqi security fcs.ale
 irish naval service
 irit weather radio
 irkutsk volmet x25,x55
+isafjördur radio tfz
 isewan martis x00,x30
 isewan martis x15,x45
 isla de pascua radio
@@ -376,8 +404,10 @@ israeli air force ale
 italcable
 italian air force ale
 italycable
+ivashka-2 radio
 jakarta radio
 jamaica coast guard wx
+jamaica coastguard wx
 jeddah radio dsc
 jfc misaki fisheries fax
 jfe itoman marine r.
@@ -461,6 +491,9 @@ jwt norwaymil stanag
 jxn marine norway
 jxu ny bodo stanag
 kaliningrad radio uiw23
+kamenka-1 radio
+kamskoye ustye radio
+kan gimmel
 kanmon martis x00,x30
 kanmon martis x15,x45
 karachi volmet x15,x45
@@ -482,9 +515,12 @@ khantym aero berezhny
 khartoum radio
 kien giang radio
 kinshasa radio
+kirinskoye radio
 klb seattle radio
 kolkata radio
 kolkata volmet x05,x35
+komsomolsk-1 radio
+korsakov radio 12
 kotlas aero
 kph camspac point reyes, ca dsc
 kph point reyes, ca
@@ -500,6 +536,7 @@ l2c buenos aires radio
 l2t mar del plata radio
 l2w comodoro rivadavia
 l2w comodoro rivadavia dsc
+labytnangi radio
 lae aero
 las palmas radio
 las palmas radio dsc
@@ -509,6 +546,8 @@ lba norwaymil stanag
 lbj norway navy
 lima radio
 lithuanian navy ale
+livorno radio ipl
+liwa marine services
 lol buenos aires
 lyngby radio
 lzw varna radio
@@ -517,8 +556,10 @@ m01 spy numbers 197
 m01 spy numbers 463
 m12 spy numbers
 m14 spy numbers 617
+machichaco radio
 madrid radio
 magadan radio
+magadan radio 6
 maikop aero atlantida3
 makhachkala aero ridan
 malin head wx
@@ -527,6 +568,7 @@ malta radio dsc
 manila radio
 mar del plata
 mar del plata dsc
+marambio base
 marconi radio int.
 mauritania military ale
 mauritius radio
@@ -553,10 +595,13 @@ msf time from npl
 mumbai radio
 mumbai radio dsc
 mumbai volmet x25,x55
+murmansk 1 mrcc
+murmansk mrcc
 murmansk r. udk (mtk-2)
 murmansk radio
+murmansk radio udk
+murmansk radio udk2
 myeik radio dsc
-n'djamena radio
 n'djamena radio
 naa us navy cutler
 nadi radio
@@ -566,12 +611,14 @@ nagoya martis x15,x45
 naha radio cwp
 nalchik aero tosno
 naryan-mar aero
+naryan-mar radio 2
 nato lisboa stanag
 nau isabela rtty
 nau us navy stanag
 navy athens stanag
 nbc port moresby
 ndjamena radio
+neskaupstadur radio tfm
 netherlands coastgd wx
 new york radio
 new york radio a
@@ -604,6 +651,7 @@ noj uscg kodiak digital
 northland radio zmh292
 norway navy stanag
 nouakchott radio
+novorossiysk mrcc
 novosib. aero katyusha
 novosibir volmet x10,40
 novosibirsk aero
@@ -645,12 +693,15 @@ okinawa fishery radio
 okpr iap cas beacon
 okpv iap cas beacon
 oktr iap cas beacon
+oktyabrskiy radio
 okva iap cas beacon
+oleniy radio
 olimpia radio
 olimpia radio dsc
 omsk aero kapel
 omsk aero keepi
 omsk aero keepl
+omsk radio
 orenburg aero
 osaka harbor x20-x30
 osaka harbor x30-x40
@@ -691,28 +742,173 @@ perm aero
 perth radio
 pescador preacher
 peterburg aero
+petropavlovsk fishing
+petropavlovsk radio ufh
+pevek radio 3
 pfc navy den helder
 phan rang radio
 phan tiet radio
 phu yen radio
 piarco radio car-b
+pka sabang radio
+pka23 singkel radio
+pka26 sinabang radio
+pka27 susoh radio
+pka4 sabang radio
+pka5 ulee-lheue radio
+pkb belawan radio
+pkb20 lhokseumawe radio
+pkb22 kuala langsa r.
+pkb29 gunung sitoli r.
+pkb3 sibolga radio
+pkb52 lhokseumawe radio
+pkc palembang radio
+pkc2 plaju radio
+pkc3 jambi radio
+pkc4 panjang radio
+pkc4/6 panjang radio
+pkc5 pangkal balam r.
+pkc53 bengkulu radio
+pkc62 kuala tungkal r.
+pkc7 muntok radio
+pkd surabaya radio
+pkd2 panarukan radio
+pkd20 ende radio
+pkd22 meneng radio
+pkd23 probolinggo radio
+pkd3 lembar radio
+pkd30 celukan bawang r.
+pkd33 bawean radio
+pkd34 bima radio
+pkd35 kalabahi radio
+pkd36 kalianget radio
+pkd4 benoa radio
+pkd48 reo radio
+pkd5 benoa radio
+pkd50 larantuka radio
+pkd51 gresik radio
+pkd52 atapupu radio
+pkd57 masalembo radio
+pkd61 padang bai radio
+pkd62 waingapu radio
+pkd63 maumere radio
+pkd67 badas radio
+pkd68 benoa radio
+pkd70 gilimanuk radio
+pkd95 labuhan lombok r.
+pkd99 benete radio
+pke amboina radio
+pke24 tual radio
+pke33 dobo radio
+pke37 sanana radio
+pke5 ternate radio
+pke61 tobelo radio
+pke7 fatujuring radio
+pkf makassar radio
+pkf25 banabungi radio
+pkf26 bau-bau radio
+pkf3 kendari radio
+pkf31 palopo radio
+pkf33 raha radio
+pkf336 pomalaa radio
+pkf34 kolaka radio
+pkf37 kolonodale radio
+pkf4 pare-pare radio
+pkg banjarmasin radio
+pkg2 sampit radio
+pkg30 kumai radio
+pkg31 batu licin radio
+pkj tanjung uban radio
+pkj28 sei kolak kijang
+pkj29 tarempa radio
+pkj3 pulau sambu radio
+pkj30 dabo singkep r.
+pkj32 natuna radio
+pkj4 tanjung balai r.
+pkk kupang radio
+pkk6 seba radio
+pkm bitung radio
+pkm24 siau radio
+pkm25 tahuna radio
+pkm26 manado radio
+pkm27 kwandang radio
+pkm3 bitung radio
+pkm4 parigi radio
+pkm44 pantoloan radio
+pkm5 luwuk radio
+pkm6 poso radio
+pkm7 toli-toli radio
+pkm8 gorontalo radio
+pkm81 banggai radio
+pkm9 donggala radio
+pkn balikpapan radio
+pkn2 balikpapan radio
+pkn5 tanjung santan r.
+pkn6 samarinda radio
+pkn7 bontang radio
+pko tarakan radio
+pko20 tanjung selor r.
+pko8 nunukan radio
+pkp dumai radio
+pkp3 selat panjang r.
+pkp35 pekanbaru radio
+pkp38 batu ampar radio
+pkp44 rengat radio
+pkp45 tembilahan radio
+pkp50 bengkalis radio
+pkp59 panipahan radio
+pkp60 bagan siapiapi r.
+pkr semarang radio
+pkr23 pekalongan radio
+pkr24 jepara radio
+pkr25 juwana radio
+pkr26 tegal radio
+pkr3 cilacap radio
+pkr6 cilacap radio
+pks pontianak radio
+pkv teluk bayur radio
+pkv4 sipora radio
+pkx jakarta radio
+pkx2 jakarta radio
+pky2 biak radio
+pky22 sorong radio
+pky23 fak-fak radio
+pky25 kaimana radio
+pky3 manokwari radio
+pky30 nabire radio
+pky31 serui radio
+pky33 bintuni radio
+pky34 sarmi radio
+pky4 sorong radio
+pky5 merauke radio
+pky7 sorong radio
+pky8 sorong radio
+pky9 sorong radio
+pkz2 cirebon radio
+pkz20 sunda kelapa r.
+pkz34 cigading radio
 plath career sstv/2fsk
+pnk jayapura radio
 pointe noire radio
 polish army ale
+poronaisk radio 1
 port hedland radio
 ppe observatorio nac.
 ppo olinda radio fax
+preobrazhenie radio rtq
 protection civile ale
 punta carretas radio wx
 pwz33 rio d.j.naval wx
 pwz33 rio dj meteo fax
 pzn paramaribo radio
 qui phong radio
+quy nhon radio
 raa russian navy
 radio vacation peche
 radionaval horta
 radionaval n.ribeiro
 radionaval porto santo
+raduzhny radio uby
 raf volmet
 raf volmet military 1
 ral2 ru.navy caspiansea
@@ -723,8 +919,10 @@ rcv russian navy
 rdl russian navy
 rea4 airforce meteo x40
 red crescent ale
+reydovo-2 radio
 reykjavik hfdl (id3)
 reykjavik radio
+reykjavik radio tfa
 rfid devices
 riga rescue radio dsc
 rio de janeiro radio dsc
@@ -746,18 +944,20 @@ rostov volmet x25,55
 russian air force
 russian naval air
 russian navy
+russkoye ustye radio
 rwm moscow
 s06 russian spy numbers
 s06a spy numbers
 s06s spy numbers
 s11 polish spy numbers
 s11a polish spy numbers
+sabetta radio
 safi radio
 saint petersburg radio
-saint petersburg radio
+saint petersburg radio dsc
+sakhalin radio
 sal radio
 salekhard aero
-salekhard aerofabrikant
 salekhard aerofabrikant
 samara aero
 samara aero amba
@@ -808,6 +1008,7 @@ shanwick radio f
 shares emergency net
 shares emergeny net
 shetland coastguard wx
+siglufjördur radio tfx
 singapore radio
 singapore volmet x20,x50
 singaporevolmet x20,x50
@@ -819,14 +1020,19 @@ slovenian military ale
 sochi aero shtat
 spanish navy fsk
 spl polish rescue r.
+ssb meteorogical broadcasting
 ssca doodah transatlnet
 ssca radio service net
+st petersburg radio ugc
 stavropol aero tom
+sterlegova radio
 stockholm radio
+stockholm radio (air)
+stolbovoy radio
 stornoway coastguard wx
 stpeterbg volmet x05,35
-ssb meteorogical broadcasting
 surgut aero tsadik-dva
+svetly radio kaliningr.
 svj4 athens meteo fax
 svo olimpia radio
 swa18 athens meteo fax
@@ -835,15 +1041,18 @@ swedish navy msk 200/79
 sxv ny spata att.stanag
 sydney radio
 syktyvkar aero
+syktyvkar aero sivkar
 syktyvkar volmet x00,30
 t channel marker
 t channel marker 1050hz
+taganrog radio
 tah turk radio istanbul
-tah turk radio istanbul dsc
 tah turk radio istanbul dsc
 tahiti radio
 tallinn radio
 tallinn volmet
+taman radio
+target engineering con.
 tarifa radio
 tarko-sale aero
 tashkent aero
@@ -857,10 +1066,15 @@ telenor maritim radio
 telnor kystradio
 texas dot net
 tfk grindavik
+thanh hoa radio
 the buzzer
 the pip (kaplya) rostov
 the pip, rostov
 the squeaky wheel
+tiksi radio 1
+tiksi radio 2
+tiksi radio 6
+tiksi radio 7
 time signal
 tokyo martis x00-x30
 tokyo martis x00,x30
@@ -871,19 +1085,27 @@ tokyo volmet x10,x40
 trenton military
 trenton volmet
 tripoli radio
+tulagino radio
 tunisian military ale
 tunisian police ale
 turk.afad emergency ale
 turkmenbashi aero
 tyumen aero
+uat moscow radio
+ubl4 bulgin radio
 uce2 arkhangelsk radio
+udb2 kholmsk radio
 ufa aero
+ufm3 nevelsk radio
+ufn novorossiysk radio
+uge arkhangelsk radio
 uk dhfcs stanag
 uk mil.dhfcs stanag
 uk mod dhfcs
 uk mod dhfcs stanag
 ukrainian military ale
 un minusma ale
+united seas marine sces
 ural aero
 us air force ale
 us air force mars net
@@ -893,6 +1115,8 @@ us army mars net
 us embassies ale
 us national guard ale
 us navy rtty/stanag
+ust-kamchatsk radio 5
+ustyevoye radio
 v07 russian spy numbers
 v15 spy numbers
 v24 numbers station
@@ -904,6 +1128,7 @@ vaj prince rupert radio
 valencia radio
 valencia radio dsc
 valentia radio wx
+varandey gazprom radio
 vcf les escoumins qc
 vco sydney meteo fax
 vco sydney radio ns
@@ -911,6 +1136,7 @@ vcp placentia nl
 vcs halifax radio
 vega military messages
 venezuela navy
+vestmannäyjar radio tfv
 veterans health adm.ale
 vff iqaluit meteo
 vff iqaluit meteo fax
@@ -919,6 +1145,9 @@ vff iqaluit radio dsc
 vietnamese spy numbers
 vitebsk aero
 vladikavkaz aero stavok
+vladivostok radio
+vladivostok radio ufl
+vladivostok radio ufz
 vmc charleville met fax
 vmc charleville ql
 vmt hobart radio wx
@@ -927,6 +1156,7 @@ vmw wiluna wa
 vmw wiluna wa dsc
 voj port aux basques nl
 vok goose bay nl
+vok labrador coastguard
 volgograd aero avrora
 vologda aero
 vorkuta aero
@@ -963,18 +1193,26 @@ xsh basuo radio
 xsi sanya radio
 xsj zhanjiang radio
 xsl fuzhou radio
+xsm xiamen radio
 xsq guangzhou r.
 xsq guangzhou r. telex
 xsq guangzhou radio
 xsq guangzhou radio x30
+xsr haikou radio
+xsu yantai radio
 xsv tianjin radio
 xsv tianjin radio (x00)
 xsv tianjin radio telex
+xsz dalian radio
 xsz dalian radio (x05)
 xsz dalian radio (x40)
 xvt da nang radio dsc
+yagry arkhangelsk radio
+yakutsk radio 1
 yangon radio
 yekaterinb.aero alenki
+yeysk radio 1
+zaporozhye radio
 zbm bermuda harbor
 zhousan marine met.r.
 zhoushan marine met.r.
@@ -982,3 +1220,4 @@ zklf wellington met fax
 zlm taupo maritime r.
 zsc cape town radio
 zsj capenaval meteo fax
+zyryanka-1 radio
