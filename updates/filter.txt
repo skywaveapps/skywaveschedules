@@ -125,6 +125,7 @@ cbp puerto montt radio
 cbt talcahuano radio
 cbv valparaiso
 cbv valparaiso met fax
+cbv*valparaiso met fax
 cbv valparaiso radio
 cbx bahia felix radio
 ce.north isl.mountain.r
