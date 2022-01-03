@@ -10,6 +10,7 @@
 6ww dakar stanag
 6ww french navy stanag
 7ta alger radio
+7tb annaba radio
 7to oran radio
 8bb35 jakarta bmg meteo
 9kk kuwait radio
