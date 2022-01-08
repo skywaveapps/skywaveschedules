@@ -180,10 +180,12 @@ colombian army ale
 colombian navy ale
 colombo radio
 columbia coastguard
+com.rivadaviavolmet x30
 commsta portsmouth va dsc
 constanta radio
 cordoba volmet x25, x35
 córdoba volmet x25, x35
+córdoba volmet x25, x45
 corps of engineers ale
 coruna radio
 coruña radio
@@ -258,6 +260,7 @@ egyptian ale
 ejercito del aire
 elista aero triol
 eqi abbas radio
+ezeiza volmet x01
 f01 russian spy numbers
 f03f polish spy numbers
 f03i polish spy numbers
@@ -539,6 +542,7 @@ l2t mar del plata radio
 l2w comodoro rivadavia
 l2w comodoro rivadavia dsc
 labytnangi radio
+la paz volmet x15
 lae aero
 las palmas radio
 las palmas radio dsc
@@ -921,6 +925,7 @@ rcv russian navy
 rdl russian navy
 rea4 airforce meteo x40
 red crescent ale
+resistenciavolmetx20x50
 reydovo-2 radio
 reykjavik hfdl (id3)
 reykjavik radio
