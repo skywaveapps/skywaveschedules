@@ -24,6 +24,9 @@ v2.2.10
 - Fixed some translation issues
 - Fixed time zone issue	
 - Fixed some visual issues
-
-v2.2.11 (UNRELEASED)
 - Fixed AOKI day detect
+
+v2.2.11
+- Fixed schedule version check bug
+- Fixed download bug
+
