@@ -19,6 +19,7 @@
 9vf209 meteo fax
 9yl north post radio
 a3a nukualofa radio
+aberdeen coastguard
 aberdeen coastguard wx
 abidjan radio
 abu dhabi onshore oil
@@ -84,6 +85,7 @@ beijing ale
 beijing volmet x15,x45
 belaya gora radio
 belfast coast guard
+belfast coastguard
 belgian navy stanag
 ben thuy radio
 bilbao radio
@@ -101,6 +103,7 @@ brazilian army ale
 brazilian navy
 brazilian navy ale
 brazzaville radio
+bremen rescue radio
 brisbane radio
 bucuresti aero
 bulgaria diplo
@@ -237,6 +240,7 @@ dhm91 german air force
 dho38 german navy
 dikson radio
 doha radio
+dover coastguard
 dushanbe aero
 dutch military ale
 dutch navy ale
@@ -270,6 +274,7 @@ f06 russian spy numbers
 f06a russian spy numbers
 falkland fisheries dept
 falmouth coastguard dsc
+falmouth coastguard
 falmouth coastguard wx
 fanny french ny usb/fsk
 fav22 morse training
@@ -369,6 +374,7 @@ hlw seoul radio
 hma pyongyang meteo
 ho chi minh city r.xvs
 ho chi minh ville radio dsc
+holyhead coastguard
 hon gai radio
 hong kong observatory
 hongkong volmet x15,x45
@@ -377,6 +383,7 @@ hornafjördur radio tft
 hsw64 bangkok meteo fax
 hue radio
 humber coastguard dsc
+humber coastguard
 humber coastguard wx
 humpty doo stanag
 hungarian military ale
@@ -412,6 +419,7 @@ italycable
 ivashka-2 radio
 jakarta radio
 jamaica coast guard wx
+jamaica coastguard
 jamaica coastguard wx
 jeddah radio dsc
 jfc misaki fisheries fax
@@ -568,6 +576,7 @@ magadan radio
 magadan radio 6
 maikop aero atlantida3
 makhachkala aero ridan
+malin head coastguard
 malin head wx
 malta radio
 malta radio dsc
@@ -581,6 +590,7 @@ mauritius radio
 maykop aero atlantida3
 melbourne radio
 mexican military ale
+milfordhaven coastguard
 minvody aero shpora
 minvody aero ubezhische
 minvody aero uzbezhische
@@ -1014,6 +1024,7 @@ shanwick radio c
 shanwick radio f
 shares emergency net
 shares emergeny net
+shetland coastguard
 shetland coastguard wx
 siglufjördur radio tfx
 singapore radio
@@ -1025,6 +1036,7 @@ slot machine
 slovak military ale
 slovenian military ale
 sochi aero shtat
+solent coastguard
 spanish navy fsk
 spl polish rescue r.
 ssb meteorogical broadcasting
@@ -1036,6 +1048,7 @@ sterlegova radio
 stockholm radio
 stockholm radio (air)
 stolbovoy radio
+stornoway coastguard
 stornoway coastguard wx
 stpeterbg volmet x05,35
 surgut aero tsadik-dva
@@ -1069,6 +1082,7 @@ tbb ny ankara stanag
 tbb turk.navy stanag
 tbo turk.navy stanag
 telenor kystradio
+telenor kystradio south
 telenor maritim radio
 telnor kystradio
 texas dot net
@@ -1134,6 +1148,7 @@ v5w walvis bay radio
 vaj prince rupert radio
 valencia radio
 valencia radio dsc
+valentia coastguard
 valentia radio wx
 varandey gazprom radio
 vcf les escoumins qc
