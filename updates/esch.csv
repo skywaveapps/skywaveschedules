@@ -11105,7 +11105,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1380;0000-2400;1234567;ARG;Radio Buenas Nuevas;S;ARG;Merlo;1;;
 1380;0000-2400;1234567;ARG;Radio La Voz;S;ARG;Monte Chingolo;1;;
 1380;0000-2400;1234567;ARG;La Super Sport;S;ARG;Temperley;1;;
-1380;0000-2400;1234567;ARG;Radio Los Toldos;S;ARG;Los Toldos=General Viamonte;1;;
+1380;0000-2400;1234567;ARG;Radio Los Toldos;S;ARG;Los Toldos;General Viamonte;1;
 1380;0000-2400;1234567;ARG;La Voz del Sudeste;S;ARG;Necochea-b;1;;
 1380;0000-2400;1234567;B;ZYH909 Rádio Tropical;P;B;Caxias;1;;
 1380;0000-2400;1234567;PRU;Radio Bellavista;S;PRU;Sullana-b;1;;
@@ -19122,6 +19122,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7305;1900-1930;Su;USA;Follow the Bible Min.;E;SAf;/ASC;5;;
 7305;0130-0230;;USA;Voice of America;BR;SEA;/THA-u;0;;
 7305;0230-0330;;USA;Voice of America;BR;SEA;/THA-u;6;1804;3010
+7305;2130-2200;Tu;G;BBC Antarctic Midwinter Broadcast;E;SAO;/ASC;6;2106;2106
 7309;1955-2005;We;POL;S11a Polish Spy Numbers;R;;p;1;0111;2802[0119]
 7309;2000-2010;Fr;RUS;S06 Russian Spy Numbers;R;RUS;m;1;0111;3011[1119]
 7310;0000-2400;;CHN;CNR1 Jammer/Firedrake;M;CHN;;1;;[0422]
@@ -21044,6 +21045,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9500;1802-1847;Sa;SWZ;Trans World Radio;E;EAf;;1;;
 9500;1802-1902;Su;SWZ;Trans World Radio;E;EAf;;1;;
 9505;1530-1630;;TUR;Voice of Turkey;AZ;Cau;e;0;;
+9505;2130-2200;Tu;G;BBC Antarctic Midwinter Broadcast;E;SAO;w;6;2106;2106
 9510;2000-2100;;ALG;Radio Algerienne;A;WAf;/F-i;0;;
 9510;0100-0200;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 9510;0510-0800;;CHN;PBS Xinjiang;MO;CHN;uc;1;;[0222]
@@ -23639,6 +23641,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 12065;0900-1000;;TWN;Radio Taiwan Int.;AM;INS;p;1;;[0522]
 12065;1000-1030;;TWN;Radio Taiwan Int.;CA;INS;p;1;;[0422]
 12065;1030-1100;;TWN;Radio Taiwan Int.;HK;INS;p;1;;
+12065;2130-2200;Tu;G;BBC Antarctic Midwinter Broadcast;E;SAO;w;6;2106;2106
 12067;0845-0855;Mo,We;POL;E11 Polish Spy Numbers;E;;p;1;0111;2802[0122]
 12067;1925-1935;Th;POL;E11 Polish Spy Numbers;E;;p;1;0111;2802[0119]
 12070;1130-1200;;CHN;China Radio Int.;TAG;PHL;n;0;;
