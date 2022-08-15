@@ -410,6 +410,7 @@ irit weather radio
 irkutsk volmet x25,x55
 isafjördur radio tfz
 isewan martis x00,x30
+isewan martis x15x45
 isewan martis x15,x45
 isla de pascua radio
 israeli air force ale
@@ -622,6 +623,7 @@ n'djamena radio
 naa us navy cutler
 nadi radio
 nadym aero
+nagoya martis x00x30
 nagoya martis x00,x30
 nagoya martis x15,x45
 naha radio cwp
@@ -642,6 +644,8 @@ new york radio car-a
 new york radio car-b
 new york radio e
 new york radio ldoc
+new york radio nat-a
+new york radio nat-e
 new york volmet x00,x30
 nha trang radio xvn
 niamey radio
@@ -988,8 +992,10 @@ san francisco radio 1
 san francisco radio 2
 san francisco radio 3
 san francisco radio cwp
+san francisco radio cep
 san francisco radio np1
 san francisco radio np2
+san francisco radio sp
 santa cruz hfdl (id13)
 santa maria radio
 santa maria radio a
@@ -1039,6 +1045,7 @@ sochi aero shtat
 solent coastguard
 spanish navy fsk
 spl polish rescue r.
+ssb meteorogical broadca
 ssb meteorogical broadcasting
 ssca doodah transatlnet
 ssca radio service net
