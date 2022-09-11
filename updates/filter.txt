@@ -43,6 +43,7 @@ als162 time signals
 amamapare radio
 amazon military ale
 amderma aero
+american red cross
 american red cross ale
 anadyr radio
 angolan police ale
@@ -402,6 +403,7 @@ idr ny roma
 idr ny roma stanag
 illinois emergency ale
 internal ministry ale
+international red cross
 iraqi navy ale
 iraqi security fcs. ale
 iraqi security fcs.ale
@@ -993,6 +995,7 @@ san francisco radio 2
 san francisco radio 3
 san francisco radio cwp
 san francisco radio cep
+san francisco radio np
 san francisco radio np1
 san francisco radio np2
 san francisco radio sp
