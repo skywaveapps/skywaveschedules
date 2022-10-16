@@ -348,6 +348,7 @@ hai phong radio xvg
 hai phong radio xvg dsc
 haikou radio (x20)
 haldia radio dsc
+haarp
 hat yai hfdl (id6)
 heb bern radio
 hfd radio station
@@ -633,6 +634,7 @@ nalchik aero tosno
 naryan-mar aero
 naryan-mar radio 2
 nato lisboa stanag
+nau us navy
 nau isabela rtty
 nau us navy stanag
 navy athens stanag
@@ -685,6 +687,7 @@ npn guam stanag
 npn stanag
 nrv navtex guam
 nrv uscg guam
+nss us navy
 nss us navy rtty
 nss us navy rtty/stanag
 nsy sicily
@@ -952,6 +955,7 @@ rio de janeiro radio dsc
 rit russian navy
 riverhead hfdl (id4)
 rjd russian navy
+rjd59 russian navy
 rjh63 krasnodar
 rjh66 bishkek
 rjh69 molodechno
