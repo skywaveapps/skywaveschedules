@@ -107,6 +107,7 @@ brazzaville radio
 bremen rescue radio
 brisbane radio
 bucuresti aero
+bulg.military promrch
 bulgaria diplo
 ca mau radio
 cabo de gata radio
@@ -369,6 +370,7 @@ hll seoul meteo x12-x20
 hll seoul meteo x20-x30
 hll seoul meteo x20-x37
 hll seoul meteo x37-x40
+hll seoul meteorological
 hll seoul meteorological radio
 hln gunsan radio
 hlo seoul radio
@@ -1096,6 +1098,7 @@ tbb ny ankara stanag
 tbb turk.navy stanag
 tbo turk.navy stanag
 telenor kystradio
+telenor kystradio nouth
 telenor kystradio south
 telenor maritim radio
 telnor kystradio
