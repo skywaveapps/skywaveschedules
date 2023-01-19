@@ -1091,6 +1091,7 @@ taman radio
 target engineering con.
 tarifa radio
 tarko-sale aero
+tas maritime radio
 tashkent aero
 tashkent volmet x10,x40
 tashkent volmet x20,x50
@@ -1098,6 +1099,7 @@ tbb ny ankara stanag
 tbb turk.navy stanag
 tbo turk.navy stanag
 telenor kystradio
+telenor kystradio north
 telenor kystradio nouth
 telenor kystradio south
 telenor maritim radio
