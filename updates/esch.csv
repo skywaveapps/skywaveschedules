@@ -5295,7 +5295,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 950;0000-2400;1234567;EQA;HCAV1 Radio Chaskis del Norte;S;EQA;Atuntaqui;1;;
 950;0000-2400;1234567;CLM;Caracol Radio Pereira;S;CLM;Pereira-e;1;;
 950;0000-2400;1234567;CLM;Armonias Boyacenses;S;CLM;Tunja-f;1;;
-954;0000-2400;1234567;CZE;Radiožurnal;CZ;;České Budějovice;1;;
+954;0000-2400;1234567;CZE;Radiožurnal DIGITAL;CZ;;České Budějovice;1;;
 954;0300-1015;1234567;TUR;TRT Trabzon;TU;ME;Trabzon-Deliktas;1;;
 954;0300-2300;12345;CZE;ČRo Dvojka;CZ;CZE;Dobrochov;1;;
 954;0400-2300;67;CZE;ČRo Dvojka;CZ;CZE;Dobrochov;1;;
@@ -5306,7 +5306,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 954;0000-2400;1234567;E;Onda Cero Madrid;S;E;Madrid/Pozuelo de Alarcón (EAJ2/7);1;;
 954;0000-2400;1234567;ETH;Radio Sidama;;ETH;Yirga Alem;1;;
 954;0300-1015;1234567;TUR;TRT Trabzon;TU;TUR;Trabzon-Deliktas;1;;
-954;0000-2400;1234567;CZE;Radiožurnal;CZ;;České Budějovice;1;;
 954;0000-2400;1234567;CHN;PBS Hulun Buir;MO;CHN;ha;1;;
 954;0000-2400;1234567;AUS;2UE;E;AUS;Sydney/Homebush Bay;1;;
 954;0000-2400;1234567;AUS;4EL 4CA Classic Hits;E;AUS;Gordonvale/Vohland Rd;1;;
