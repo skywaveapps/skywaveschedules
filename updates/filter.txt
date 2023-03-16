@@ -350,6 +350,7 @@ hai phong radio xvg dsc
 haikou radio (x20)
 haldia radio dsc
 haarp
+haarp asteroid bounce
 hat yai hfdl (id6)
 heb bern radio
 hfd radio station
@@ -436,6 +437,7 @@ jfg shizuokaken fishery
 jfm muroto fishery
 jfq makurazaki fishery
 jfx kagoshima fishery
+jfx kagoshima fish.fax
 jg2xa propag.studies
 jjc kyodo news agcy fax
 jjr20 jsd net
@@ -1059,6 +1061,7 @@ ssb meteorogical broadcasting
 ssca doodah transatlnet
 ssca radio service net
 st petersburg radio ugc
+st.petersburg wx fax
 stavropol aero tom
 sterlegova radio
 stockholm radio
@@ -1139,6 +1142,8 @@ ufa aero
 ufm3 nevelsk radio
 ufn novorossiysk radio
 uge arkhangelsk radio
+ugc st.petersburg radio
+ugc st.petersburg wx fax
 uk dhfcs stanag
 uk mil.dhfcs stanag
 uk mod dhfcs
@@ -1183,6 +1188,7 @@ vff iqaluit meteo
 vff iqaluit meteo fax
 vff iqaluit radio
 vff iqaluit radio dsc
+vietnam maritime comm.
 vietnamese spy numbers
 vitebsk aero
 vladikavkaz aero stavok
@@ -1235,6 +1241,7 @@ xsi sanya radio
 xsj zhanjiang radio
 xsl fuzhou radio
 xsm xiamen radio
+xsq guangzhou meteo fax
 xsq guangzhou r.
 xsq guangzhou r. telex
 xsq guangzhou radio
