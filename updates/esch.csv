@@ -4304,7 +4304,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 873;2100-2300;irr;HNG;Nemzetiségi Rádió;D;HNG;p;2;;
 873;1800-1900;;KRE;PBS Pyongyang Pansong;K;FE;sn;1;;
 873;1900-1950;;KRE;PBS Pyongyang Pansong;K;FE;sn;1;;
-873;0000-2400;1234567;RUS;DRM Test;R;;;1;;
 873;0600-1900;1234567;ALG;Radio Ghardaia;A;NAf;Ghardaia;1;;
 873;0000-2400;1234567;ARS;SBA Al-Quran al-Karim;A;ME;Ar Rass;1;;
 873;0000-2400;1234567;BOT;Radio Botswana 1;;BOT;Ghanzi;1;;
@@ -5295,7 +5294,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 950;0000-2400;1234567;EQA;HCAV1 Radio Chaskis del Norte;S;EQA;Atuntaqui;1;;
 950;0000-2400;1234567;CLM;Caracol Radio Pereira;S;CLM;Pereira-e;1;;
 950;0000-2400;1234567;CLM;Armonias Boyacenses;S;CLM;Tunja-f;1;;
-954;0000-2400;1234567;CZE;Radiožurnal DIGITAL;CZ;;České Budějovice;1;;
 954;0300-1015;1234567;TUR;TRT Trabzon;TU;ME;Trabzon-Deliktas;1;;
 954;0300-2300;12345;CZE;ČRo Dvojka;CZ;CZE;Dobrochov;1;;
 954;0400-2300;67;CZE;ČRo Dvojka;CZ;CZE;Dobrochov;1;;
@@ -5306,6 +5304,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 954;0000-2400;1234567;E;Onda Cero Madrid;S;E;Madrid/Pozuelo de Alarcón (EAJ2/7);1;;
 954;0000-2400;1234567;ETH;Radio Sidama;;ETH;Yirga Alem;1;;
 954;0300-1015;1234567;TUR;TRT Trabzon;TU;TUR;Trabzon-Deliktas;1;;
+954;0000-2400;1234567;CZE;Radiožurnal;CZ;;České Budějovice;1;;
 954;0000-2400;1234567;CHN;PBS Hulun Buir;MO;CHN;ha;1;;
 954;0000-2400;1234567;AUS;2UE;E;AUS;Sydney/Homebush Bay;1;;
 954;0000-2400;1234567;AUS;4EL 4CA Classic Hits;E;AUS;Gordonvale/Vohland Rd;1;;
@@ -6278,7 +6277,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1035;0900-1100;1234567;ETH;Radio Oromia;;ETH;Adama/Nazret;1;;
 1035;1600-1800;1234567;ETH;Radio Oromia;;ETH;Adama/Nazret;1;;
 1035;0000-2400;1234567;G;Lyca Gold;E;G;Crystal Palace;1;;
-1035;0000-2400;1234567;G;West Sound AM;E;G;Symington (Ayr);1;;
+1035;0000-2400;1234567;G;West Sound AM/Greatest Hits Radio;E;G;Symington (Ayr);1;;
 1035;1000-1200;6;HOL;Neverland AM;NL;HOL;Venlo;1;;
 1035;0000-2400;1234567;AUS;2EA SBS Radio 2;E;AUS;Wollongong/Windang;1;;
 1035;0000-2400;1234567;NZL;2ZB Newstalk ZB;E;Oc;Wellington/Titahi Bay;1;;
@@ -6602,7 +6601,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1060;0000-2400;1234567;USA;Radio Unica 1060 KDYL;E;USA;South Salt Lake, UT;1;;
 1060;0000-2400;1234567;USA;KGFX 1060 AM 107.1 FM;E;USA;Pierre, SD;1;;
 1060;0000-2400;1234567;USA;KIJN Jesus Radio;E;USA;Farwell, TX;1;;
-1060;1400-0200;1234567;USA;KXPL La Voz 1060;S;USA;El Paso, TX;1;;
 1060;0000-2400;1234567;USA;WLNO 1060 AM;E;USA;New Orleans, LA;1;;
 1060;0000-2400;1234567;USA;KDUS NBC Sports Radio AM 1060;E;USA;Tempe, AZ;1;;
 1060;0000-2400;1234567;USA;KFOY 1060 AM;E;USA;Sparks, NV;1;;
@@ -7157,7 +7155,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1107;2300-0710;56;E;RNE Radio Nacional;S;E;Ponferrada/Fuentesnuevas;1;;
 1107;0000-2400;1234567;E;RNE Radio 5;S;E;Teruel/La Muela;1;;
 1107;0000-2400;1234567;G;TalkSPORT;E;G;Lydd/Romney Marsh;1;;
-1107;0000-2400;1234567;G;MFR 2;E;G;Tarbat Ness (Inverness);1;;
+1107;0000-2400;1234567;G;MFR 2/Greatest Hits Radio;E;G;Tarbat Ness (Inverness);1;;
 1107;0000-2400;1234567;G;TalkSPORT;E;G;Fareham;1;;
 1107;0000-2400;1234567;G;TalkSPORT;E;G;Duxhurst;1;;
 1107;0000-2400;1234567;G;TalkSPORT;E;G;Boston/Kirton Drove;1;;
@@ -7792,7 +7790,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1152;2300-0710;56;E;RNE Radio Nacional;S;E;Zamora/Ctra. Aldehuela;1;;
 1152;0000-2400;1234567;E;RNE Radio 5;S;E;Lleida/Lérida/Alcoletge;1;;
 1152;0000-2400;1234567;G;LBC News 1152;E;G;London/Saffron Green;1;;
-1152;0000-2400;1234567;G;Clyde 2;E;G;Glasgow/Dechmont Hill;1;;
+1152;0000-2400;1234567;G;Clyde 2/Greatest Hits Radio;E;G;Glasgow/Dechmont Hill;1;;
 1152;0000-2400;1234567;G;Absolute Classic Rock;E;G;Birmingham/Langley Mill-A;1;;
 1152;0000-2400;1234567;G;Smooth Radio Norfolk;E;G;Brundall/Ferry Lane;1;;
 1152;0000-2400;1234567;G;Smooth Radio Plymouth;E;G;Plymouth/Plumer Barracks;1;;
@@ -7894,7 +7892,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1161;1930-1940;;ALG;R.Algiers Int.;E;NAf;s;1;;
 1161;1941-2000;;ALG;R.Algiers Int.;S;NAf;s;1;;
 1161;0400-2200;1234567;EGY;ERTU Mid-Delta Radio;;ME;Tanta;1;;
-1161;0000-2400;1234567;G;Tay 2;E;G;Dundee/Greenside Scalp;1;;
+1161;0000-2400;1234567;G;Tay 2/Greatest Hits Radio;E;G;Dundee/Greenside Scalp;1;;
 1161;0000-2400;1234567;G;Smooth Radio Wiltshire;E;G;Blunsdon;1;;
 1161;0000-2400;1234567;NZL;2XM Te Upoko o Te Ika;E,MAO;Oc;Wellington/Titahi Bay;1;;
 1161;0000-2400;1234567;AUS;4FC Radio TAB;E;AUS;Maryborough/Dundathu;1;;
@@ -11334,6 +11332,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1410;0000-2400;1234567;PRU;OCU5G Radio Genesis;S;PRU;Huanta;1;;
 1410;0000-2400;1234567;CLM;La Voz del Carare;S;CLM;Vélez;1;;
 1410;0000-2400;1234567;CLM;Emisora Cultural Universidad de Antioquia;S;CLM;Medellín-a;1;;
+1410;0000-2400;1234567;ARG;LRK205 Radio Maria Argentina;S;ARG;Iruya;1;;
 1413;0030-0100;;G;BBC;DR;AFG;/OMA-a;1;;
 1413;0100-0200;;G;BBC;E;SAs;/OMA-a;1;;
 1413;0200-0230;;G;BBC;E;SAs;/OMA-a;1;;
@@ -13088,7 +13087,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1530;0000-2400;1234567;USA;KZNX La Palabra Radio;S;USA;Creedmoor, TX;1;;
 1530;1200-2400;1234567;USA;WLLQ La Grande 1000 AM;S;USA;Chapel Hill, NC;1;;
 1530;0000-2400;1234567;USA;WTTI HOPE 93.3;E;USA;Dalton, GA;1;;
-1530;0000-2400;1234567;USA;KQSP;E;USA;Shakopee, MN;1;;
 1530;0000-2400;1234567;USA;KXTD Que Buena 1530 AM;S;USA;Wagoner, OK;1;;
 1530;0000-2400;1234567;USA;WDJZ 1530 AM;E;USA;Bridgeport, CT;1;;
 1530;0000-2400;1234567;USA;1530 WLCO;E;USA;Lapeer, MI;1;;
@@ -13284,7 +13282,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1548;2110-2130;SaSu;USA;Trans World Radio;SR;Eu;/MDA;2;;
 1548;0000-2400;1234567;AFS;Radio Islam;E;AFS;Lenasia;1;;
 1548;0000-2400;1234567;G;Gold London;E;G;London/Saffron Green;1;;
-1548;0000-2400;1234567;G;Forth 2;E;G;Edinburgh/Colinswell;1;;
+1548;0000-2400;1234567;G;Forth 2/Greatest Hits Radio;E;G;Edinburgh/Colinswell;1;;
 1548;0000-2400;1234567;G;Greatest Hits Radio South Yorkshire;E;G;Sheffield/Skew Hill;1;;
 1548;0330-2100;1234567;IRN;IRIB Voice of I.R.Iran;FS;ME;Gachsaran;1;;
 1548;0000-2400;1234567;IRN;IRIB Voice of I.R.Iran;FS;ME;Sanandaj;1;;
@@ -13460,7 +13458,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 1560;0000-2400;1234567;USA;WAHT 105.5 The Roar;E;USA;Clemson, SC;1;;
 1560;0000-2400;1234567;USA;WFSP Solid Gospel AM1560;E;USA;Kingwood, WV;1;;
 1560;0000-2400;1234567;USA;WKDO The Vault;E;USA;Liberty, KY;1;;
-1560;0000-2400;1234567;USA;Country 102.9 WKIK;E;USA;La Plata, MD;1;;
 1560;0000-2400;1234567;USA;WRIN The Bear Country 1560;E;USA;Rensselaer, IN;1;;
 1560;0000-2400;1234567;USA;WSLA Radio;E;USA;Slidell, LA;1;;
 1560;0000-2400;1234567;USA;WTNS-AM 1560 AM;E;USA;Coshocton, OH;1;;
@@ -15711,6 +15708,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4014;0430-0600;;AFS;ZSJ CapeNaval Meteo Fax;;SAf;ct;1;;
 4014;1600-1730;;AFS;ZSJ CapeNaval Meteo Fax;;SAf;ct;1;;
 4014;2230-2300;;AFS;ZSJ CapeNaval Meteo Fax;;SAf;ct;1;;
+4015;0000-0800;irr;USA;R.Vostochnaya Zvezda,AZ;R;WNA;xx;1;;[0323]
+4015;0000-2400;irr;USA;Wolverine Radio;E;ENA;xx;1;;
 4018;0000-2400;;CNR;Las Palmas Radio;S;SEu;fc;1;;
 4018;0000-2400;;E;Cabo la Nao Radio;S;SEu;ag;1;;
 4018;0000-2400;;E;Coruña Radio;S;SEu;bo;1;;
@@ -16038,6 +16037,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 4820;1000-1800;;CHN;PBS Xizang;M;CHN;t;1;;[1222]
 4820;2000-2100;We-Mo;CHN;PBS Xizang;M;CHN;t;1;;
 4820;2100-0300;;CHN;PBS Xizang;M;CHN;t;1;;[1019]
+4820;0000-2400;;PRU;Red Radio Integridad;S;PRU;;1;1503;[0323]
 4824;1200-1210;We;RUS;G06 Russian Spy Numbers;D;RUS;sk;1;0111;2802
 4834;0000-2400;;RUS;Elista Aero Triol;R;EEu;el;1;;[0217]
 4835;0400-1000;Tests;AUS;Shortwave Australia;E;AUS;be;1;;[1222]
@@ -16221,7 +16221,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5040;2300-2400;;CUB;Radio Habana Cuba;E;CAm;b;5;;
 5040;1830-2100;;VUT;Radio Vanuatu;BSL;VUT;;1;0301;[0123]
 5040;2100-0659;;VUT;Radio Vanuatu;BSL;VUT;;6;0411;0612[1222]
-5045;0839-1400;;AUS;Bay Island Radio;-MX;AUS;ri;1;1302;[0223]
+5045;0839-1400;;AUS;Bay Islands Radio;-MX;AUS;ri;1;1302;[0223]
 5045;0730-0930;Test;NFK;Radio DX;E;Oc;;6;1101;1101
 5045;0725-0825;Test;NFK;Radio DX;E;Oc;;6;1301;1301
 5045;0800-1100;Test;NFK;Radio DX;E;Oc;;6;1401;1401
@@ -16357,7 +16357,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5448;0430-1600;;RUS;The Pip (Kaplya) Rostov;-TS;EEu;rp;1;0103;3004[0321]
 5448;0430-1630;;RUS;The Pip (Kaplya) Rostov;-TS;EEu;rp;1;0109;3110
 5448;0530-1400;;RUS;The Pip (Kaplya) Rostov;-TS;EEu;rp;1;0111;2802[0118]
-5450;0000-2400;;G;RAF Volmet Military 1;E;Eu;ic;1;;[0123]
+5450;0000-2400;;G;RAF Volmet Military 1;E;Eu;ic;1;;[0323]
 5451;0000-2400;;GUM;Agana Guam HFDL (ID16);-HF;WOc;h;1;;
 5460;0000-2400;;IRL;Shannon Aeradio J;E;NAO;s;1;;
 5466;2230-2240;irr;RUS;S06 Russian Spy Numbers;R;RUS;m;1;0110;3110
@@ -16371,7 +16371,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5484;0000-2400;;IRL;Shannon Aeradio I;E;NAO;s;1;;
 5499;0000-2400;;MDG;Antanan.Volmet x25,x50;E;EAf;;1;;
 5502;0000-2400;;KOR;Seoul Muan HFDL (ID10);-HF;FE;m;1;;
-5505;0000-2400;;IRL;Shannon Volmet;E;Eu;s;1;;[0123]
+5505;0000-2400;;IRL;Shannon Volmet;E;Eu;s;1;;[0323]
 5508;0000-2400;;USA;San Francisco HFDL(ID1);-HF;WNA;dx;1;;[0519]
 5514;0000-2400;;HWA;Moloka'i HFDL (ID2);-HF;Oc;m;1;;[1219]
 5517;0000-2400;;SOM;Mogadishu Radio;E;EAf;ma;1;;[0216]
@@ -16585,6 +16585,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 5895;0559-1932;;NOR;Radio Northern Star/Sea;NO;NEu;be;2;0602;[0323]
 5895;1600-2310;;NOR;Radio Northern Star/Sea;NO;NEu;be;6;3010;3101[1222]
 5895;1500-1530;;S;IBRA Radio;BE;SAs;/UZB;0;;
+5900;0000-0600;;ALG;Radio Algerienne;A;WAf;o;6;0103;2603[0323]
+5900;0600-0800;;ALG;Radio Algerienne;A;WAf;o;6;0103;2603[0323]
 5900;2300-0100;;ALS;KSKO McGrath;E;Eu;/BUL-s;6;2312;2312
 5900;1000-0200;;B;Rádio Casa AM;P;B;am;1;;[1222]
 5900;1930-1945;;CAN;Bible Voice;A;ME;/BUL-s;0;;
@@ -17091,7 +17093,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6060;0400-0500;;CUB;Radio Habana Cuba;S;ENA;b;5;;
 6060;0500-0600;;CUB;Radio Habana Cuba;E;ENA;b;4;;
 6060;0600-0700;;CUB;Radio Habana Cuba;E;ENA;b;2;;[0223]
-6060;0600-0700;;CUB;Radio Habana Cuba;E;ENA;b;5;;[1022]
+6060;0600-0700;;CUB;Radio Habana Cuba;E;ENA;b;5;;[0323]
 6060;0700-0800;irr;CUB;Radio Habana Cuba;E;ENA;b;2;;[1222]
 6060;1730-0230;;IRN;IRIB Voice of I.R.Iran;A;NAf;z;0;;
 6060;1400-1600;;USA;Radio Liberty;TK;CAs;/KWT;6;3010;1111
@@ -17429,7 +17431,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 6175;1700-1800;;CHN;CRI/CGTN Radio;E;SEA;n;0;;
 6175;2200-2300;;CHN;China Radio Int.;P;SEu;x;0;;
 6175;0400-0500;Mo-Fr;USA;Voice of America;ZWE;ZWE;/BOT;0;;
-6180;0800-0300;;B;Rádio Nacional Amazônia;P;B;b;1;;[0323]
+6180;0750-0300;;B;Rádio Nacional Amazônia;P;B;b;1;;[0323]
 6180;1200-1500;;CHN;China National Radio 17;KZ;CHN;L;4;;[0119]
 6180;1220-1232;SaSu;CHN;China National Radio 17;E,R;CHN;L;4;;
 6180;0000-0100;;CHN;CRI/CGTN Radio;E;SAs;ka;0;;
@@ -18247,9 +18249,10 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 7260;2200-0500;irr;MNG;Mongolian Radio 3;MO;As;u;1;0201;[0123]
 7260;2100-0659;;VUT;Radio Vanuatu;BSL;VUT;;6;3010;0311[1022]
 7260;2100-0659;;VUT;Radio Vanuatu;BSL;VUT;;6;0301;1801[0123]
-7260;2100-0659;;VUT;Radio Vanuatu;BSL;VUT;;1;0803;[0323]
+7260;2100-0659;;VUT;Radio Vanuatu;BSL;VUT;;6;0803;1503[0323]
 7260;2100-1105;;VUT;Radio Vanuatu;BSL;VUT;;6;0712;0201[0123]
 7260;2100-1105;;VUT;Radio Vanuatu;BSL;VUT;;6;0402;0703[0323]
+7260;2100-1105;;VUT;Radio Vanuatu;BSL;VUT;;1;1603;[0323]
 7265;1300-1400;;CHN;China Radio Int.;HI;SAs;u;0;;
 7265;1400-1500;;CHN;China Radio Int.;SI;CLN;ka;0;;
 7265;1500-1600;;CHN;China Radio Int.;HI;SAs;ka;0;;
@@ -19656,7 +19659,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 8951;0000-2400;;USA;San Francisco Radio NP;E;NOc;/HWA-m;1;;
 8954;0000-2400;;IRL;Shannon Aeradio J;E;NAO;s;1;;
 8957;0000-2400;;BOL;Santa Cruz HFDL (ID13);-HF;SAm;sz;1;;[0419]
-8957;0000-2400;;IRL;Shannon Volmet;E;Eu;s;1;;[0223]
+8957;0000-2400;;IRL;Shannon Volmet;E;Eu;s;1;;[0323]
 8977;0000-2400;;ISL;Reykjavik HFDL (ID3);-HF;NAO;r;1;;[1019]
 8992;0000-2400;;USA;US Air Force Messages;E;NAm;;1;;[0223]
 9050;0700-0710;Mo,Th;POL;S11a Polish Spy Numbers;R;;p;1;0111;2802
@@ -19838,8 +19841,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9265;2100-2130;We;USA;WINB;S;NAm;rl;2;;
 9265;2200-2230;We;USA;WINB;S;NAm;rl;2;;
 9265;2330-2400;Mo;USA;WINB;S;NAm;rl;2;;
-9265;0030-0100;5;USA;Shortwave Radiogram;E;NAm;rl;6;;
-9265;0330-0400;6;USA;Shortwave Radiogram;E;NAm;rl;6;;
+9265;2330-2400;4;USA;Shortwave Radiogram;E;NAm;rl;6;;
+9265;0230-0300;6;USA;Shortwave Radiogram;E;NAm;rl;6;;
 9266;2040-2050;We;RUS;E07a Russian Spy Numbers;E;RUS;m;1;0105;3108
 9274;1450-1500;Th,Sa;RUS;E07 Russian Spy Numbers;E;RUS;m;1;0111;3011
 9275;1000-1600;;HKG;FEBC i-Radio Liangyou;M;FE;/PHL-b;1;;[0123]
@@ -20395,7 +20398,6 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9580;0800-0930;We-Mo;CHN;PBS Xizang;TB;CHN;t;1;;[0820]
 9580;2315-2400;;CVA;Radio Vaticana;VN;SEA;/PHL-t;0;;
 9580;1000-1100;;G;BBC;E;SEA;/SNG;0;;
-9580;1000-1100;;G;BBC;E;INS;/SNG;0;;
 9580;1100-1200;;G;BBC;E;SEA;/SNG;0;;
 9580;0100-0200;;KOR;KBS World Radio;J;J;k;1;;
 9580;0200-0300;;KOR;KBS World Radio;E;SAm;k;1;;
@@ -21199,7 +21201,8 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 9975;1335-1345;SaSu;GUM;KTWR Trans World Radio;M;FE;m;1;;
 9975;1345-1400;Sa;GUM;KTWR Trans World Radio;M;FE;m;1;;
 9975;0100-0130;Su;USA;KVOH Voice of Hope;S;CAm;rs;2;;
-9975;0100-0600;Sa-Mo;USA;KVOH Voice of Hope;E;CAm;rs;2;;[0323]
+9975;0100-0600;Sa-Mo;USA;KVOH Voice of Hope;E;CAm;rs;6;3010;1102[0323]
+9975;0100-0600;Fr-Mo;USA;KVOH Voice of Hope;E;CAm;rs;2;1202;[0323]
 9975;1630-1700;;USA;VoA Radio Ashna;PS;AFG;/D-L;0;;
 9975;1700-1730;;USA;VoA Radio Ashna;DR;AFG;/D-L;0;;
 9975;1900-2100;;USA;Voice of America;K;FE;/MRA-t;6;3010;1111
@@ -22148,7 +22151,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11775;0600-1700;;CLA;Dengê Welat;KU;ME;/BUL-s;6;3010;1012[1022]
 11775;0600-1700;;TUR;Turkish Jammer;TU;ME;e;6;3010;1012[1222]
 11775;2300-2400;;USA;Radio Free Asia;M;FE;/MRA-s;0;;
-11780;0800-0300;;B;Rádio Nacional Amazônia;P;B;b;1;;[0323]
+11780;0750-0300;;B;Rádio Nacional Amazônia;P;B;b;1;;[0323]
 11780;0000-0100;;CHN;China Radio Int.;M;FE;j;0;;
 11780;0200-0300;;CHN;China Radio Int.;M;SAm;b;0;;
 11780;0420-0450;;IRN;IRIB Voice of I.R.Iran;HB;ME;s;0;;
@@ -22358,7 +22361,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 11885;1800-1830;;VTN;Voice of Vietnam;S;Eu;s;1;;[1122]
 11885;1830-1900;;VTN;Voice of Vietnam;D;Eu;s;1;;[0223]
 11885;1900-1930;;VTN;Voice of Vietnam;E;Eu;s;1;;[0322]
-11885;1930-2000;;VTN;Voice of Vietnam;F;Eu;s;1;;[0122]
+11885;1930-2000;;VTN;Voice of Vietnam;F;Eu;s;1;;[0323]
 11885;2000-2030;;VTN;Voice of Vietnam;D;Eu;s;1;;[0122]
 11885;2030-2100;;VTN;Voice of Vietnam;F;Eu;s;1;;
 11885;2100-2130;;VTN;Voice of Vietnam;S;Eu;s;1;;[1222]
@@ -24097,7 +24100,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15030;0410-0530;;IND;All India Radio Ext.Sce;E;As;b;6;2601;2601
 15030;0530-0630;;IND;All India Radio Ext.Sce;A;ME;b;1;;[1022]
 15030;0900-1030;;IND;All India Radio Ext.Sce;NE;NPL;b;1;;
-15030;1215-1315;;IND;All India Radio Ext.Sce;SWA;EAf;b;1;;[0123]
+15030;1215-1315;;IND;All India Radio Ext.Sce;SWA;EAf;b;1;;[0323]
 15034;1010-2400;;CAN;Trenton Volmet;E;NAm;tr;1;;[0323]
 15050;1030-1200;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;
 15050;0130-0230;;IND;All India Radio Ext.Sce;IN;SEA;b;1;;[1222]
@@ -24779,7 +24782,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 15745;1200-1300;;USA;Radio Free Asia;TB;FE;/MRA-t;0;;
 15745;1300-1400;;USA;Radio Free Asia;TB;FE;/TJK;6;3010;2901
 15755;1130-1700;Mo-Fr;USA;WINB DIGITAL;E;Eu;rl;1;;[1122]
-15755;1500-1530;5;USA;Shortwave Radiogram DIGITAL;E;NAm;rl;6;;
+15755;1400-1430;5;USA;Shortwave Radiogram DIGITAL;E;NAm;rl;6;;
 15760;2130-1500;;CHN;CNR1 Jammer/Firedrake;M;FE;;1;;[0223]
 15760;0000-0100;;TWN;Sound of Hope;M;FE;;1;;
 15760;0100-0200;;TWN;Sound of Hope;M;FE;;1;;[0521]
@@ -25208,14 +25211,19 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17440.1;1200-1300;;TWN;Sound of Hope;M;FE;;1;;[0122]
 17440.1;2300-2400;;TWN;Sound of Hope;M;FE;;1;;[1222]
 17453;0700-0710;Tu,Fr;RUS;E07 Russian Spy Numbers;E;RUS;m;1;0104;3004[0421]
+17460;0600-1900;;CLA;Dengê Welat;KU;ME;/UZB;1;1403;[0323]
+17460;0600-1900;;TUR;Turkish Jammer;TU;ME;e;0;;
 17462;0720-0730;Tu,Fr;RUS;E07 Russian Spy Numbers;E;RUS;m;1;0107;3107
 17462;0720-0730;Tu,Fr;RUS;E07 Russian Spy Numbers;E;RUS;m;1;0110;3110[1021]
-17470;1300-1900;;CLA;Dengê Welat;KU;ME;/UZB;6;1503;1503
+17470;0600-1900;;CLA;Dengê Welat;KU;ME;/UZB;1;1403;[0323]
 17470;0600-0610;Th;RUS;E06 Russian Spy Numbers;E;RUS;xx;1;0104;3004[0419]
+17470;0600-1900;;TUR;Turkish Jammer;TU;ME;e;0;;[0323]
 17472;1900-1910;Mo,We;RUS;E07 Russian Spy Numbers;E;RUS;m;1;0105;3105
 17475;0600-0610;Th;RUS;E06 Russian Spy Numbers;E;RUS;xx;1;0102;2802[0219]
 17475;0830-0840;Th;RUS;S06 Russian Spy Numbers;R;RUS;c;1;0105;3105
+17480;0600-1900;;CLA;Dengê Welat;KU;ME;/UZB;1;1403;[0323]
 17480;2154-2250;246;CUB;Cuban Spy Numbers;S;Am;b;1;;[0922]
+17480;0600-1900;;TUR;Turkish Jammer;TU;ME;e;0;;
 17485;0500-0700;;CHN;China Radio Int.;A;ME;ka;0;;
 17490;0000-0100;;CHN;China Radio Int.;CA;SEA;b;0;;
 17490;0100-0200;;CHN;China Radio Int.;AM;SEA;b;0;;
@@ -25295,7 +25303,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17595;0900-1000;;CHN;China National Radio 1;M;CHN;s;4;;[0219]
 17595;0900-1100;;CHN;China National Radio 1;M;CHN;s;5;;[0420]
 17595;2300-0600;;CHN;China National Radio 1;M;CHN;s;5;;
-17600;0600-2400;;ALG;Radio Algerienne;A;CAf;b;1;;[0123]
+17600;0600-2400;;ALG;Radio Algerienne;A;CAf;b;1;;[0323]
 17605;0030-0600;;CHN;China National Radio 1;M;CHN;b;5;;
 17605;0130-0600;;CHN;China National Radio 1;M;CHN;b;4;;
 17605;0600-0900;We-Mo;CHN;China National Radio 1;M;CHN;b;1;;[0222]
@@ -25341,7 +25349,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 17650;0400-0430;;USA;Adventist World Radio;AH;EAf;/CLN-t;0;;
 17655;1700-1800;;USA;Voice of America;P;Af;g;0;;
 17655;1800-1830;Mo-Fr;USA;Voice of America;P;Af;g;0;;
-17660;1400-1600;;ARS;SBA Saudi Radio Int.;F;WAf;r;1;;[0922]
+17660;1400-1600;;ARS;SBA Saudi Radio Int.;F;WAf;r;1;;[0323]
 17660;0300-0700;;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 17660;1000-1100;Sa;CHN;CNR1 Jammer/Firedrake;M;FE;;0;;
 17660;1200-1300;;F;Radio France Int.;F;WAf;i;0;;
@@ -25797,7 +25805,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 23861.5;0000-2400;;CAN;CGA984 HF Trading;-CW;NAm;ex;1;;
 25000;0000-2400;;USA;WWV Colorado (m.ann.);-TS;USA;fg;1;;[0123]
 25800;0000-2400;;DNK;World Music Radio;E;Eu;a;1;;[0323]
-26110;1600-1800;;USA;KOVR TV Feed Sacramento;E;WNA;ws;1;0102;[0323]
+26110;0000-2400;;USA;KOVR TV Feed Sacramento;E;WNA;ws;1;0102;[0323]
 26151;0000-2400;;CHN;XSV Tianjin Radio;M;FE;tj;1;;
 26160;0000-2400;;S;Stockholm Radio;E;NEu;gr;1;;
 26163;0000-2400;;GRC;SVO Olimpia Radio;-TY;SEu;o;1;;[0817]
