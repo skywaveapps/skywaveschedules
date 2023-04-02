@@ -51,6 +51,7 @@ annaba radio
 antanan.volmet x25,x50
 apsua radio
 aqaba radio dsc
+aqp navy karachi
 aqp pakistan navy
 archirodon constr.co.
 arecibo hf atmos.tests
@@ -139,6 +140,7 @@ central weather bureau
 cfh halifax meteo fax
 cfh halifax radio
 cfh halifax stanag
+cga984 hf trading
 channel marker a
 channel marker b
 channel marker c
